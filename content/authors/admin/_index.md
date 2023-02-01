@@ -1,47 +1,33 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: GLADIA
 
-# Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: "GLADIA"
+last_name: ""
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ""
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Department of Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Sapienza, University of Rome
+    url: https://www.uniroma1.it/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: ""
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
-# Education to show in About widget
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  - Geometry Processing
+  - Geometric Deep Learning
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -69,9 +55,9 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+#   - icon: cv
+#     icon_pack: ai
+#     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -80,5 +66,6 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Welcome to the homepage of the GLADIA research lab led by Professor Emanuele Rodolà. 
+At GLADIA, we are a dynamic and multidisciplinary team of computer scientists, physicists, engineers, and mathematicians who are passionate about exploring the cutting-edge of machine learning and its applications. With a strong focus on graph and geometric deep learning, computer vision, graphics, sound processing, and natural language processing, we love to push the boundaries of what is possible and find innovative solutions to real-world problems. Whether it's in computational biology, quantum computing, or medical imaging, we are always excited to collaborate with other disciplines and bring our expertise to the table. So if you're looking for a group of passionate and forward-thinking scientists, look no further than GLADIA!
 {style="text-align: justify;"}
