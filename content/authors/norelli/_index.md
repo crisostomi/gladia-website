@@ -22,9 +22,7 @@ organizations:
     url: https://www.uniroma1.it/
 
 # Short bio (displayed in user profile at end of posts)
-bio: "I am Antonio Norelli, a Computer Science PhD student at the Sapienza University of Rome working on AI and deep learning in the GLADIA research group, advised by Emanuele Rodolà.
-
-Before joining the group, I studied physics (BSc), computer science (MSc), and pursued the SSAS interdisciplinary honors program. I worked as a remote Research Intern for Spiketrap (San Francisco, CA), and as an Applied Scientist Intern for the Amazon Lablet in Tübingen (Germany)."
+bio: ""
 
 # Interests to show in About widget
 interests:
@@ -69,6 +67,8 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+I am Antonio Norelli, a Computer Science PhD student at the Sapienza University of Rome working on AI and deep learning in the GLADIA research group, advised by Emanuele Rodolà.
 
+Before joining the group, I studied physics (BSc), computer science (MSc), and pursued the SSAS interdisciplinary honors program. I worked as a remote Research Intern for Spiketrap (San Francisco, CA), and as an Applied Scientist Intern for the Amazon Lablet in Tübingen (Germany).
 
 {style="text-align: justify;"}
