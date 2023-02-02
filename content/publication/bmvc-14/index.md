@@ -7,7 +7,7 @@ summary: ''
 authors:
 - T. Windheuser
 - M. Vestner
-- \textbfE. Rodolà
+- E. Rodolà
 - R. Triebel
 - D. Cremers
 tags: []

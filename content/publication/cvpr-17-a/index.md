@@ -8,7 +8,7 @@ authors:
 - F. Monti
 - D. Boscaini
 - J. Masci
-- \textbfE. Rodolà
+- E. Rodolà
 - J. Svoboda
 - M. M. Bronstein
 tags: []

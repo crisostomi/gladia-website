@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - A. Albarelli
-- \textbfE. Rodolà
+- E. Rodolà
 - A. Torsello
 tags: []
 categories: []

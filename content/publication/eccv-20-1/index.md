@@ -9,7 +9,7 @@ authors:
 - A. Norelli
 - O. Halimi
 - R. Kimmel
-- \textbfE. Rodolà
+- E. Rodolà
 tags: []
 categories: []
 date: '2020-08-01'

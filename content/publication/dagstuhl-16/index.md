@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - M. Vestner
-- \textbfE. Rodolà
+- E. Rodolà
 - S. Rota Bul\ ̀and T. Windheuser
 - D. Cremers
 tags: []

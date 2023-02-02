@@ -8,7 +8,7 @@ authors:
 - P. Gainza
 - F. Sverrisson
 - F. Monti
-- \textbfE. Rodolà
+- E. Rodolà
 - M. M. Bronstein
 - B. Correia
 tags: []

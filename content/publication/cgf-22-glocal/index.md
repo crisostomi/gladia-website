@@ -9,7 +9,7 @@ authors:
 - S. Melzi
 - U. Castellani
 - R. Marin
-- \textbfE. Rodolà
+- E. Rodolà
 tags: []
 categories: []
 date: '2022-01-01'

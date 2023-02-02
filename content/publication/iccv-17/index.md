@@ -7,7 +7,7 @@ summary: ''
 authors:
 - O. Litany
 - T. Remez
-- \textbfE. Rodolà
+- E. Rodolà
 - A. M. Bronstein
 - M. M. Bronstein
 tags: []

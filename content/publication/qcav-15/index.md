@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - R. Mecca
-- \textbfE. Rodolà
+- E. Rodolà
 - D. Cremers
 tags: []
 categories: []

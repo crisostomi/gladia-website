@@ -8,7 +8,7 @@ authors:
 - F. Maggioli
 - D. Baieri
 - S. Melzi
-- \textbfE. Rodolà
+- E. Rodolà
 tags: []
 categories: []
 date: '2022-01-01'

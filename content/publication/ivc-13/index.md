@@ -7,7 +7,7 @@ summary: ''
 authors:
 - A. Torsello
 - A. Albarelli
-- \textbfE. Rodolà
+- E. Rodolà
 tags: []
 categories: []
 date: '2013-04-01'

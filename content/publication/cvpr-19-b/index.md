@@ -7,7 +7,7 @@ summary: ''
 authors:
 - O. Halimi
 - O. Litany
-- \textbfE. Rodolà
+- E. Rodolà
 - A. M. Bronstein
 - R. Kimmel
 tags: []

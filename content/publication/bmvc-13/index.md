@@ -5,7 +5,7 @@ title: Efficient Shape Matching using Vector Extrapolation.
 subtitle: ''
 summary: ''
 authors:
-- \textbfE. Rodolà
+- E. Rodolà
 - T. Harada
 - Y. Kuniyoshi
 - D. Cremers

@@ -8,7 +8,7 @@ authors:
 - G. Mariani
 - L. Cosmo
 - A. Bronstein
-- \textbfE. Rodolà
+- E. Rodolà
 tags: []
 categories: []
 date: '2020-01-01'

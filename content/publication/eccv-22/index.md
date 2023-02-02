@@ -7,7 +7,7 @@ summary: ''
 authors:
 - N. Azizi
 - H. Possegger
-- \textbfE. Rodolà
+- E. Rodolà
 - H. Bischof
 tags: []
 categories: []

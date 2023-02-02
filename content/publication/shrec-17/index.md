@@ -5,7 +5,7 @@ title: "SHREC'17: Deformable shape retrieval with missing parts"
 subtitle: ''
 summary: ''
 authors:
-- \textbfE. Rodolà
+- E. Rodolà
 - L. Cosmo
 - O. Litany
 - M. M. Bronstein

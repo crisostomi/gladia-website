@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - M. Andreux
-- \textbfE. Rodolà
+- E. Rodolà
 - M. Aubry
 - D. Cremers
 tags: []

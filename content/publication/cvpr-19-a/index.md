@@ -10,7 +10,7 @@ authors:
 - F. Tombari
 - M. M. Bronstein
 - L. Di Stefano
-- \textbfE. Rodolà
+- E. Rodolà
 tags: []
 categories: []
 date: '2019-06-01'

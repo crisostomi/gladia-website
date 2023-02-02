@@ -5,7 +5,7 @@ title: A Game-Theoretic Approach to Robust Selection of Multi-View Point Corresp
 subtitle: ''
 summary: ''
 authors:
-- \textbfE. Rodolà
+- E. Rodolà
 - A. Albarelli
 - A. Torsello
 tags: []

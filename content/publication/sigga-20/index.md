@@ -7,7 +7,7 @@ summary: ''
 authors:
 - M. Fumero
 - M. Moeller
-- \textbfE. Rodolà
+- E. Rodolà
 tags: []
 categories: []
 date: '2020-01-01'

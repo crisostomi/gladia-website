@@ -9,7 +9,7 @@ authors:
 - M. Mancini
 - F. Galasso
 - M. Ciccone
-- \textbfE. Rodolà
+- E. Rodolà
 - B. Caputo
 tags: []
 categories: []

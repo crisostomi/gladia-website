@@ -10,7 +10,7 @@ authors:
 - A. Rampini
 - M. Ovsjanikov
 - M. M. Bronstein
-- \textbfE. Rodolà
+- E. Rodolà
 tags: []
 categories: []
 date: '2019-06-01'

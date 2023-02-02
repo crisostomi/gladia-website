@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - A. Albarelli
-- \textbfE. Rodolà
+- E. Rodolà
 - F. Bergamasco
 - A. Torsello
 tags: []

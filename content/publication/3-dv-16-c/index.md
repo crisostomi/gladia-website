@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - L. Cosmo
-- \textbfE. Rodolà
+- E. Rodolà
 - J. Masci
 - A. Torsello
 - M. M. Bronstein

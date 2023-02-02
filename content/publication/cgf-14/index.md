@@ -5,7 +5,7 @@ title: Robust Region Detection via Consensus Segmentation of Deformable Shapes
 subtitle: ''
 summary: ''
 authors:
-- \textbfE. Rodolà
+- E. Rodolà
 - S. Rota Bul\ ̀and D. Cremers
 tags: []
 categories: []

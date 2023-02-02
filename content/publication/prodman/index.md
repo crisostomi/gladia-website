@@ -5,7 +5,7 @@ title: Functional maps representation on product manifolds
 subtitle: ''
 summary: ''
 authors:
-- \textbfE. Rodolà
+- E. Rodolà
 - Z. Lähner
 - A. M. Bronstein
 - M. M. Bronstein

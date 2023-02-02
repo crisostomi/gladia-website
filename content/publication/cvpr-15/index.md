@@ -9,7 +9,7 @@ authors:
 - A. Albarelli
 - L. Cosmo
 - A. Torsello
-- \textbfE. Rodolà
+- E. Rodolà
 - D. Cremers
 tags: []
 categories: []

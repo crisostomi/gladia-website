@@ -10,7 +10,7 @@ authors:
 - A. Albarelli
 - F. Bergamasco
 - A. Torsello
-- \textbfE. Rodolà
+- E. Rodolà
 - D. Cremers
 tags: []
 categories: []

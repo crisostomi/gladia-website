@@ -23,7 +23,7 @@ authors:
 - K. Li
 - O. Litany
 - T. Remez
-- \textbfE. Rodolà
+- E. Rodolà
 - B.C. Russell
 - Y. Sahillioglu
 - R. Slossberg

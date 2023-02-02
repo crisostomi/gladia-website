@@ -7,7 +7,7 @@ summary: ''
 authors:
 - S. Melzi
 - J. Ren
-- \textbfE. Rodolà
+- E. Rodolà
 - P. Wonka
 - M. Ovsjanikov
 tags: []

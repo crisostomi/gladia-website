@@ -10,7 +10,7 @@ authors:
 - L. Moschella
 - R. Marin
 - S. Melzi
-- \textbfE. Rodolà
+- E. Rodolà
 tags: []
 categories: []
 date: '2021-01-01'

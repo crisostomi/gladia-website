@@ -8,7 +8,7 @@ authors:
 - M. Ovsjanikov
 - E. Corman
 - M. M. Bronstein
-- \textbfE. Rodolà
+- E. Rodolà
 - M. Ben-Chen
 - L. Guibas
 - F. Chazal

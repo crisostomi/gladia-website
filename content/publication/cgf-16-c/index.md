@@ -7,7 +7,7 @@ summary: ''
 authors:
 - D. Boscaini
 - J. Masci
-- \textbfE. Rodolà
+- E. Rodolà
 - M. M. Bronstein
 - D. Cremers
 tags: []

@@ -9,7 +9,7 @@ authors:
 - M. Kirgo
 - S. Melzi
 - G. Patanè
-- \textbfE. Rodol\ ̀and M. Ovsjanikov
+- E. Rodol\ ̀and M. Ovsjanikov
 tags: []
 categories: []
 date: '2021-02-01'

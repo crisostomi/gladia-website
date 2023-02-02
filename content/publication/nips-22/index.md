@@ -8,7 +8,7 @@ summary: ''
 authors:
 - R. Sundararaman
 - R. Marin
-- \textbfE. Rodolà
+- E. Rodolà
 - M. Ovsjanikov
 tags: []
 categories: []

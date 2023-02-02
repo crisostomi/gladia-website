@@ -11,7 +11,7 @@ authors:
 - O. Litany
 - R. Slossberg
 - T. Remez
-- \textbfE. Rodolà
+- E. Rodolà
 - A. M. Bronstein
 - M. M. Bronstein
 - R. Kimmel

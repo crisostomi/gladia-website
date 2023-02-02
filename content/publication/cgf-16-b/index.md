@@ -5,7 +5,7 @@ title: Partial Functional Correspondence
 subtitle: ''
 summary: ''
 authors:
-- \textbfE. Rodolà
+- E. Rodolà
 - L. Cosmo
 - M. M. Bronstein
 - A. Torsello

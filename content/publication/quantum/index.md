@@ -10,7 +10,7 @@ authors:
 - N. Spagnolo
 - M. Fumero
 - A. Rampini
-- \textbfE. Rodolà
+- E. Rodolà
 - F. Sciarrino
 tags: []
 categories: []

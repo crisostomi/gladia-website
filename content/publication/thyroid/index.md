@@ -11,7 +11,7 @@ authors:
 - A. Fagioli
 - S. Filetti
 - G. Grani
-- \textbfE. Rodolà
+- E. Rodolà
 tags: []
 categories: []
 date: '2022-05-01'

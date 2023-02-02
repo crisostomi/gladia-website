@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - O. Litany
-- \textbfE. Rodolà
+- E. Rodolà
 - A. M. Bronstein
 - M. M. Bronstein
 - D. Cremers

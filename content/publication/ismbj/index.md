@@ -9,7 +9,7 @@ authors:
 - P. Gainza
 - F. Sverrisson
 - F. Monti
-- \textbfE. Rodolà
+- E. Rodolà
 - D. Boscaini
 - M. M. Bronstein
 - B. Correia

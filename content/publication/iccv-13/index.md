@@ -5,7 +5,7 @@ title: Elastic net constraints for shape matching
 subtitle: ''
 summary: ''
 authors:
-- \textbfE. Rodolà
+- E. Rodolà
 - A. Torsello
 - T. Harada
 - Y. Kuniyoshi

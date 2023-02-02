@@ -5,7 +5,7 @@ title: Point-wise map recovery and refinement from functional correspondence
 subtitle: ''
 summary: ''
 authors:
-- \textbfE. Rodolà
+- E. Rodolà
 - M. Moeller
 - D. Cremers
 tags: []

@@ -8,7 +8,7 @@ authors:
 - E. Postolache
 - M. Fumero
 - L. Cosmo
-- \textbfE. Rodolà
+- E. Rodolà
 tags: []
 categories: []
 date: '2020-01-01'
