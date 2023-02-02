@@ -20,7 +20,7 @@ content:
     - Administration
     - Postdocs
     - PhD Students
-    - Collaborators and Alumni
+    - Alumni
 design:
   show_interests: false
   show_role: true
