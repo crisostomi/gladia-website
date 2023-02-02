@@ -1,5 +1,5 @@
 ---
-title: Donato
+title: Donato Crisostomi
 role: Department of Computer Science
 bio: ""
 interests:
