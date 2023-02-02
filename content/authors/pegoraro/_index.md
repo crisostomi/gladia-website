@@ -22,9 +22,10 @@ organizations:
     url: https://www.uniroma1.it/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Ph.D. student in Computer Science at Sapienza, University of Rome, where I am part of the GLADIA research group, led by prof. Emanuele Rodolà.
-I earned my Master’s degree in Computer Science and Engineering at the University of Verona. My Master’s thesis titled "Data-driven inverse spectral geometry: learning to generate shapes from multi spectra" has received the Matteo Dellepiane Award for best thesis in Computer Graphics for the year 2021.
-My research activity is focused on spectral geometry processing and geometric deep learning.
+bio: >
+  I am a Ph.D. student in Computer Science at Sapienza, University of Rome, where I am part of the GLADIA research group, led by prof. Emanuele Rodolà.
+  I earned my Master’s degree in Computer Science and Engineering at the University of Verona. My Master’s thesis titled "Data-driven inverse spectral geometry: learning to generate shapes from multi spectra" has received the Matteo Dellepiane Award for best thesis in Computer Graphics for the year 2021.
+  My research activity is focused on spectral geometry processing and geometric deep learning.
 
 # Interests to show in About widget
 interests:
