@@ -22,7 +22,9 @@ organizations:
     url: https://www.uniroma1.it/
 
 # Short bio (displayed in user profile at end of posts)
-bio: ""
+bio: I am a PhD 
+student 
+Obama
 
 # Interests to show in About widget
 interests:
