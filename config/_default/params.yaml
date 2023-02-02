@@ -43,11 +43,11 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: 'Emanuele Rodolà © {year} -- Made and maintained by Donato Crisostomi.'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization
@@ -94,7 +94,7 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: ''
+    provider: 'mapbox'
     api_key: ''
     zoom: 15
 
