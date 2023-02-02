@@ -11,7 +11,7 @@ status:
 user_groups:
   - PhD Students
 
-superuser: true
+superuser: false
 
 # Role/position/tagline
 role: Department of Computer Science
