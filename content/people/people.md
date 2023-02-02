@@ -19,7 +19,7 @@ content:
   - Principal Investigator
   - PhD Students
   - Alumni
-  - Administration
+  - Project Assistant
 
 design:
   show_organizations: false
