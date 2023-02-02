@@ -22,13 +22,17 @@ organizations:
     url: https://www.uniroma1.it/
 
 # Short bio (displayed in user profile at end of posts)
-bio: ""
+bio: "I am Antonio Norelli, a Computer Science PhD student at the Sapienza University of Rome working on AI and deep learning in the GLADIA research group, advised by Emanuele Rodolà.
+
+Before joining the group, I studied physics (BSc), computer science (MSc), and pursued the SSAS interdisciplinary honors program. I worked as a remote Research Intern for Spiketrap (San Francisco, CA), and as an Applied Scientist Intern for the Amazon Lablet in Tübingen (Germany)."
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Geometry Processing
-  - Geometric Deep Learning
+  - Deep Learning
+  - Language Emergence
+  - Explanatory Learning
+  - Artificial Scientific Discovery
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -37,21 +41,21 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'norelli at di dot uniroma1 dot it'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/noranta4
     label: Follow me on Twitter
 
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?hl=en&user=ADH8YWEAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/noranta4
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/antonio-norelli-28862b41/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
