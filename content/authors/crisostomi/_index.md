@@ -12,17 +12,17 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/DonatoCrisosto1
     label: Follow me on Twitter
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=qi08d7kAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/crisostomi
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/donato-crisostomi/
 organizations:
   - name: Sapienza, University of Rome
     url: https://www.uniroma1.it/
