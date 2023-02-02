@@ -22,7 +22,10 @@ organizations:
     url: https://www.uniroma1.it/
 
 # Short bio (displayed in user profile at end of posts)
-bio: ""
+bio: 
+I am PhD
+student
+Obama
 
 # Interests to show in About widget
 interests:
@@ -40,18 +43,14 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/salvoaranzulla?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
     label: Follow me on Twitter
-
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -65,6 +64,10 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+Salvatore Aranzulla è il blogger e divulgatore informatico più letto in Italia. Noto per aver scoperto delle vulnerabilità nei siti di Google e Microsoft.
 
+Collabora con riviste di informatica e cura la rubrica tecnologica del quotidiano Il Messaggero. Ha pubblicato per Mondadori e Mondadori Informatica.
+
+È il fondatore di Aranzulla.it, uno dei trenta siti più visitati d'Italia, nel quale risponde con semplicità a migliaia di dubbi di tipo informatico.
 
 {style="text-align: justify;"}
