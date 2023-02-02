@@ -37,7 +37,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'comito@di.uniroma1.it'
+    link: comito@di.uniroma1.it
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/emanuela-comito-61116a36/
