@@ -5,6 +5,9 @@ title: GLADIA
 first_name: "GLADIA"
 last_name: ""
 
+avatar:
+  shape: circle
+
 # Status emoji
 status:
   icon: ""
