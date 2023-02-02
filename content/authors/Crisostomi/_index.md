@@ -16,7 +16,7 @@ social:
     label: Follow me on Twitter
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=qi08d7kAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
