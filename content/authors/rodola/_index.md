@@ -70,6 +70,4 @@ email: ''
 highlight_name: true
 ---
 
-Welcome to the homepage of the GLADIA research lab led by Professor Emanuele Rodolà. 
-At GLADIA, we are a dynamic and multidisciplinary team of computer scientists, physicists, engineers, and mathematicians who are passionate about exploring the cutting-edge of machine learning and its applications. With a strong focus on graph and geometric deep learning, computer vision, graphics, sound processing, and natural language processing, we love to push the boundaries of what is possible and find innovative solutions to real-world problems. Whether it's in computational biology, quantum computing, or medical imaging, we are always excited to collaborate with other disciplines and bring our expertise to the table. So if you're looking for a group of passionate and forward-thinking scientists, look no further than GLADIA!
 {style="text-align: justify;"}
