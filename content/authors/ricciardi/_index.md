@@ -27,8 +27,7 @@ bio: ""
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Geometry Processing
-  - Geometric Deep Learning
+  - Reinforcement Learning
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -40,18 +39,18 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/antonioricc93
     label: Follow me on Twitter
 
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    # link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/antoniopioricciardi
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/antoniopioricciardi/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -68,3 +67,5 @@ highlight_name: false
 
 
 {style="text-align: justify;"}
+"I am PhD student at Sapienza, University of Rome and part of the Gladia research group under the supervision of Professor Rodola. 
+My research focuses on generalization in Reinforcement Learning and on improving agent training by incorporating environmental dynamics as additional input. I firmly believe that the trial and error paradigm could bring significant advancements in the AI field. My previous work includes the application of Reinforcement Learning in 3D modeling and the creation of simplified self-driving cars in Unity."
