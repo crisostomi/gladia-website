@@ -96,7 +96,7 @@ social:
 email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 ---
 As a Ph.D. candidate in Computer Science at Sapienza - University of Rome, I am part of the GLADIA research group under Professor Emanuele Rodolà. My passion for music drives my academic pursuits as I enjoy playing, listening, and exploring it from various angles. I am particularly interested in applying artificial intelligence to signal processing, and I relish the interdisciplinary exchange of ideas and stimulation.
 
