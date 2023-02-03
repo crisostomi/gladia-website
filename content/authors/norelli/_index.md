@@ -65,7 +65,7 @@ social:
 email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 ---
 I am Antonio Norelli, a Computer Science PhD student at the Sapienza University of Rome working on AI and deep learning in the GLADIA research group, advised by Emanuele Rodolà.
 
