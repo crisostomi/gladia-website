@@ -8,7 +8,7 @@ authors:
 - crisostomi
 - Simone Antonelli
 - Valentino Maiorca
-- Luca Moschella
+- moschella
 - Emanuele Rodolà
 - Riccardo Marin
 
