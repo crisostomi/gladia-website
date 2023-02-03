@@ -22,13 +22,46 @@ organizations:
     url: https://www.uniroma1.it/
 
 # Short bio (displayed in user profile at end of posts)
-bio: ""
+bio: "PhD Student @SapienzaRoma CS | Intern @Musixmatch"
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Geometry Processing
-  - Geometric Deep Learning
+  - Deep Learning
+  - Signal Processing
+  - Signal Separation
+  - Autoregressive Models
+  - Diffusion Models
+
+# education:
+#   courses:
+#   - course: Ph.D. in Computer Science
+
+#     institution: Sapienza University of Rome
+#     institution_url: https://gladia.di.uniroma1.it/
+#     logo: gladia.svg
+#     padding_logo: 1
+
+#   - course: M.S. in Physics
+#     grade: "110/110 with honors"
+#     gpa: "30.3/30"
+#     year: 2019
+
+#     institution: Sapienza University of Rome
+#     institution_url: https://www.uniroma1.it/it/
+#     logo: sapienza.svg
+#     padding_logo: 1
+
+
+#   - course: B.S. in Physics
+#     grade: "110/110 with honors"
+#     gpa: "30.5/30"
+#     year: 2016
+
+#     institution: Sapienza University of Rome
+#     institution_url: https://www.uniroma1.it/it/
+#     logo: sapienza.svg
+#     padding_logo: 1
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -40,18 +73,18 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/michelemancusi
     label: Follow me on Twitter
 
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=V-VmPu0AAAAJ&hl=it
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/michelemancusi
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/michele-mancusi/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -65,6 +98,8 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+As a Ph.D. candidate in Computer Science at Sapienza - University of Rome, I am part of the GLADIA research group under Professor Emanuele Rodolà. My passion for music drives my academic pursuits as I enjoy playing, listening, and exploring it from various angles. I am particularly interested in applying artificial intelligence to signal processing, and I relish the interdisciplinary exchange of ideas and stimulation.
 
+My research focus encompasses deep learning, signal processing, signal separation, autoregressive, and diffusion models.
 
 {style="text-align: justify;"}
