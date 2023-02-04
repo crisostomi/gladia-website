@@ -23,9 +23,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: >
-  I am a Ph.D. student in Computer Science at Sapienza, University of Rome, where I am part of the GLADIA research group, led by prof. Emanuele Rodolà.
-  I earned my Master’s degree in Computer Science and Engineering at the University of Verona. My Master’s thesis titled "Data-driven inverse spectral geometry: learning to generate shapes from multi spectra" has received the Matteo Dellepiane Award for best thesis in Computer Graphics for the year 2021.
-  My research activity is focused on spectral geometry processing and geometric deep learning.
+  I am a Ph.D. student in Geometric Deep Learning. My research activity is focused on spectral geometry processing applied to graph learning.
 
 # Interests to show in About widget
 interests:
@@ -58,16 +56,24 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-#   - icon: cv
-#     icon_pack: ai
-#     link: uploads/resume.pdf
+   - icon: cv
+    icon_pack: ai
+    link: uploads/CVlatexMPeg.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'pegoraro@di.uniroma1.it'
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
+As a Ph.D. student at Sapienza University of Rome, I am part of the GLADIA research group led by Emanuele Rodol\`{a}. With a background in Computer Science and Engineering from the University of Verona (2021), I specialize in Geometric Deep Learning, Geometry Processing, and 3D spectral shape analysis. 
 
+My research interest lies in exploring the intersection of geometry processing and graph learning, with a particular emphasis on utilizing spectral techniques in graph analysis. My current research directions encompass:
+- Developing spectral representations for graphs and subgraphs to address alignment problems.
+-  Analyzing biomolecular interactions from a geometric perspective.
+- Investigating the use of spectral structures to represent graphs.
+
+I am proud to have received recognition for my Master's thesis with the Best Italian Master Thesis in Computer Graphics (Matteo Dellepiane award) at the Italian Chapter of EuroGraphics (STAG).
+In March, I'm going to join the research group of Alex Bronstein at Technion (Israel) to start a collaboration on spectral analysis applied to dynamic systems.}
 
 {style="text-align: justify;"}
