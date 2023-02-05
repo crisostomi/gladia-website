@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 
 widget: pages
 
@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Recent Publications
+title: Featured Publications
 subtitle: ''
 
 content:
@@ -23,7 +23,7 @@ content:
   order: desc
   # Filter on criteria
   filters:
-    tag: ''
+    tag: 'featured'
     category: ''
     publication_type: ''
     author: ''
@@ -37,6 +37,6 @@ design:
   view: 4
 ---
 
-<!-- {{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}} -->
+{{% callout note %}}
+Find the complete list in [publications](./publication/).
+{{% /callout %}}
