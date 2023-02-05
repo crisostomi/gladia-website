@@ -3,6 +3,7 @@ title: "New website is online!"
 
 event: ""
 event_url: ""
+author: crisostomi
 
 # location: Wowchemy HQ
 # address:

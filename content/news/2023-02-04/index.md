@@ -3,6 +3,7 @@ title: "New website is online!"
 
 event: ""
 event_url: ""
+author: admin
 
 # location: Wowchemy HQ
 # address:

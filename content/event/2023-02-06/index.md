@@ -3,6 +3,7 @@ title: Our paper "Relative representations enable zero-shot latent space communi
 
 event: ""
 event_url: ""
+author: crisostomi
 
 # location: Wowchemy HQ
 # address:
