@@ -1,7 +1,8 @@
 ---
 title: Donato Crisostomi
 role: Department of Computer Science
-bio: ""
+bio: "PhD student @ Sapienza, University of Rome | former Applied Science intern @ Amazon Search, Luxembourg | former Research Science intern @ Amazon Alexa, Turin"
+
 interests:
   - Artificial Intelligence
   - Graph Representation Learning

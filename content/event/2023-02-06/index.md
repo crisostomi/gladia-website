@@ -3,7 +3,9 @@ title: Our paper "Relative representations enable zero-shot latent space communi
 
 event: ""
 event_url: ""
-author: crisostomi
+
+authors:
+    - moschella
 
 # location: Wowchemy HQ
 # address:
@@ -25,7 +27,6 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
 
-authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
