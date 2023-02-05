@@ -1,5 +1,5 @@
 ---
-title: "New website is online!"
+title: "The new website is online!"
 
 event: ""
 event_url: ""
