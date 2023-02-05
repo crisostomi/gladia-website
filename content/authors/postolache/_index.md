@@ -22,7 +22,7 @@ organizations:
     url: https://www.uniroma1.it/
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Music Mind Maven"
+bio: "Ph.D. student in Computer Science working on Generative Models and Audio, Former AI Research intern at Dolby Labs, Amateur DJ"
 
 # Interests to show in About widget
 interests:
@@ -64,7 +64,7 @@ email: 'postolache@di.uniroma1.it'
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I am a researcher with interest in the fields of generative models and audio processing and I have a strong track record of developing innovative solutions to complex problems. 
+I am a PhD student with interest in the fields of generative models and audio processing and I have a strong track record of developing innovative solutions to complex problems. 
 
 My work has focused on enabling source separation using latent autoregressive models in VQ-VAE domains, proposing a Bayesian sampling technique based on fully discrete likelihood functions. I pursued an internship at Dolby Laboratories where I improved universal sound separation using adversarial techniques. I have combined my expertise in music generation and source separation to develop a diffusion-based model that can perform both tasks simultaneously. 
 
