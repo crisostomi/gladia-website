@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 
 widget: pages
 

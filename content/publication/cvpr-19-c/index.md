@@ -14,7 +14,7 @@ publication: "*Proc. Int'l Conference on Computer Vision and Pattern Recognition
 abstract: ""
 draft: false
 featured: false
-tags: []
+tags: ["featured"]
 categories: []
 projects: []
 image:

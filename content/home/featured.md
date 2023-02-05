@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 # An instance of the Featured widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featured
@@ -8,7 +8,7 @@ widget: featured
 headless: true
 
 # Order that this section appears on the page.
-weight: 80
+weight: 40
 
 title: Featured Publications
 subtitle: ""
@@ -23,7 +23,7 @@ content:
     author: ""
     category: ""
     publication_type: ""
-    tag: ""
+    tag: "featured"
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
 
@@ -33,5 +33,5 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 3
+  view: 4
 ---

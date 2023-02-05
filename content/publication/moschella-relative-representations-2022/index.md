@@ -14,11 +14,12 @@ authors:
 
 tags:
 - '"Computer Science - Machine Learning"'
+- 'featured'
 
 categories: []
 date: '2022-09-30'
 lastmod: 2022-09-30T11:32:00+02:00
-featured: true
+featured: false
 draft: false
 
 # Featured image
