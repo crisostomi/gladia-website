@@ -23,7 +23,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: >
-    I'm a Computer Science PhD Math Bachelor and passion. Right now I'm working on AI for Music.
+    I'm a Computer Science PhD with Math Bachelor and passion. Right now I'm working on AI for Music.
     I like to sing, also.
 
 # Interests to show in About widget
@@ -52,7 +52,7 @@ social:
     link: https://github.com/IreneTallini
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/irene-tallini-4a9908169
+    link: https://www.linkedin.com/in/irene-tallini-4a9908169/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
