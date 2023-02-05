@@ -24,9 +24,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
 
-authors: 
-    - moschella
-    
+authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
