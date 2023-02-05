@@ -26,7 +26,7 @@ social:
     link: https://www.linkedin.com/in/donato-crisostomi/
   - icon: globe-americas
     icon_pack: fas
-    link: www.crisostomi.com
+    link: https://www.crisostomi.com
 organizations:
   - name: Sapienza, University of Rome
     url: https://www.uniroma1.it/
