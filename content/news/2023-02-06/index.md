@@ -1,5 +1,5 @@
 ---
-title: Our paper "Relative representations enable zero-shot latent space communication" was accepted to ICLR 2023 as an Oral (Notable Top 5%) presentation
+title: Our paper "Relative representations enable zero-shot latent space communication" was accepted to ICLR 2023 as an Oral (Notable Top 5%) presentation!
 
 event: ""
 event_url: ""
