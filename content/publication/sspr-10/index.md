@@ -6,7 +6,7 @@ title: A game-theoretic approach to the enforcement of global consistency in mul
 subtitle: ''
 summary: ''
 authors:
-- E. Rodolà
+- rodola
 - A. Albarelli
 - A. Torsello
 tags: []

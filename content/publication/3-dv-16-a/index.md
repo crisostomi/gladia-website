@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - D. Eynard
-- E. Rodolà
+- rodola
 - K. Glashoff
 - M. M. Bronstein
 tags: []

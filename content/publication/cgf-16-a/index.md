@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - L. Cosmo
-- E. Rodolà
+- rodola
 - A. Albarelli
 - F. Mémoli
 - D. Cremers

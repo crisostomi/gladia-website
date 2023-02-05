@@ -8,7 +8,7 @@ authors:
 - F. Bergamasco
 - A. Albarelli
 - L. Cosmo
-- E. Rodolà
+- rodola
 - A. Torsello
 tags: []
 categories: []

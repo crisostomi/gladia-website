@@ -8,7 +8,7 @@ authors:
 - M. Fumero
 - L. Cosmo
 - S. Melzi
-- E. Rodolà
+- rodola
 tags: []
 categories: []
 date: '2021-01-01'

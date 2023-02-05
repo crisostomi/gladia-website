@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - J. Masci
-- E. Rodolà
+- rodola
 - D. Boscaini
 - M. M. Bronstein
 - H. Li

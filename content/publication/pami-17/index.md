@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Z. Lähner
-- E. Rodolà
+- rodola
 - F. R. Schmidt
 - M. M. Bronstein
 - D. Cremers

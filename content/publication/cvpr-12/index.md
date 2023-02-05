@@ -5,7 +5,7 @@ title: A game-theoretic approach to deformable shape matching
 subtitle: ''
 summary: ''
 authors:
-- E. Rodolà
+- rodola
 - A. M. Bronstein
 - A. Albarelli
 - F. Bergamasco

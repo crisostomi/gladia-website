@@ -7,7 +7,7 @@ summary: ''
 authors:
 - S. Melzi
 - R. Marin
-- E. Rodolà
+- rodola
 - U. Castellani
 - J. Ren
 - A. Poulenard

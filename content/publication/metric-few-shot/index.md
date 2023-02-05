@@ -9,7 +9,7 @@ authors:
 - Simone Antonelli
 - Valentino Maiorca
 - moschella
-- Emanuele Rodolà
+- rodola
 - Riccardo Marin
 
 # Author notes (optional)

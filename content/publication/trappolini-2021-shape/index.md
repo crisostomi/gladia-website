@@ -10,7 +10,7 @@ authors:
 - moschella
 - Riccardo Marin
 - Simone Melzi
-- Emanuele Rodolà
+- rodola
 tags: []
 categories: []
 date: '2021-06-25'

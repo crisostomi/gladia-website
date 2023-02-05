@@ -12,7 +12,7 @@ authors:
 - O. Litany
 - M. Ovsjanikov
 - L. Guibas
-- E. Rodolà
+- rodola
 tags: []
 categories: []
 date: '2022-01-01'

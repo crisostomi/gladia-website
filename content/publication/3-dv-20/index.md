@@ -8,7 +8,7 @@ authors:
 - R. Marin
 - A. Rampini
 - U. Castellani
-- E. Rodolà
+- rodola
 - M. Ovsjanikov
 - S. Melzi
 tags: []

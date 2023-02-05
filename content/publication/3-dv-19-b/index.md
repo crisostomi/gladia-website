@@ -10,7 +10,7 @@ authors:
 - I. Tallini
 - M. Ovsjanikov
 - A. M. Bronstein
-- E. Rodolà
+- rodola
 tags: []
 categories: []
 date: '2019-09-01'

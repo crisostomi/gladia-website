@@ -9,7 +9,7 @@ authors:
 - I. Imanuel
 - O. Litany
 - G. Trappolini
-- E. Rodolà
+- rodola
 - L. Guibas
 - R. Kimmel
 tags: []

@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - S. Melzi
-- E. Rodolà
+- rodola
 - U. Castellani
 - M. M. Bronstein
 tags: []

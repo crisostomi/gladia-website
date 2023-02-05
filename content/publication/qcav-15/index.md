@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - R. Mecca
-- E. Rodolà
+- rodola
 - D. Cremers
 tags: []
 categories: []

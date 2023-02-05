@@ -9,7 +9,7 @@ authors:
   - A. Rampini
   - M. Ovsjanikov
   - M. M. Bronstein
-  - E. Rodolà
+  - rodola
 publication: "*Proc. Int'l Conference on Computer Vision and Pattern Recognition (CVPR)*"
 abstract: ""
 draft: false

@@ -10,7 +10,7 @@ authors:
 - Marco Fumero
 - Antonio Norelli
 - Francesco Locatello
-- Emanuele Rodolà
+- rodola
 
 tags:
 - '"Computer Science - Machine Learning"'

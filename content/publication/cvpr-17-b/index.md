@@ -8,7 +8,7 @@ summary: ''
 authors:
 - M. Vestner
 - R. Litman
-- E. Rodolà
+- rodola
 - A. M. Bronstein
 - D. Cremers
 tags: []

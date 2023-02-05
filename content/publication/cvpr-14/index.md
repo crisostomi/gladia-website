@@ -5,7 +5,7 @@ title: Dense non-rigid shape correspondence using random forests
 subtitle: ''
 summary: ''
 authors:
-- E. Rodolà
+- rodola
 - ̀ S. Rota Bul\
 - T. Windheuser
 - M. Vestner

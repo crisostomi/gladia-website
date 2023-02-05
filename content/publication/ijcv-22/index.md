@@ -8,7 +8,7 @@ authors:
 - L. Cosmo
 - G. Minello
 - M. Bronstein
-- E. Rodolà
+- rodola
 - L. Rossi
 - A. Torsello
 tags: []

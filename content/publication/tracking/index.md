@@ -8,7 +8,7 @@ authors:
 - E. Postolache
 - M. Fumero
 - L. Cosmo
-- E. Rodolà
+- rodola
 tags: []
 categories: []
 date: '2020-01-01'

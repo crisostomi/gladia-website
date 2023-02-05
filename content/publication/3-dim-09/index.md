@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - A. Albarelli
-- E. Rodolà
+- rodola
 - S. Rota Bul\ ̀and A. Torsello
 tags: []
 categories: []

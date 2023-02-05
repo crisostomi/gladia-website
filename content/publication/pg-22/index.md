@@ -8,7 +8,7 @@ authors:
 - F. Maggioli
 - R. Marin
 - S. Melzi
-- E. Rodolà
+- rodola
 tags: []
 categories: []
 date: '2022-01-01'

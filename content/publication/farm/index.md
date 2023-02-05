@@ -7,7 +7,7 @@ summary: ''
 authors:
 - R. Marin
 - S. Melzi
-- E. Rodolà
+- rodola
 - U. Castellani
 tags: []
 categories: []

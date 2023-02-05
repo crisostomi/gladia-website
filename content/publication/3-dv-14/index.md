@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - A. Kanezaki
-- E. Rodolà
+- rodola
 - D. Cremers
 - T. Harada
 tags: []

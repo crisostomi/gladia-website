@@ -8,7 +8,7 @@ authors:
 - G. Mariani
 - L. Cosmo
 - A. Bronstein
-- E. Rodolà
+- rodola
 tags: []
 categories: []
 date: '2020-01-01'

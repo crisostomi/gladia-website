@@ -5,7 +5,7 @@ title: Regularized Point-wise Map Recovery from Functional Correspondence
 subtitle: ''
 summary: ''
 authors:
-- E. Rodolà
+- rodola
 - M. Moeller
 - D. Cremers
 tags: []

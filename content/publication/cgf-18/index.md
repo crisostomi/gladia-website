@@ -7,7 +7,7 @@ summary: ''
 authors:
 - D. Nogneng
 - S. Melzi
-- E. Rodolà
+- rodola
 - U. Castellani
 - M. M. Bronstein
 - M. Ovsjanikov

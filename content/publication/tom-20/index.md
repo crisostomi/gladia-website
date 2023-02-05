@@ -10,7 +10,7 @@ authors:
 - L. Cinque
 - G. Foresti
 - C. Massaroni
-- E. Rodolà
+- rodola
 tags: []
 categories: []
 date: '2020-01-01'

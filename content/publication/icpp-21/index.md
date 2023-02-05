@@ -9,7 +9,7 @@ authors:
 - V. Arrigoni
 - F. Maggioli
 - A. Massini
-- E. Rodolà
+- rodola
 tags: []
 categories: []
 date: '2021-01-01'

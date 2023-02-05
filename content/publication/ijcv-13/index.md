@@ -6,7 +6,7 @@ title: A Scale Independent Selection Process for 3D Object Recognition in Clutte
 subtitle: ''
 summary: ''
 authors:
-- E. Rodolà
+- rodola
 - A. Albarelli
 - F. Bergamasco
 - A. Torsello

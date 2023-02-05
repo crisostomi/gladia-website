@@ -5,7 +5,7 @@ title: A Simple and Effective Relevance-Based Point Sampling for 3D Shapes
 subtitle: ''
 summary: ''
 authors:
-- E. Rodolà
+- rodola
 - A. Albarelli
 - D. Cremers
 - A. Torsello

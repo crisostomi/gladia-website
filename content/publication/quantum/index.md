@@ -10,7 +10,7 @@ authors:
 - N. Spagnolo
 - M. Fumero
 - A. Rampini
-- E. Rodolà
+- rodola
 - F. Sciarrino
 tags: []
 categories: []

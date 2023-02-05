@@ -9,7 +9,7 @@ authors:
 - S. Melzi
 - M. Ovsjanikov
 - M. Bronstein
-- E. Rodolà
+- rodola
 tags: []
 categories: []
 date: '2021-01-01'

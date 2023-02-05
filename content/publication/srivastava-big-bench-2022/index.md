@@ -8,7 +8,7 @@ authors:
 - 442 authors including
 - Andrea Santilli
 - Antonio Norelli
-- Emanuele Rodolà
+- rodola
 - Giambattista Parascandolo
 - Giorgio Mariani
 - moschella

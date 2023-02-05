@@ -9,7 +9,7 @@ authors:
 - A. Albarelli
 - L. Cosmo
 - A. Torsello
-- E. Rodolà
+- rodola
 - D. Cremers
 tags: []
 categories: []

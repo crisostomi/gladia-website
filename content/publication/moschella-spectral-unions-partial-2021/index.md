@@ -12,7 +12,7 @@ authors:
 - Or Litany
 - Maks Ovsjanikov
 - Leonidas Guibas
-- Emanuele Rodolà
+- rodola
 tags:
 - '"Computer Science - Computational Geometry"'
 - '"Computer Science - Graphics"'

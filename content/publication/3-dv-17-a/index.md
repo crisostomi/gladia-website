@@ -7,7 +7,7 @@ summary: ''
 authors:
 - A. Gasparetto
 - L. Cosmo
-- E. Rodolà
+- rodola
 - A. Torsello
 - M. M. Bronstein
 tags: []
