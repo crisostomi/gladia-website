@@ -39,7 +39,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'norelli at di dot uniroma1 dot it'
+    link: norelli@di.uniroma1.it
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/noranta4

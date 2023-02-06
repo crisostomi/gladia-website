@@ -22,7 +22,7 @@ organizations:
     url: https://www.uniroma1.it/
 
 # Short bio (displayed in user profile at end of posts)
-bio: ""
+bio: "Ph.D. student in Computer Science working on Generative Models and Audio, Former AI Research intern at Dolby Labs, Amateur DJ"
 
 # Interests to show in About widget
 interests:
@@ -37,21 +37,20 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: mailto:postolache@di.uniroma1.it
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/EmilianPostola1
     label: Follow me on Twitter
-
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=UoVX7gUAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/EmilianPostolache
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/emilian-postolache/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -60,11 +59,15 @@ social:
 #     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'postolache@di.uniroma1.it'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
+I am a PhD student with interest in the fields of generative models and audio processing and I have a strong track record of developing innovative solutions to complex problems. 
 
+My work has focused on enabling source separation using latent autoregressive models in VQ-VAE domains, proposing a Bayesian sampling technique based on fully discrete likelihood functions. I pursued an internship at Dolby Laboratories where I improved universal sound separation using adversarial techniques. I have combined my expertise in music generation and source separation to develop a diffusion-based model that can perform both tasks simultaneously. 
+
+I am committed to pushing the boundaries of what is possible in the field and am eager to continue making impactful contributions.
 
 {style="text-align: justify;"}

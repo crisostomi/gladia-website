@@ -67,5 +67,5 @@ highlight_name: false
 
 
 {style="text-align: justify;"}
-"I am PhD student at Sapienza, University of Rome and part of the Gladia research group under the supervision of Professor Rodola. 
-My research focuses on generalization in Reinforcement Learning and on improving agent training by incorporating environmental dynamics as additional input. I firmly believe that the trial and error paradigm could bring significant advancements in the AI field. My previous work includes the application of Reinforcement Learning in 3D modeling and the creation of simplified self-driving cars in Unity."
+I am a PhD student in Computer Science at Sapienza, University of Rome and part of the Gladia research group under the supervision of Professor Emanuele Rodolà. 
+My research focuses on generalization in Reinforcement Learning and on improving agent training by incorporating environmental dynamics as additional input. I firmly believe that the trial and error paradigm could bring significant advancements in the AI field. My previous works include the application of Reinforcement Learning in 3D modeling and the creation of simplified self-driving cars in Unity.

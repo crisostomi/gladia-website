@@ -2,7 +2,7 @@
 # An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: portfolio
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
@@ -11,7 +11,7 @@ headless: true
 weight: 85
 
 title: Projects
-subtitle: ''
+subtitle: 'Open Source'
 
 content:
   # Page type to display. E.g. project.
