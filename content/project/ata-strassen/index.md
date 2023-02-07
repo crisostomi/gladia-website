@@ -1,6 +1,6 @@
 ---
 title: Efficiently Parallelizable Strassen-Based Multiplication of a Matrix by its Transpose
-summary: This repository contains the code related to the article Efficiently Parallelizable Strassen-Based Multiplication of a Matrix by its Transpose (V. Arrigoni, F. Maggioli, A. Massini, E. Rodolà).
+summary: This repository contains the code related to the article [_Efficiently Parallelizable Strassen-Based Multiplication of a Matrix by its Transpose_](https://dl.acm.org/doi/10.1145/3472456.3473519) (V. Arrigoni, F. Maggioli, A. Massini, E. Rodolà).
 tags:
   - Numerical Linear Algebra
   - Parallel Computing
