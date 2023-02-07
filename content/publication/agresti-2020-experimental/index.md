@@ -9,7 +9,7 @@ authors:
 - Iris Agresti
 - Davide Poderini
 - Leonardo Guerini
-- Michele Mancusi
+- mancusi
 - Gonzalo Carvacho
 - Leandro Aolita
 - Daniel Cavalcanti
