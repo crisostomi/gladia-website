@@ -5,7 +5,7 @@ title: Unsupervised source separation via Bayesian inference in the latent domai
 subtitle: ''
 summary: ''
 authors:
-- Michele Mancusi
+- mancusi
 - Emilian Postolache
 - Giorgio Mariani
 - Marco Fumero
