@@ -9,7 +9,7 @@ authors:
 - Antonio Norelli
 - Oshri Halimi
 - Ron Kimmel
-- Emanuele Rodola
+- Emanuele Rodolà
 tags: []
 categories: []
 date: '2020-01-01'

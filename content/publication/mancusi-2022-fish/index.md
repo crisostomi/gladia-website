@@ -6,7 +6,7 @@ title: 'Fish sounds: towards the evaluation of marine acoustic biodiversity thro
 subtitle: ''
 summary: ''
 authors:
-- Michele Mancusi
+- mancusi
 - Nicola Zonca
 - Emanuele Rodolà
 - Silvia Zuffi
