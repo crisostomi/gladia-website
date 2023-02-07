@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Prof. Emanuele Rodolà
+title: Emanuele Rodolà
 
 first_name: "Emanuele"
 last_name: "Rodolà"
