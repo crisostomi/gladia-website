@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Emilian Postolache
 - Giorgio Mariani
-- Michele Mancusi
+- mancusi
 - Andrea Santilli
 - Luca Cosmo
 - Emanuele Rodolà
