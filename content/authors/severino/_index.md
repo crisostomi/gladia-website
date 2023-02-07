@@ -53,7 +53,7 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/silvio-severino/
-  - icon: fa-face-smiling-hands
+  - icon: face-smiling-hands
     icon_pack: fa-solid
     link: https://huggingface.co/silsever
 
