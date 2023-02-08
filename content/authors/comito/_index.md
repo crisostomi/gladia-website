@@ -25,10 +25,10 @@ organizations:
 bio: ""
 
 # Interests to show in About widget
-interests:
-  - Artificial Intelligence
-  - Geometry Processing
-  - Geometric Deep Learning
+#interests:
+#  - Artificial Intelligence
+#  - Geometry Processing
+#  - Geometric Deep Learning
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -55,5 +55,5 @@ email: ''
 highlight_name: false
 ---
 
-
 {style="text-align: justify;"}
+Emanuela Comito is a trade marketer by training, with over 12 years of experience in sales support, strategic planning, marketing assistance, and business management. She has held marketing coordinator positions in several countries and currently provides administrative support for H2020 and Horizon Europe projects at Sapienza University of Rome and the Italy office of the Research Task Force of CLAIRE (Confederation of Laboratories for AI Research in Europe). In her role at the Rector's office, she is responsible for the financial reporting and management of individual and collaborative research projects at a national and European level. She is skilled in developing business plans and ensuring the sustainability of large research projects, as well as managing relations with project partners and funding entities.
