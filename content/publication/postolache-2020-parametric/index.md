@@ -5,10 +5,10 @@ title: A parametric analysis of discrete Hamiltonian functional maps
 subtitle: ''
 summary: ''
 authors:
-- Emilian Postolache
-- Marco Fumero
-- Luca Cosmo
-- Emanuele Rodolà
+- postolache
+- fumero
+- cosmo
+- rodola
 tags:
 - CCS Concepts
 - • Computing methodologies → Spectral methods

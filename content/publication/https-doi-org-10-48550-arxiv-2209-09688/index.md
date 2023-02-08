@@ -5,10 +5,10 @@ title: Sparse Vicious Attacks on Graph Neural Networks
 subtitle: ''
 summary: ''
 authors:
-- Giovanni Trappolini
-- Valentino Maiorca
-- Silvio Severino
-- Emanuele Rodolà
+- trappolini
+- maiorca
+- severino
+- rodola
 - Fabrizio Silvestri
 - Gabriele Tolomei
 tags:

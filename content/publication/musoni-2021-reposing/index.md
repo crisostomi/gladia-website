@@ -6,8 +6,8 @@ subtitle: ''
 summary: ''
 authors:
 - Pietro Musoni
-- Riccardo Marin
-- Simone Melzi
+- marin
+- melzi
 - Umberto Castellani
 tags: []
 categories: []

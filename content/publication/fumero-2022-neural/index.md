@@ -6,10 +6,10 @@ title: 'Neural Implicit Style-net: synthesizing shapes in a preferred style expl
 subtitle: ''
 summary: ''
 authors:
-- Marco Fumero
+- fumero
 - Hooman Shayani
 - Aditya Sanghi
-- Emanuele Rodolà
+- rodola
 tags: []
 categories: []
 date: '2022-01-01'

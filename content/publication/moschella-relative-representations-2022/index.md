@@ -6,9 +6,9 @@ subtitle: ''
 summary: ''
 authors:
 - moschella
-- valentino Maiorca
-- Marco Fumero
-- Antonio Norelli
+- maiorca
+- fumero
+- norelli
 - Francesco Locatello
 - rodola
 

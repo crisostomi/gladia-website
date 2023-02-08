@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Danilo Avola
-- Irene Cannistraci
+- cannistraci
 - Marco Cascio
 - Luigi Cinque
 - Anxhelo Diko

@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Pietro Musoni
-- Simone Melzi
+- melzi
 - Umberto Castellani
 tags: []
 categories: []

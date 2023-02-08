@@ -7,9 +7,9 @@ subtitle: ''
 summary: ''
 authors:
 - Maxime Kirgo
-- Simone Melzi
+- melzi
 - Giuseppe Patanè
-- Emanuele Rodolà
+- rodola
 - Maks Ovsjanikov
 tags:
 - 3D shape matching

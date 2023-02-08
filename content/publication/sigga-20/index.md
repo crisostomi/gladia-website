@@ -5,7 +5,7 @@ title: Nonlinear Spectral Geometry Processing via the TV Transform
 subtitle: ''
 summary: ''
 authors:
-- M. Fumero
+- fumero
 - M. Moeller
 - rodola
 tags: []

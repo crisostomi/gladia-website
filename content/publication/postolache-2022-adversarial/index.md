@@ -5,7 +5,7 @@ title: Adversarial Permutation Invariant Training for Universal Sound Separation
 subtitle: ''
 summary: ''
 authors:
-- Emilian Postolache
+- postolache
 - Jordi Pons
 - Santiago Pascual
 - Joan Serrà

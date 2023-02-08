@@ -5,11 +5,11 @@ title: Spectral Maps for Learning on Subgraphs
 subtitle: ''
 summary: ''
 authors:
-- Marco Pegoraro
-- Riccardo Marin
-- Arianna Rampini
-- Simone Melzi
-- Luca Cosmo
+- pegoraro
+- marin
+- rampini
+- melzi
+- cosmo
 - Emaneule Rodolà
 tags: []
 categories: []

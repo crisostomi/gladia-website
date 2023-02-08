@@ -5,11 +5,11 @@ title: 'Limp: Learning latent shape representations with metric preservation pri
 subtitle: ''
 summary: ''
 authors:
-- Luca Cosmo
-- Antonio Norelli
+- cosmo
+- norelli
 - Oshri Halimi
 - Ron Kimmel
-- Emanuele Rodolà
+- rodola
 tags: []
 categories: []
 date: '2020-01-01'

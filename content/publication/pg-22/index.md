@@ -5,9 +5,9 @@ title: 'MoMaS: Mold Manifold Simulation for Real-time Procedural Texturing'
 subtitle: ''
 summary: ''
 authors:
-- F. Maggioli
-- R. Marin
-- S. Melzi
+- maggioli
+- marin
+- melzi
 - rodola
 tags: []
 categories: []

@@ -5,10 +5,10 @@ title: 'Localized Shape Modelling with Global Coherence: An Inverse Spectral App
 subtitle: ''
 summary: ''
 authors:
-- M. Pegoraro
-- S. Melzi
+- pegoraro
+- melzi
 - U. Castellani
-- R. Marin
+- marin
 - rodola
 tags: []
 categories: []

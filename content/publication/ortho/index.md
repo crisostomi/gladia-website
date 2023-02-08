@@ -5,8 +5,8 @@ title: Orthogonalized Fourier polynomials for signal approximation and transfer
 subtitle: ''
 summary: ''
 authors:
-- F. Maggioli
-- S. Melzi
+- maggioli
+- melzi
 - M. Ovsjanikov
 - M. Bronstein
 - rodola

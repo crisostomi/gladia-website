@@ -5,11 +5,11 @@ title: Orthogonalized Fourier polynomials for signal approximation and transfer
 subtitle: ''
 summary: ''
 authors:
-- Filippo Maggioli
-- Simone Melzi
+- maggioli
+- melzi
 - Maksim Ovsjanikov
 - Michael M Bronstein
-- Emanuele Rodolà
+- rodola
 tags: []
 categories: []
 date: '2021-01-01'

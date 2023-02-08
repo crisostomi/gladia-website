@@ -6,8 +6,8 @@ title: Correspondence-Free Region Localization for Partial Shape Similarity via 
 subtitle: ''
 summary: ''
 authors:
-- A. Rampini
-- I. Tallini
+- rampini
+- tallini
 - M. Ovsjanikov
 - A. M. Bronstein
 - rodola

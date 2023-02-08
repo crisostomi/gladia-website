@@ -5,8 +5,8 @@ title: 'FARM: Functional automatic registration method for 3D human bodies'
 subtitle: ''
 summary: ''
 authors:
-- R. Marin
-- S. Melzi
+- marin
+- melzi
 - rodola
 - U. Castellani
 tags: []

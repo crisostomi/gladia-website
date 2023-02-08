@@ -6,9 +6,9 @@ subtitle: ''
 summary: ''
 authors:
 - moschella
-- Simone Melzi
-- Luca Cosmo
-- Filippo Maggioli
+- melzi
+- cosmo
+- maggioli
 - Or Litany
 - Maks Ovsjanikov
 - Leonidas Guibas

@@ -7,7 +7,7 @@ summary: ''
 authors:
 - F. Bergamasco
 - A. Albarelli
-- L. Cosmo
+- cosmo
 - rodola
 - A. Torsello
 tags: []

@@ -8,7 +8,7 @@ summary: ''
 authors:
 - mancusi
 - Nicola Zonca
-- Emanuele Rodolà
+- rodola
 - Silvia Zuffi
 tags: []
 categories: []

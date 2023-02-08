@@ -5,9 +5,9 @@ title: Nonlinear Spectral Geometry Processing via the TV Transform
 subtitle: ''
 summary: ''
 authors:
-- Marco Fumero
+- fumero
 - Michael Möller
-- Emanuele Rodolà
+- rodola
 tags:
 - spectral geometry
 - total variation

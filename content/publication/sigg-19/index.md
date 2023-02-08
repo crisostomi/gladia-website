@@ -5,7 +5,7 @@ title: 'ZoomOut: Spectral Upsampling for Efficient Shape Correspondence'
 subtitle: ''
 summary: ''
 authors:
-- S. Melzi
+- melzi
 - J. Ren
 - rodola
 - P. Wonka

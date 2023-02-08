@@ -7,10 +7,10 @@ subtitle: ''
 summary: ''
 authors:
 - Stefano Esposito
-- Daniele Baieri
+- baieri
 - Stefan Zellmann
 - André Hinkenjann
-- Emanuele Rodolà
+- rodola
 tags: []
 categories: []
 date: '2022-01-01'

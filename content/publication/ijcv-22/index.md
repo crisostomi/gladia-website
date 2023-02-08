@@ -5,7 +5,7 @@ title: '3D Shape Analysis Through a Quantum Lens: the Average Mixing Kernel Sign
 subtitle: ''
 summary: ''
 authors:
-- L. Cosmo
+- cosmo
 - G. Minello
 - M. Bronstein
 - rodola

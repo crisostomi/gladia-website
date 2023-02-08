@@ -7,9 +7,9 @@ subtitle: ''
 summary: ''
 authors:
 - Viviana Arrigoni
-- Filippo Maggioli
+- maggioli
 - Annalisa Massini
-- Emanuele Rodolà
+- rodola
 tags: []
 categories: []
 date: '2021-01-01'

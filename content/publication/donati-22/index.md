@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Nicolas Donati
 - Etienne Corman
-- Simone Melzi
+- melzi
 - Maks Ovsjanikov
 tags:
 - 3D shape matching

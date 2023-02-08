@@ -10,7 +10,7 @@ authors:
 - M. M. Bronstein
 - D. Cremers
 - O. Burghard
-- L. Cosmo
+- cosmo
 - A. Dieckmann
 - R. Klein
 - Y. Sahillioglu

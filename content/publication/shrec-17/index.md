@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - rodola
-- L. Cosmo
+- cosmo
 - O. Litany
 - M. M. Bronstein
 - A. M. Bronstein

@@ -5,9 +5,9 @@ title: Learning disentangled representations via product manifold projection
 subtitle: ''
 summary: ''
 authors:
-- Marco Fumero
-- Luca Cosmo
-- Simone Melzi
+- fumero
+- cosmo
+- melzi
 - Emanuele Rodola
 tags: []
 categories: []

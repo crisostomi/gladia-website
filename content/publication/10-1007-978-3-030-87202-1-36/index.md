@@ -11,7 +11,7 @@ authors:
 - Diego Dall'Alba
 - Juan Verde
 - Micha Pfeiffer
-- Riccardo Marin
+- marin
 - Stefanie Speidel
 - Paolo Fiorini
 - Stéphane Cotin

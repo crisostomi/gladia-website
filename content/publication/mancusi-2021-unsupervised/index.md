@@ -6,12 +6,12 @@ subtitle: ''
 summary: ''
 authors:
 - mancusi
-- Emilian Postolache
-- Giorgio Mariani
-- Marco Fumero
-- Andrea Santilli
-- Luca Cosmo
-- Emanuele Rodolà
+- postolache
+- mariani
+- fumero
+- santilli
+- cosmo
+- rodola
 tags: []
 categories: []
 date: '2021-01-01'

@@ -5,14 +5,14 @@ title: Learning Spectral Unions of Partial Deformable 3D Shapes
 subtitle: ''
 summary: ''
 authors:
-- Luca Moschella
-- Simone Melzi
-- Luca Cosmo
-- Filippo Maggioli
+- moschella
+- melzi
+- cosmo
+- maggioli
 - Or Litany
 - Maks Ovsjanikov
 - Leonidas Guibas
-- Emanuele Rodolà
+- rodola
 tags: []
 categories: []
 date: '2022-01-01'

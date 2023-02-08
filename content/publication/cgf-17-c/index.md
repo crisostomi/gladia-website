@@ -5,7 +5,7 @@ title: Localized manifold harmonics for spectral shape analysis
 subtitle: ''
 summary: ''
 authors:
-- S. Melzi
+- melzi
 - rodola
 - U. Castellani
 - M. M. Bronstein

@@ -5,7 +5,7 @@ title: Consistent Partial Matching of Shape Collections via Sparse Modeling
 subtitle: ''
 summary: ''
 authors:
-- L. Cosmo
+- cosmo
 - rodola
 - A. Albarelli
 - F. Mémoli

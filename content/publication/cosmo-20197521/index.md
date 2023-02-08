@@ -5,9 +5,9 @@ title: Isospectralization, or how to hear shape, style, and correspondence
 subtitle: ''
 summary: ''
 authors:
-- L. Cosmo
+- cosmo
 - M. Panine
-- A. Rampini
+- rampini
 - M. Ovsjanikov
 - M.M. Bronstein
 - R. Rodola

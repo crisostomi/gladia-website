@@ -5,13 +5,13 @@ title: 'Explanatory learning: Beyond empiricism in neural networks'
 subtitle: ''
 summary: ''
 authors:
-- Antonio Norelli
-- Giorgio Mariani
-- Luca Moschella
-- Andrea Santilli
+- norelli
+- mariani
+- moschella
+- santilli
 - Giambattista Parascandolo
-- Simone Melzi
-- Emanuele Rodolà
+- melzi
+- rodola
 tags: []
 categories: []
 date: '2022-01-01'

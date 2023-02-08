@@ -5,12 +5,12 @@ title: Latent Autoregressive Source Separation
 subtitle: ''
 summary: ''
 authors:
-- Emilian Postolache
-- Giorgio Mariani
+- postolache
+- mariani
 - mancusi
-- Andrea Santilli
-- Luca Cosmo
-- Emanuele Rodolà
+- santilli
+- cosmo
+- rodola
 tags: []
 categories: []
 date: '2023-01-01'

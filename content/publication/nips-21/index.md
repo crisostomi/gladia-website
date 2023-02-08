@@ -5,11 +5,11 @@ title: Shape registration in the time of transformers
 subtitle: ''
 summary: ''
 authors:
-- G. Trappolini
-- L. Cosmo
-- L. Moschella
-- R. Marin
-- S. Melzi
+- trappolini
+- cosmo
+- moschella
+- marin
+- melzi
 - rodola
 tags: []
 categories: []

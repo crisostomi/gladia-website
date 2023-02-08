@@ -5,8 +5,8 @@ title: "SHREC'16: Partial matching of deformable shapes"
 subtitle: ''
 summary: ''
 authors:
-- L. Cosmo
-- E. Rodolà
+- cosmo
+- rodola
 - M.M. Bronstein
 - A. Torsello
 - D. Cremers

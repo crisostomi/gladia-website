@@ -5,7 +5,7 @@ title: 'GFrames: Gradient-based local reference frame for 3D shape matching'
 subtitle: ''
 summary: ''
 authors:
-- S. Melzi
+- melzi
 - R. Spezialetti
 - F. Tombari
 - M. M. Bronstein

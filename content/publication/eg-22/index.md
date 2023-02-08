@@ -5,10 +5,10 @@ title: Learning Spectral Unions of Partial Deformable 3D Shapes
 subtitle: ''
 summary: ''
 authors:
-- L. Moschella
-- S. Melzi
-- L. Cosmo
-- F. Maggioli
+- moschella
+- melzi
+- cosmo
+- maggioli
 - O. Litany
 - M. Ovsjanikov
 - L. Guibas

@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Gautam Pai
 - Jing Ren
-- Simone Melzi
+- melzi
 - Peter Wonka
 - Maks Ovsjanikov
 tags: []

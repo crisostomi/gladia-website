@@ -10,7 +10,7 @@ authors:
 - Joseph G. Lambourne
 - Ye Wang
 - Chin-Yi Cheng
-- Marco Fumero
+- fumero
 - Kamal Rahimi Malekshan
 tags: []
 categories: []

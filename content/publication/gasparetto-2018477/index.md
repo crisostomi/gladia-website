@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - A. Gasparetto
-- L. Cosmo
+- cosmo
 - E. Rodola
 - M. Bronstein
 - A. Torsello

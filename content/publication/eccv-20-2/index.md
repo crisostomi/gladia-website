@@ -8,7 +8,7 @@ authors:
 - O. Halimi
 - I. Imanuel
 - O. Litany
-- G. Trappolini
+- trappolini
 - rodola
 - L. Guibas
 - R. Kimmel

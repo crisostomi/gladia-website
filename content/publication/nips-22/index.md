@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - R. Sundararaman
-- R. Marin
+- marin
 - rodola
 - M. Ovsjanikov
 tags: []

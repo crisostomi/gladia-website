@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Enrico Lauletta
 - Beatrice Biancardi
-- Antonio Norelli
+- norelli
 - Maurizio Mancini
 - Alessandro Panconesi
 tags: []

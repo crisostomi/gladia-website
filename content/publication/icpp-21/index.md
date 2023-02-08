@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - V. Arrigoni
-- F. Maggioli
+- maggioli
 - A. Massini
 - rodola
 tags: []

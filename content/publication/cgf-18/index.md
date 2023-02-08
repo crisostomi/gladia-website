@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - D. Nogneng
-- S. Melzi
+- melzi
 - rodola
 - U. Castellani
 - M. M. Bronstein

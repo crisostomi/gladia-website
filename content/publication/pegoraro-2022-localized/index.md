@@ -5,11 +5,11 @@ title: 'Localized Shape Modelling with Global Coherence: An Inverse Spectral App
 subtitle: ''
 summary: ''
 authors:
-- Marco Pegoraro
-- Simone Melzi
+- pegoraro
+- melzi
 - Umberto Castellani
-- Riccardo Marin
-- Emanuele Rodolà
+- marin
+- rodola
 tags: []
 categories: []
 date: '2022-01-01'

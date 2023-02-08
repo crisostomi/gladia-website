@@ -5,7 +5,7 @@ title: The Average Mixing Kernel Signature
 subtitle: ''
 summary: ''
 authors:
-- L. Cosmo
+- cosmo
 - G. Minello
 - M. Bronstein
 - L. Rossi

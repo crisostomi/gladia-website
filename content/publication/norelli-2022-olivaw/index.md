@@ -5,7 +5,7 @@ title: 'Olivaw: Mastering othello without human knowledge, nor a penny'
 subtitle: ''
 summary: ''
 authors:
-- Antonio Norelli
+- norelli
 - Alessandro Panconesi
 tags: []
 categories: []

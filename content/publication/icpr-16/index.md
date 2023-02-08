@@ -6,7 +6,7 @@ title: A Game-theoretical Approach for Joint Matching of Multiple Feature throug
 subtitle: ''
 summary: ''
 authors:
-- L. Cosmo
+- cosmo
 - A. Albarelli
 - F. Bergamasco
 - A. Torsello

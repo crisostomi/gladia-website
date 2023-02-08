@@ -8,9 +8,9 @@ authors:
 - Taira Giordani
 - Valerio Mannucci
 - Nicolò Spagnolo
-- Marco Fumero
-- Arianna Rampini
-- Emanuele Rodolà
+- fumero
+- rampini
+- rodola
 - Fabio Sciarrino
 tags: []
 categories: []

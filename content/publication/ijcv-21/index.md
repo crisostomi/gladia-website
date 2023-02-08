@@ -5,12 +5,12 @@ title: Spectral Shape Recovery and Analysis via Data-driven Connections
 subtitle: ''
 summary: ''
 authors:
-- R. Marin
-- A. Rampini
+- marin
+- rampini
 - U. Castellani
 - rodola
 - M. Ovsjanikov
-- S. Melzi
+- melzi
 tags: []
 categories: []
 date: '2021-07-01'

@@ -4,9 +4,9 @@ subtitle: ""
 publication_types:
   - "1"
 authors:
-  - L. Cosmo
+  - cosmo
   - M. Panine
-  - A. Rampini
+  - rampini
   - M. Ovsjanikov
   - M. M. Bronstein
   - rodola

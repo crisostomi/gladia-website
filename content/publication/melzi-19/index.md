@@ -5,9 +5,9 @@ title: 'ZoomOut: Spectral Upsampling for Efficient Shape Correspondence'
 subtitle: ''
 summary: ''
 authors:
-- Simone Melzi
+- melzi
 - Jing Ren
-- Emanuele Rodolà
+- rodola
 - Abhishek Sharma
 - Peter Wonka
 - Maks Ovsjanikov

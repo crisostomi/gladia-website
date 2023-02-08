@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Michele Colombo
 - Giacomo Boracchi
-- Simone Melzi
+- melzi
 tags: []
 categories: []
 date: '2022-01-01'

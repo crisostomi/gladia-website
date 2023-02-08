@@ -5,10 +5,10 @@ title: Newton’s Fractals on Surfaces via Bicomplex Algebra
 subtitle: ''
 summary: ''
 authors:
-- Filippo Maggioli
-- Daniele Baieri
-- Simone Melzi
-- Emanuele Rodolà
+- maggioli
+- baieri
+- melzi
+- rodola
 tags: []
 categories: []
 date: '2022-01-01'

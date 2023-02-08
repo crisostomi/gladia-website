@@ -5,10 +5,10 @@ title: 'MoMaS: Mold Manifold Simulation for real-time procedural texturing'
 subtitle: ''
 summary: ''
 authors:
-- Filippo Maggioli
-- Riccardo Marin
-- Simone Melzi
-- Emanuele Rodolà
+- maggioli
+- marin
+- melzi
+- rodola
 tags: []
 categories: []
 date: '2022-01-01'

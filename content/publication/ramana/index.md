@@ -6,7 +6,10 @@ title: Reduced Representation of Deformation Fields for Effective Non-rigid Shap
 subtitle: ''
 summary: ''
 authors:
-- Riccardo Marin, Emanuele Rodolà, Maks Ovsjanikov Ramana Subramanyam Sundararaman
+- Riccardo Marin
+- rodola
+- Maks Ovsjanikov
+- Ramana Subramanyam Sundararaman
 tags: []
 categories: []
 date: '2022-01-01'

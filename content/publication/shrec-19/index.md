@@ -5,8 +5,8 @@ title: "SHREC'19: Matching humans with different connectivity"
 subtitle: ''
 summary: ''
 authors:
-- S. Melzi
-- R. Marin
+- melzi
+- marin
 - rodola
 - U. Castellani
 - J. Ren

@@ -5,10 +5,10 @@ title: Generating Adversarial Surfaces via Band-Limited Perturbations
 subtitle: ''
 summary: ''
 authors:
-- Giorgio Mariani
-- Luca Cosmo
+- mariani
+- cosmo
 - Michael Bronstein
-- Emanuele Rodolà
+- rodola
 tags: []
 categories: []
 date: '2020-01-01'

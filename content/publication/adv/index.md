@@ -5,8 +5,8 @@ title: Generating Adversarial Surfaces via Band-Limited Perturbations
 subtitle: ''
 summary: ''
 authors:
-- G. Mariani
-- L. Cosmo
+- mariani
+- cosmo
 - A. Bronstein
 - rodola
 tags: []

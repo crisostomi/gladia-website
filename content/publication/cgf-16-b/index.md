@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - rodola
-- L. Cosmo
+- cosmo
 - M. M. Bronstein
 - A. Torsello
 - D. Cremers

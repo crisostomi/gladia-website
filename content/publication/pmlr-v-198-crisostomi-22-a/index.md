@@ -7,10 +7,10 @@ summary: ''
 authors:
 - crisostomi
 - Simone Antonelli
-- Valentino Maiorca
-- Luca Moschella
-- Riccardo Marin
-- Emanuele Rodolà
+- maiorca
+- moschella
+- marin
+- rodola
 tags: []
 categories: []
 date: '2022-12-01'

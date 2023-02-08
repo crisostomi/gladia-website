@@ -5,7 +5,7 @@ title: Shape analysis with anisotropic windowed Fourier transform
 subtitle: ''
 summary: ''
 authors:
-- S. Melzi
+- melzi
 - rodola
 - U. Castellani
 - M. M. Bronstein

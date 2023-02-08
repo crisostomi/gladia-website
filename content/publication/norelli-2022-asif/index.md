@@ -5,11 +5,11 @@ title: 'ASIF: Coupled Data Turns Unimodal Models to Multimodal Without Training'
 subtitle: ''
 summary: ''
 authors:
-- Antonio Norelli
-- Marco Fumero
-- Valentino Maiorca
-- Luca Moschella
-- Emanuele Rodolà
+- norelli
+- fumero
+- maiorca
+- moschella
+- rodola
 - Francesco Locatello
 tags: []
 categories: []

@@ -5,7 +5,7 @@ title: Matching deformable objects in clutter
 subtitle: ''
 summary: ''
 authors:
-- L. Cosmo
+- cosmo
 - E. Rodola
 - J. Masci
 - A. Torsello

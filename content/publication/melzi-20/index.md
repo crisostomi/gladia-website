@@ -5,8 +5,8 @@ title: Intrinsic/extrinsic embedding for functional remeshing of 3D shapes
 subtitle: ''
 summary: ''
 authors:
-- Simone Melzi
-- Riccardo Marin
+- melzi
+- marin
 - Pietro Musoni
 - Filippo Bardon
 - Marco Tarini

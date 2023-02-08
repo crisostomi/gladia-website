@@ -5,9 +5,9 @@ title: A Parametric Analysis of Discrete Hamiltonian Functional Maps
 subtitle: ''
 summary: ''
 authors:
-- E. Postolache
-- M. Fumero
-- L. Cosmo
+- postolache
+- fumero
+- cosmo
 - rodola
 tags: []
 categories: []

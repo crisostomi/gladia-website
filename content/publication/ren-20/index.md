@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Jing Ren
-- Simone Melzi
+- melzi
 - Maks Ovsjanikov
 - Peter Wonka
 tags:

@@ -5,10 +5,10 @@ title: Universal Spectral Adversarial Attacks for Deformable Shapes
 subtitle: ''
 summary: ''
 authors:
-- A. Rampini
+- rampini
 - F. Pestarini
-- L. Cosmo
-- S. Melzi
+- cosmo
+- melzi
 - rodola
 tags: []
 categories: []

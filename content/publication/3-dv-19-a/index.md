@@ -6,8 +6,8 @@ title: High-Resolution Augmentation for Automatic Template-Based Matching of Hum
 subtitle: ''
 summary: ''
 authors:
-- R. Marin
-- S. Melzi
+- marin
+- melzi
 - rodola
 - U. Castellani
 tags: []

@@ -8,8 +8,8 @@ authors:
 - T. Giordani
 - V. Mannucci
 - N. Spagnolo
-- M. Fumero
-- A. Rampini
+- fumero
+- rampini
 - rodola
 - F. Sciarrino
 tags: []

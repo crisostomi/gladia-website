@@ -5,11 +5,11 @@ title: 'LIMP: Learning Latent Shape Representations with Metric Preservation Pr
 subtitle: ''
 summary: ''
 authors:
-- L. Cosmo
-- A. Norelli
+- cosmo
+- norelli
 - O. Halimi
 - R. Kimmel
-- E. Rodolà
+- rodola
 tags: []
 categories: []
 date: '2020-01-01'

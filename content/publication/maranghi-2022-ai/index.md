@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Marianna Maranghi
 - Aris Anagnostopoulos
-- Irene Cannistraci
+- cannistraci
 - Ioannis Chatzigiannakis
 - Federico Croce
 - Giulia Di Teodoro

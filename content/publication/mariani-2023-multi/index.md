@@ -5,12 +5,12 @@ title: Multi-Source Diffusion Models for Music Generation and Separation
 subtitle: ''
 summary: ''
 authors:
-- Giorgio Mariani
-- Irene Tallini
-- Emilian Postolache
-- Michele Mancusi
-- Luca Cosmo
-- Emanuele Rodolà
+- mariani
+- tallini
+- postolache
+- mancusi
+- cosmo
+- rodola
 tags: []
 categories: []
 date: '2023-01-01'
