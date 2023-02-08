@@ -22,13 +22,13 @@ organizations:
     url: https://www.uniroma1.it/
 
 # Short bio (displayed in user profile at end of posts)
-bio: ""
+bio: "PhD student @ Sapienza, University of Rome"
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Geometry Processing
+  - Representation Learning
   - Geometric Deep Learning
+  - Natural Language Understanding
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -37,21 +37,21 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: "mailto:maiorca@di.uniroma1.it"
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/ValeMaiorca
     label: Follow me on Twitter
 
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=2VUUfFEAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Flegyas
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/valentino-maiorca
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -68,3 +68,6 @@ highlight_name: false
 
 
 {style="text-align: justify;"}
+I'm a Ph.D. student in AI at Sapienza University, Computer Science department. Towards a more general understanding of the latent shape of information, I am currently exploring innovative techniques for unifying multiple latent manifolds into a single, robust, interpretable representation.
+
+My background is in various domains, including natural language processing, computer vision, bioinformatics, and geometric deep learning. I am passionate about AI and strive to positively impact both the research field and its real-world applications.
