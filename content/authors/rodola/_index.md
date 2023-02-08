@@ -32,7 +32,9 @@ bio: ""
 interests:
   - Artificial Intelligence
   - Geometry Processing
-  - Geometric Deep Learning
+  - Graph and Geometric Deep Learning
+  - ML for Audio
+  - Computer Vision
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
