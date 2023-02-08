@@ -1,6 +1,6 @@
 ---
 title: Luca Cosmo
-role: 
+role: Assistant Professor
 bio: ""
 interests: []
 social:
