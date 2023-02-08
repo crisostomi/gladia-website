@@ -1,0 +1,9 @@
+@inproceedings{arrigoni2021efficiently,
+ abstract = {The multiplication of a matrix by its transpose, ATA, appears as an intermediate operation in the solution of a wide set of problems. In this paper, we propose a new cache-oblivious algorithm (AtA) for computing this product, based upon the classical Strassen algorithm as a sub-routine. In particular, we decrease the computational cost to the time required by Strassen’s algorithm, amounting to floating point operations. AtA works for generic rectangular matrices, and exploits the peculiar symmetry of the resulting product matrix for saving memory. In addition, we provide an extensive implementation study of AtA in a shared memory system, and extend its applicability to a distributed environment. To support our findings, we compare our algorithm with state-of-the-art solutions specialized in the computation of ATA. Our experiments highlight good scalability with respect to both the matrix size and the number of involved processes, as well as favorable performance for both the parallel paradigms and the sequential implementation, when compared with other methods in the literature.},
+ author = {Arrigoni, Viviana and Maggioli, Filippo and Massini, Annalisa and Rodolà, Emanuele},
+ booktitle = {50th International Conference on Parallel Processing},
+ pages = {1--12},
+ title = {Efficiently parallelizable strassen-based multiplication of a matrix by its transpose},
+ year = {2021}
+}
+

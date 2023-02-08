@@ -1,6 +1,6 @@
 ---
 title: Giovanni Trappolini
-role: Department of Computer Science
+role: PostDoctoral Researcher
 bio: ""
 interests:
   - Geometric Deep Learning
@@ -35,8 +35,8 @@ user_groups:
   - Alumni
 status:
   icon: ""
-last_name: Trappolini
 highlight_name: false
+last_name: Trappolini
 first_name: Giovanni
 ---
 

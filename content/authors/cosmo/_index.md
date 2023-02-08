@@ -1,6 +1,6 @@
 ---
 title: Luca Cosmo
-role: Department of Computer Science
+role: 
 bio: ""
 interests: []
 social:
@@ -21,8 +21,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/lucacosmo
 organizations:
-  - name: Sapienza, University of Rome
-    url: https://www.uniroma1.it/
+  - name: Ca' Foscari, University of Venice
+    url: https://www.unive.it/
 email: ""
 superuser: true
 user_groups:

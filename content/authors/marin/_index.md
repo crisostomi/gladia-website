@@ -1,6 +1,6 @@
 ---
 title: Riccardo Marin
-role: Department of Computer Science
+role: PostDoctoral Researcher
 bio: ""
 interests:
   - Artificial Intelligence
@@ -21,8 +21,8 @@ social:
     icon_pack: fab
     link: https://github.com/riccardomarin
 organizations:
-  - name: Sapienza, University of Rome
-    url: https://www.uniroma1.it/
+  - name: University of Tuebingen
+    url: https://uni-tuebingen.de/
 email: ""
 superuser: true
 user_groups:
