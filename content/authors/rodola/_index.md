@@ -18,7 +18,7 @@ user_groups:
 superuser: true
 
 # Role/position/tagline
-role: Department of Computer Science
+role: Full Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:

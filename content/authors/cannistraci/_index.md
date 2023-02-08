@@ -1,6 +1,6 @@
 ---
 title: Irene Cannistraci
-role: Department of Computer Science
+role: PhD Student
 bio: I am a Ph.D. student passionate about Artificial Intelligence.
 
 interests:

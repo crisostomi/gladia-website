@@ -14,7 +14,7 @@ user_groups:
 superuser: true
 
 # Role/position/tagline
-role: Department of Computer Science
+role: Project Assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
