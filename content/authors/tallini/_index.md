@@ -38,7 +38,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: "mailto:tallini@di.uniroma1.it"
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/irenetall25
