@@ -13,7 +13,7 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/cosmo_luca
     label: Follow me on Twitter
   - icon: graduation-cap
     icon_pack: fas
