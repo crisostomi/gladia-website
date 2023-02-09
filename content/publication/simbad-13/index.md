@@ -9,7 +9,7 @@ authors:
 - S. Rota Bulò
 - A. Torsello
 - A. Albarelli
-- E. Rodol\
+- rodola
 tags: []
 categories: []
 date: '2013-01-01'

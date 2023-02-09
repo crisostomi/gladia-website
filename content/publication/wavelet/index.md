@@ -9,7 +9,8 @@ authors:
 - M. Kirgo
 - melzi
 - G. Patanè
-- E. Rodol\ ̀and M. Ovsjanikov
+- rodola
+- M. Ovsjanikov
 tags: []
 categories: []
 date: '2021-02-01'
