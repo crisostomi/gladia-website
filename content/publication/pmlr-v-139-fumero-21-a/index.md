@@ -8,7 +8,7 @@ authors:
 - fumero
 - cosmo
 - melzi
-- Emanuele Rodola
+- rodola
 tags: []
 categories: []
 date: '2021-07-01'

@@ -10,7 +10,7 @@ authors:
 - rampini
 - melzi
 - cosmo
-- Emaneule Rodolà
+- rodola
 tags: []
 categories: []
 date: '2023-01-01'
