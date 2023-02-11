@@ -15,6 +15,7 @@ date: '2013-09-01'
 lastmod: 2023-02-02T06:55:27+01:00
 featured: false
 draft: false
+publication_short: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

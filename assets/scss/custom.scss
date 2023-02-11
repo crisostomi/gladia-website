@@ -2,6 +2,21 @@
  *  About widget
  **************************************************/
 
+ .paper-media{
+    display: flex;
+    align-items: center !important;
+    flex-direction: row-reverse !important;
+  }
+
+  .paper-img {
+    margin-right: 30px;
+  }
+
+  .publication-short {
+    color:rgba(0, 0, 0, 0.9);
+    font-weight: 500;
+    }
+
  #profile {
     text-align: center;
     padding: 30px 10px;
@@ -154,6 +169,7 @@
         margin-right: 12px;
       }
     }
+
   
     .dark .portrait-title h3 {
       color: rgba(255, 255, 255, 0.9);
