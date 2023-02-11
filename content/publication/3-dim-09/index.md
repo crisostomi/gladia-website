@@ -14,6 +14,7 @@ date: '2009-10-01'
 lastmod: 2023-02-02T06:55:38+01:00
 featured: false
 draft: false
+publication_short: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -33,5 +34,6 @@ publishDate: '2023-02-02T05:55:37.724428Z'
 publication_types:
 - '1'
 abstract: ''
-publication: "*Proc. Int'l Conference on Computer Vision Workshops (ICCV - 3DIM)*"
+publication: "Proc. Int'l Conference on Computer Vision Workshops (ICCV - 3DIM)"
+publication_short: "ICCV-3DIM"
 ---

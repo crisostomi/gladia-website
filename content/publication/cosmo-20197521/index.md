@@ -18,6 +18,7 @@ date: '2019-01-01'
 lastmod: 2023-02-08T19:53:25+01:00
 featured: false
 draft: false
+publication_short: "CVPR 2019"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
