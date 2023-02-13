@@ -9,7 +9,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: 'riccardo.marin@mnf.uni-tuebingen.de'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/_R_Marin_
@@ -20,6 +20,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/riccardomarin
+  - icon: globe-americas
+    icon_pack: fas
+    link: https://riccardomarin.github.io/
 organizations:
   - name: University of Tuebingen
     url: https://uni-tuebingen.de/
