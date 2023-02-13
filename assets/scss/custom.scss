@@ -6,11 +6,9 @@
     display: flex;
     align-items: center !important;
     flex-direction: row-reverse !important;
-  }
-
-  .paper-img {
-    margin-right: 30px;
-  }
+    column-gap: 30px;
+    padding-bottom: 40px;
+}
 
   .publication-short {
     color:rgba(0, 0, 0, 0.9);
