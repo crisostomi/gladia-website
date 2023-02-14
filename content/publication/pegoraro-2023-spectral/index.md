@@ -11,13 +11,17 @@ authors:
 - melzi
 - cosmo
 - rodola
-tags: []
+tags:
+- '"Computer Science - Machine Learning"'
+- 'Spectral theory'
+- 'Learning on graphs'
+- 'Subgraphs'
 categories: []
 date: '2023-01-01'
 lastmod: 2023-02-05T10:57:52+01:00
 featured: false
 draft: false
-publication_short: ""
+publication_short: "Preprint"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -34,8 +38,6 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2023-02-05T09:57:52.156096Z'
-publication_types:
-- '2'
 abstract: In graph learning, maps between graphs and their subgraphs frequently arise.
   For instance, when coarsening or rewiring operations are present along the pipeline,
   one needs to keep track of the corresponding nodes between the original and modified
@@ -54,4 +56,7 @@ abstract: In graph learning, maps between graphs and their subgraphs frequently 
   learning, where we show comparable or improved performance at a fraction of the
   computational cost.
 publication: '*arXiv preprint arXiv:2108.02161*'
+links:
+- name: URL
+  url: https://arxiv.org/pdf/2205.14938.pdf
 ---
