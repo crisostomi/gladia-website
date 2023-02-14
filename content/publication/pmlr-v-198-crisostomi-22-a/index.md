@@ -17,7 +17,7 @@ date: '2022-12-01'
 lastmod: 2023-02-05T16:50:39+01:00
 featured: false
 draft: false
-publication_short: ""
+publication_short: "LoG 2022"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
