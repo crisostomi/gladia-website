@@ -10,13 +10,17 @@ authors:
 - Umberto Castellani
 - marin
 - rodola
-tags: []
+tags:
+- '"Computer Science - Machine Learning"'
+- 'featured'
+- 'Spectral theory'
+- 'Geometry Processing'
 categories: []
 date: '2022-01-01'
 lastmod: 2023-02-05T10:57:53+01:00
 featured: false
 draft: false
-publication_short: ""
+publication_short: "CGF"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -34,7 +38,7 @@ image:
 projects: []
 publishDate: '2023-02-05T09:57:52.951304Z'
 publication_types:
-- '1'
+- '2'
 abstract: Many natural shapes have most of their characterizing features concentrated
   over a few regions in space. For example, humans and animals have distinctive head
   shapes, while inorganic objects like chairs and airplanes are made of well-localized
@@ -54,4 +58,7 @@ abstract: Many natural shapes have most of their characterizing features concent
   to shape representations not seen at training time, and we systematically analyze
   different choices of local operators over diverse shape categories.
 publication: '*Computer Graphics Forum*'
+links:
+- name: URL
+  url: https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14599
 ---
