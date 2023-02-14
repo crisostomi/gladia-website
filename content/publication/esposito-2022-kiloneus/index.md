@@ -4,20 +4,25 @@
 title: 'KiloNeuS: A Versatile Neural Implicit Surface Representation for Real-Time
   Rendering'
 subtitle: ''
-summary: ''
+summary: A neural implicit representation which couples solving for a well-defined surface
+  and real-time rendering capabilities.
 authors:
 - Stefano Esposito
 - baieri
 - Stefan Zellmann
 - André Hinkenjann
 - rodola
-tags: []
+tags: 
+  - neural geometry
+  - nerf
+  - rendering
+  - real-time
 categories: []
 date: '2022-01-01'
 lastmod: 2023-02-06T11:39:09+01:00
 featured: false
 draft: false
-publication_short: ""
+publication_short: arXiv
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -26,6 +31,12 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
+
+links:
+  - name: URL
+    url: https://arxiv.org/pdf/2206.10885.pdf
+  
+
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
