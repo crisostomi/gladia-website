@@ -46,5 +46,5 @@ abstract: 'The last two decades have seen an incessant growth in the use of Unma
 publication: '*Remote Sensing*'
 links:
  - name: URL
- - url: https://iris.uniroma1.it/bitstream/11573/1655215/3/Avola_Novel_2022.pdf
+   url: https://iris.uniroma1.it/bitstream/11573/1655215/3/Avola_Novel_2022.pdf
 ---
