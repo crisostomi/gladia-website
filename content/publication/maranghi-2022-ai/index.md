@@ -15,7 +15,12 @@ authors:
 - Giorgio Grani
 - Maurizio Lenzerini
 - Stefano Leonardi
-- ' others'
+- Andrea Mastropietro
+- Laura Palagi
+- Massimiliano Pappa
+- Riccardo Rosati
+- Riccardo Valentini
+- Paola Velardi
 tags: []
 categories: []
 date: '2022-01-01'
