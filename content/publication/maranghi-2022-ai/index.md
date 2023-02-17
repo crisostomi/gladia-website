@@ -40,7 +40,10 @@ image:
 projects: []
 publishDate: '2023-02-06T11:14:04.668002Z'
 publication_types:
-- '2'
-abstract: ''
+- '3'
+abstract: 'The Associazione Medici Diabetologi (AMD) collects and manages one of the largest worldwide available collections of diabetic patient records, also known as the AMD database. This paper presents the initial results of an ongoing project whose focus is the application of Artificial Intelligence and Machine Learning techniques for conceptualizing, cleaning, and analyzing such an important and valuable dataset, with the goal of providing predictive insights to better support diabetologists in their diagnostic and therapeutic choices.'
 publication: '*arXiv preprint arXiv:2206.06182*'
+links:
+- name: URL
+  url : https://arxiv.org/pdf/2206.06182.pdf
 ---
