@@ -7,15 +7,17 @@ subtitle: ''
 summary: ''
 authors:
 - M. Kirgo
-- S. Melzi
+- melzi
 - G. Patanè
-- E. Rodol\ ̀and M. Ovsjanikov
+- rodola
+- M. Ovsjanikov
 tags: []
 categories: []
 date: '2021-02-01'
 lastmod: 2023-02-02T06:54:36+01:00
 featured: false
 draft: false
+publication_short: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

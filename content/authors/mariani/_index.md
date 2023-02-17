@@ -14,7 +14,7 @@ user_groups:
 superuser: true
 
 # Role/position/tagline
-role: Department of Computer Science
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -22,13 +22,13 @@ organizations:
     url: https://www.uniroma1.it/
 
 # Short bio (displayed in user profile at end of posts)
-bio: ""
+bio: "Refactor specialist"
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Geometry Processing
-  - Geometric Deep Learning
+  - Generative Models
+  - Music Synthesis
+  - Computer Graphics
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -37,21 +37,21 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:mariani@di.uniroma1.it'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/mariani_giorgio
     label: Follow me on Twitter
 
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=sHuNq7MAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/giorgio-mariani
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/giorgio-mariani
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -60,7 +60,7 @@ social:
 #     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'mariani@di.uniroma1.it'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -68,3 +68,8 @@ highlight_name: false
 
 
 {style="text-align: justify;"}
+I am a Ph.D. student in the Computer Science department at Sapienza, currently working under the supervision of Prof. Emanuele Rodolà.
+
+My interests lie in generative models, in particular autoregressive and diffusion based, audio/music synthesis, and computer graphics (especially as an enthusiast of animation movies and video games).
+
+In my free time, I enjoy watching movies/series, drinking beers with friends, and playing board games (the last two are often not mutually exclusive).

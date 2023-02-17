@@ -14,7 +14,7 @@ user_groups:
 superuser: true
 
 # Role/position/tagline
-role: Department of Computer Science
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -23,9 +23,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: >
-    I am an Assistant Professor (tenure track) at the University of Milano-Bicocca, in the Department of Informatics, Systems and Communication (DISCo).
-    I was a Post Doctoral researcher in Computer Science at the Sapienza University of Rome in the GLADIA team led by Prof. Emanuele Rodolà.  Previously, I was a post-doctoral researcher at the École Polytechnique in the team of Prof. Maks Ovsjanikov (6 months) and at the Università Degli Studi di Verona (2018-2019). I received my PhD in Computer Science at Università Degli Studi di Verona (2018)  and graduated in math at the University of Milan "La Statale" (2013).
-    I received The Marie-Curie Individual Fellowships and the Seal of Excellence for the H2020-MSCA-IF-EF-ST-2019 proposal NON-LINFMAPS, (score 92.20/100), the BE-FOR-ERC 2020 grant in the role of Principal Investigator as post Doctoral researcher at Sapienza University of Rome and the EG-Italy PhD thesis award (2018). I work on geometry processing, 3D shape analysis and artificial intelligence. I maintain fruitful collaborations with many world leaders in this area both with academic institutions and companies.
+    Assistant Professor at the University of Milano-Bicocca
 
 # Interests to show in About widget
 interests:

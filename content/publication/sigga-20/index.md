@@ -5,7 +5,7 @@ title: Nonlinear Spectral Geometry Processing via the TV Transform
 subtitle: ''
 summary: ''
 authors:
-- M. Fumero
+- fumero
 - M. Moeller
 - rodola
 tags: []
@@ -14,6 +14,7 @@ date: '2020-01-01'
 lastmod: 2023-02-02T06:54:33+01:00
 featured: false
 draft: false
+publication_short: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

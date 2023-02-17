@@ -14,7 +14,7 @@ user_groups:
 superuser: true
 
 # Role/position/tagline
-role: Department of Computer Science
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -38,7 +38,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: "mailto:tallini@di.uniroma1.it"
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/irenetall25

@@ -9,7 +9,7 @@ authors:
 - Iris Agresti
 - Davide Poderini
 - Leonardo Guerini
-- Michele Mancusi
+- mancusi
 - Gonzalo Carvacho
 - Leandro Aolita
 - Daniel Cavalcanti
@@ -21,6 +21,7 @@ date: '2020-01-01'
 lastmod: 2023-02-05T10:57:34+01:00
 featured: false
 draft: false
+publication_short: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

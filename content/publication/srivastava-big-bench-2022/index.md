@@ -6,13 +6,13 @@ subtitle: ''
 summary: ''
 authors:
 - 442 authors including
-- Andrea Santilli
-- Antonio Norelli
+- santilli
+- norelli
 - rodola
 - Giambattista Parascandolo
-- Giorgio Mariani
+- mariani
 - moschella
-- Simone Melzi
+- melzi
 
 
 tags:
@@ -27,6 +27,7 @@ date: '2022-06-09'
 lastmod: 2022-03-31T14:18:10+02:00
 featured: false
 draft: false
+publication_short: ""
 
 links:
 - icon:  chalkboard-user

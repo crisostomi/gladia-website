@@ -4,6 +4,9 @@ title: Our paper "Relative representations enable zero-shot latent space communi
 event: ""
 event_url: ""
 
+authors:
+    - moschella
+
 # location: Wowchemy HQ
 # address:
 #   street: 450 Serra Mall
@@ -12,8 +15,8 @@ event_url: ""
 #   postcode: '94305'
 #   country: United States
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: ""
+abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -24,14 +27,13 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
 
-authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: ''
   focal_point: Right
 
 # links:
@@ -58,3 +60,4 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+Our paper "*Relative representations enable zero-shot latent space communication*" was accepted to **ICLR 2023** as an Oral (Notable Top 5%) presentation!

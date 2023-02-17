@@ -27,11 +27,11 @@ content:
     longitude: '12.496957997541974'
   directions: ""
 #   appointment_url: 'https://calendly.com'
-  #contact_links:
-  #  - icon: comments
-  #    icon_pack: fas
-  #    name: Discuss on Forum
-  #    link: 'https://discourse.gohugo.io'
+  contact_links:
+    - icon: github
+      icon_pack: fab
+      name: Follow Us on GitHub!
+      link: 'https://github.com/gladia-research-group'
 
   # Automatically link email and phone or display as text?
   autolink: true

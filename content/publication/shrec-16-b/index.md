@@ -5,7 +5,7 @@ title: "SHREC'16: Partial Matching of Deformable Shapes"
 subtitle: ''
 summary: ''
 authors:
-- L. Cosmo
+- cosmo
 - rodola
 - M. M. Bronstein
 - A. Torsello
@@ -17,6 +17,7 @@ date: '2016-05-01'
 lastmod: 2023-02-02T06:55:18+01:00
 featured: false
 draft: false
+publication_short: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

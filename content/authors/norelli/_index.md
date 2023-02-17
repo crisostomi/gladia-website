@@ -14,7 +14,7 @@ user_groups:
 superuser: true
 
 # Role/position/tagline
-role: Department of Computer Science
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -22,7 +22,7 @@ organizations:
     url: https://www.uniroma1.it/
 
 # Short bio (displayed in user profile at end of posts)
-bio: ""
+bio: "PhD student in AI @ Sapienza University of Rome, CS dep. I love teaching, especially to machines."
 
 # Interests to show in About widget
 interests:
@@ -39,7 +39,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'norelli at di dot uniroma1 dot it'
+    link: lastname@di.uniroma1.it
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/noranta4
@@ -54,6 +54,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/antonio-norelli-28862b41/
+  - icon: globe-americas
+    icon_pack: fas
+    link: https://www.noranta4.com
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -67,8 +70,14 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
+
+{style="text-align: justify;"}
 I am Antonio Norelli, a Computer Science PhD student at the Sapienza University of Rome working on AI and deep learning in the GLADIA research group, advised by Emanuele Rodolà.
 
 Before joining the group, I studied physics (BSc), computer science (MSc), and pursued the SSAS interdisciplinary honors program. I worked as a remote Research Intern for Spiketrap (San Francisco, CA), and as an Applied Scientist Intern for the Amazon Lablet in Tübingen (Germany).
 
-{style="text-align: justify;"}
+---
+
+**What makes us humans?** I am interested in the intelligence that accounts for the difference existing between human beings and the other animals.
+
+To me this gap is on par to the one between life and non-life and is the consequence of a fundamental property of nature, that should be understood in terms of information processing. Currently, I am persuaded that this intelligence coincides with our use of symbols, and that we shall model the mechanism through which humans link meaning to new signs. As when a scientist propose a new theory.

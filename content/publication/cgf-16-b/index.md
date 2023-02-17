@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - rodola
-- L. Cosmo
+- cosmo
 - M. M. Bronstein
 - A. Torsello
 - D. Cremers
@@ -16,6 +16,7 @@ date: '2017-01-01'
 lastmod: 2023-02-02T06:54:55+01:00
 featured: false
 draft: false
+publication_short: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

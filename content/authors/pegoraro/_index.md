@@ -14,7 +14,7 @@ user_groups:
 superuser: true
 
 # Role/position/tagline
-role: Department of Computer Science
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -63,7 +63,7 @@ social:
 email: 'pegoraro@di.uniroma1.it'
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 ---
 As a Ph.D. student at Sapienza University of Rome, I am part of the GLADIA research group led by Emanuele Rodol\`{a}. With a background in Computer Science and Engineering from the University of Verona (2021), I specialize in Geometric Deep Learning, Geometry Processing, and 3D spectral shape analysis. 
 

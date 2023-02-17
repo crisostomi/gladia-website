@@ -1,15 +1,15 @@
 ---
 title: Giovanni Trappolini
-role: Department of Computer Science
+role: PostDoctoral Researcher
 bio: ""
 interests:
-  - Artificial Intelligence
-  - Geometry Processing
   - Geometric Deep Learning
+  - Multimodal Learning
+  - Artificial Intelligence
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: 'mailto:giovanni.trappolini@uniroma1.it'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/rarinpear
@@ -23,6 +23,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/giovanni-trappolini
+  - icon: globe
+    icon_pack: fas
+    link: https://sites.google.com/view/giovannitrappolini
 organizations:
   - name: Sapienza, University of Rome
     url: https://www.uniroma1.it/
@@ -32,10 +35,16 @@ user_groups:
   - Alumni
 status:
   icon: ""
-last_name: Trappolini
 highlight_name: false
+last_name: Trappolini
 first_name: Giovanni
 ---
+
+Dr. Giovanni Trappolini is a postdoctoral researcher in the RSTLess lab led by Fabrizio Silvestri at Sapienza university.
+Previously, he obtained his Ph.D. in Machine Learning under the Supervision of Emanuele Rodolà.
+Giovanni has been actively involved in cutting-edge research in deep learning to analyze geometric and multimodal data, focusing on integrating prior information in these models to improve their performance.
+He has published several peer-reviewed articles in leading conferences and journals, showcasing his contributions to the advancement of the field. 
+He is always striving to advance the field and drive new breakthroughs in the area of multimodal and geometric deep learning.
 
 
 {style="text-align: justify;"}

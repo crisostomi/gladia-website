@@ -5,18 +5,19 @@ title: Instant recovery of shape from spectrum via latent space connections
 subtitle: ''
 summary: ''
 authors:
-- R. Marin
-- A. Rampini
+- marin
+- rampini
 - U. Castellani
 - rodola
 - M. Ovsjanikov
-- S. Melzi
+- melzi
 tags: []
 categories: []
 date: '2020-11-01'
 lastmod: 2023-02-02T06:54:33+01:00
 featured: false
 draft: false
+publication_short: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

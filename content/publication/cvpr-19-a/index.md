@@ -5,7 +5,7 @@ title: 'GFrames: Gradient-based local reference frame for 3D shape matching'
 subtitle: ''
 summary: ''
 authors:
-- S. Melzi
+- melzi
 - R. Spezialetti
 - F. Tombari
 - M. M. Bronstein
@@ -17,6 +17,7 @@ date: '2019-06-01'
 lastmod: 2023-02-02T06:55:07+01:00
 featured: false
 draft: false
+publication_short: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

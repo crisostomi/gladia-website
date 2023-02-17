@@ -5,8 +5,8 @@ title: 'FARM: Functional automatic registration method for 3D human bodies'
 subtitle: ''
 summary: ''
 authors:
-- R. Marin
-- S. Melzi
+- marin
+- melzi
 - rodola
 - U. Castellani
 tags: []
@@ -15,6 +15,7 @@ date: '2020-02-01'
 lastmod: 2023-02-02T06:54:47+01:00
 featured: false
 draft: false
+publication_short: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

@@ -14,12 +14,12 @@ user_groups:
 superuser: true
 
 # Role/position/tagline
-role: Department of Computer Science
+role: Senior Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Sapienza, University of Rome
-    url: https://www.uniroma1.it/
+  - name: Autodesk
+    url: https://www.research.autodesk.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
