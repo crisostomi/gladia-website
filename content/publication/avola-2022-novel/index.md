@@ -16,7 +16,7 @@ authors:
 - Romeo Lanzino
 - Maurizio Mancini
 - Alessio Mecca
-- ' others'
+- Daniele Pannone
 tags: []
 categories: []
 date: '2022-01-01'
