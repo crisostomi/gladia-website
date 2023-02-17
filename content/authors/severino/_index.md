@@ -53,9 +53,6 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/silvio-severino/
-  - icon: face-smiling-hands
-    icon_pack: fa-solid
-    link: https://huggingface.co/silsever
 
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
