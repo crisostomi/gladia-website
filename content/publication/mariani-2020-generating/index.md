@@ -5,17 +5,22 @@ title: Generating Adversarial Surfaces via Band-Limited Perturbations
 subtitle: ''
 summary: ''
 authors:
-- mariani
-- cosmo
-- Michael Bronstein
-- rodola
-tags: []
-categories: []
+ - mariani
+ - cosmo
+ - Alex Bronstein
+ - rodola
+
+tags:
+- Geometric Deep Learning
+- Adversarial Examples
+- Shape analysis
+categories:
+- Geometric Deep Learning
+- Adversarial Examples
 date: '2020-01-01'
-lastmod: 2023-02-06T11:38:52+01:00
+lastmod: 2023-02-20T18:52:41+01:00
 featured: false
 draft: false
-publication_short: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -31,13 +36,28 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-02-06T10:38:52.100204Z'
+publishDate: '2023-02-20T17:52:41.298080Z'
 publication_types:
 - '2'
-abstract: ''
-publication: '*Comput. Graph. Forum*'
-doi: 10.1111/cgf.14083
+abstract: Abstract Adversarial attacks have demonstrated remarkable efficacy in altering
+  the output of a learning model by applying a minimal perturbation to the input data.
+  While increasing attention has been placed on the image domain, however, the study
+  of adversarial perturbations for geometric data has been notably lagging behind.
+  In this paper, we show that effective adversarial attacks can be concocted for surfaces
+  embedded in 3D, under weak smoothness assumptions on the perceptibility of the attack.
+  We address the case of deformable 3D shapes in particular, and introduce a general
+  model that is not tailored to any specific surface representation, nor does it assume
+  access to a parametric description of the 3D object. In this context, we consider
+  targeted and untargeted variants of the attack, demonstrating compelling results
+  in either case. We further show how discovering adversarial examples, and then using
+  them for adversarial training, leads to an increase in both robustness and accuracy.
+  Our findings are confirmed empirically over multiple datasets spanning different
+  semantic classes and deformations.
+publication: '*Computer Graphics Forum*'
+doi: https://doi.org/10.1111/cgf.14083
 links:
 - name: URL
-  url: https://doi.org/10.1111/cgf.14083
+  url: https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14083
+- name: GITHUB
+  url: https://github.com/giorgio-mariani/Adversarial-Surfaces-via-Band-Limited-Perturbations
 ---
