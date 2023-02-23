@@ -12,7 +12,9 @@ authors:
 - santilli
 - cosmo
 - rodola
-tags: []
+tags:
+- Signal Processing
+- Source Separation
 categories: []
 date: '2021-01-01'
 lastmod: 2023-02-05T10:57:35+01:00
@@ -52,4 +54,9 @@ abstract: State of the art audio source separation models rely on supervised dat
   results in line with state of the art supervised approaches while requiring fewer
   resources with respect to other unsupervised methods.
 publication: '*arXiv preprint arXiv:2110.05313*'
+links:
+- name: 'arXiv'
+  url: https://arxiv.org/abs/2110.05313
+- name: GitHub
+  url: https://github.com/michelemancusi/LQVAE-separation
 ---
