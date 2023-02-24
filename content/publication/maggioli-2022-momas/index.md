@@ -25,6 +25,10 @@ image:
   focal_point: ''
   preview_only: false
 
+links:
+- name: URL
+  url: https://boa.unimib.it/retrieve/09f247d5-0a17-4a2d-a0ba-52e0f39efaf5/Maggioli-2022-Computer%20Graphics%20Forum-VoR.pdf
+
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.

@@ -22,7 +22,7 @@ organizations:
     url: https://www.uniroma1.it/
 
 # Short bio (displayed in user profile at end of posts)
-bio: "PhD student @ Sapienza, University of Rome"
+bio: "PhD student @ Sapienza, University of Rome | former PhD visiting @ KAUST, King Abdullah University of Science and Technology"
 
 # Interests to show in About widget
 interests:

@@ -26,6 +26,12 @@ image:
   focal_point: ''
   preview_only: false
 
+links:
+- name: URL
+  url: https://www.lix.polytechnique.fr/~maks/papers/EG21_Fourier_polynomials.pdf
+- name: GitHub
+  url: https://github.com/filthynobleman/orthogonalized-fourier-polynomial
+
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
@@ -35,7 +41,7 @@ projects: []
 publishDate: '2023-02-08T15:41:51.287187Z'
 publication_types:
 - '1'
-abstract: Abstract We propose a novel approach for the approximation and transfer
+abstract: We propose a novel approach for the approximation and transfer
   of signals across 3D shapes. The proposed solution is based on taking pointwise
   polynomials of the Fourier-like Laplacian eigenbasis, which provides a compact and
   expressive representation for general signals defined on the surface. Key to our

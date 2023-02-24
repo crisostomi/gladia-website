@@ -17,6 +17,12 @@ featured: false
 draft: false
 publication_short: ""
 
+links:
+- name: URL
+  url: https://boa.unimib.it/retrieve/e33ba34f-cb44-4685-a5ca-97ecf89917fa/Maggioli-2022-SIGGA-VoR.pdf
+- name GitHub
+  url: https://github.com/filthynobleman/newton-fractals
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -36,4 +42,5 @@ publication_types:
 - '6'
 abstract: ''
 publication: '*ACM SIGGRAPH 2022 Posters*'
+abstract: Real-time procedural texturing is becoming more and more important as the need of large variety of contents increases. We propose a new technique that exploits the properties of a 4-dimensional algebraic field for efficiently computing on GPU a procedural texture with fractal properties. The produced pattern are shown to be well suitable in many applications, especially when used as building blocks for complex materials.
 ---

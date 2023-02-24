@@ -26,6 +26,12 @@ image:
   focal_point: ''
   preview_only: false
 
+links:
+- name: URL
+  url: https://arxiv.org/pdf/2110.13042.pdf
+- name: GitHub
+  url: https://github.com/filthynobleman/AtA
+
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
