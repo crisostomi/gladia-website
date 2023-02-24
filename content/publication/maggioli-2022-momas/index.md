@@ -26,7 +26,7 @@ image:
   preview_only: false
 
 links:
-- name: URL
+- name: PDF
   url: https://boa.unimib.it/retrieve/09f247d5-0a17-4a2d-a0ba-52e0f39efaf5/Maggioli-2022-Computer%20Graphics%20Forum-VoR.pdf
 
 # Projects (optional).

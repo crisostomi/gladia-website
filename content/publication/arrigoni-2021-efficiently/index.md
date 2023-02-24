@@ -27,7 +27,7 @@ image:
   preview_only: false
 
 links:
-- name: URL
+- name: PDF
   url: https://arxiv.org/pdf/2110.13042.pdf
 - name: GitHub
   url: https://github.com/filthynobleman/AtA

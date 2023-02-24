@@ -27,7 +27,7 @@ image:
   preview_only: false
 
 links:
-- name: URL
+- name: PDF
   url: https://www.lix.polytechnique.fr/~maks/papers/EG21_Fourier_polynomials.pdf
 - name: GitHub
   url: https://github.com/filthynobleman/orthogonalized-fourier-polynomial
