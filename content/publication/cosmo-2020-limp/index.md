@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Limp: Learning latent shape representations with metric preservation priors'
+title: 'LIMP: Learning Latent Shape Representations with Metric Preservation Priors'
 subtitle: ''
 summary: ''
 authors:
@@ -10,13 +10,13 @@ authors:
 - Oshri Halimi
 - Ron Kimmel
 - rodola
-tags: []
+tags: ['featured']
 categories: []
 date: '2020-01-01'
 lastmod: 2023-02-05T10:57:41+01:00
 featured: false
 draft: false
-publication_short: ""
+publication_short: "ECCV 2021"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
