@@ -3,20 +3,20 @@
 
 title: Orthogonalized Fourier polynomials for signal approximation and transfer
 subtitle: ''
-summary: ''
+summary: 'The usual Laplacian eigenbasis is extended to consider also polynomials of the eigenfunctions. The new extended basis has in increased descriptive power in signal reconstruction and transfer tasks, coming at a very reduced cost.'
 authors:
 - maggioli
 - melzi
 - Maksim Ovsjanikov
 - Michael M Bronstein
 - rodola
-tags: []
+tags: ["Spectral Geometry", "Shape Matching", "Signal Transfer"]
 categories: []
 date: '2021-01-01'
 lastmod: 2023-02-08T16:41:52+01:00
 featured: false
 draft: false
-publication_short: ""
+publication_short: "EUROGRAPHICS 2021"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -25,6 +25,12 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
+
+links:
+- name: PDF
+  url: https://www.lix.polytechnique.fr/~maks/papers/EG21_Fourier_polynomials.pdf
+- name: GitHub
+  url: https://github.com/filthynobleman/orthogonalized-fourier-polynomial
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -35,7 +41,7 @@ projects: []
 publishDate: '2023-02-08T15:41:51.287187Z'
 publication_types:
 - '1'
-abstract: Abstract We propose a novel approach for the approximation and transfer
+abstract: We propose a novel approach for the approximation and transfer
   of signals across 3D shapes. The proposed solution is based on taking pointwise
   polynomials of the Fourier-like Laplacian eigenbasis, which provides a compact and
   expressive representation for general signals defined on the surface. Key to our
