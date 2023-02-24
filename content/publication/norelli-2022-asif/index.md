@@ -51,10 +51,11 @@ abstract: CLIP proved that aligning visual and language spaces is key to solving
   baseline for foundation multi-modal models, raising important questions on their
   data efficiency and on the role of retrieval in machine learning.
   
- links:
-        - name: PDF
-          url: https://arxiv.org/pdf/2210.01738.pdf
-        - name: arXiv
-          url: https://arxiv.org/abs/2210.01738
+links:
+  - name: PDF
+    url: https://arxiv.org/pdf/2210.01738.pdf
+  - name: arXiv
+    url: https://arxiv.org/abs/2210.01738
+    
 publication: '*arXiv preprint arXiv:2210.01738*'
 ---
