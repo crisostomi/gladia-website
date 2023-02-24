@@ -3,19 +3,19 @@
 
 title: Newton’s Fractals on Surfaces via Bicomplex Algebra
 subtitle: ''
-summary: ''
+summary: 'An algorithm that exploits features of the bicomplex field to compute 4-dimensional Newton fractals for procedural texturing applications. The generated fractals are computed in a pixel shader only on the target surface to achieve real-time performance.'
 authors:
 - maggioli
 - baieri
 - melzi
 - rodola
 tags: []
-categories: []
+categories: ["Procedural Texturing", "GPU Computing"]
 date: '2022-01-01'
 lastmod: 2023-02-08T16:41:54+01:00
 featured: false
 draft: false
-publication_short: ""
+publication_short: "SIGGRAPH 2022"
 
 links:
 - name: PDF

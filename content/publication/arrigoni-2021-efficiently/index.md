@@ -4,19 +4,19 @@
 title: Efficiently parallelizable strassen-based multiplication of a matrix by its
   transpose
 subtitle: ''
-summary: ''
+summary: 'An efficient algorithm for computing the multiplication of a matrix by its transpose, exploiting Strassen-like recursions. The algorithm is designed to be parallelized with multiple paradigms, from multi-threading to distributed computing.'
 authors:
 - Viviana Arrigoni
 - maggioli
 - Annalisa Massini
 - rodola
-tags: []
+tags: ["Numerical Linear Algebra", "Parallel Algorithms", "Distributed Computing"]
 categories: []
 date: '2021-01-01'
 lastmod: 2023-02-08T16:41:53+01:00
 featured: false
 draft: false
-publication_short: ""
+publication_short: "ICPP 2021"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

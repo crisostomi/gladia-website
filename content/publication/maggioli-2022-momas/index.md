@@ -3,19 +3,19 @@
 
 title: 'MoMaS: Mold Manifold Simulation for real-time procedural texturing'
 subtitle: ''
-summary: ''
+summary: 'A generalization of the algorithm for simulating the evolution of slime mold organisms to work on triangular meshes. The algorithm is implemented on GPU to achieve real-time performance.'
 authors:
 - maggioli
 - marin
 - melzi
 - rodola
-tags: []
+tags: ["Procedural Texturing", "Geometry Processing", "GPU Computing"]
 categories: []
 date: '2022-01-01'
 lastmod: 2023-02-08T16:41:56+01:00
 featured: false
 draft: false
-publication_short: ""
+publication_short: "PG 2022"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
