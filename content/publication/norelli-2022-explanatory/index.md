@@ -54,15 +54,15 @@ abstract: At the crossroads of Program Synthesis and Meta-Learning, we introduce
   architecture (Transformers) in discovering explanations for unseen environments.
 
 links:
-        - name: PDF
-          url: https://arxiv.org/pdf/2201.10222.pdf
-        - name: GitHub
-          url: https://github.com/gladia-research-group/explanatory-learning
-        - name: arXiv
-          url: https://arxiv.org/abs/2201.10222
-        - icon: twitter
-          name: Thread
-          url: https://twitter.com/noranta4/status/1493893787696906241?s=20
+  - name: PDF
+    url: https://arxiv.org/pdf/2201.10222.pdf
+  - name: GitHub
+    url: https://github.com/gladia-research-group/explanatory-learning
+  - name: arXiv
+    url: https://arxiv.org/abs/2201.10222
+  - icon: twitter
+    name: Thread
+    url: https://twitter.com/noranta4/status/1493893787696906241?s=20
         
 publication: '*arXiv preprint arXiv:2201.10222*'
 ---
