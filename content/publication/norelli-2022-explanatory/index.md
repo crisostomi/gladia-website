@@ -52,8 +52,8 @@ abstract: At the crossroads of Program Synthesis and Meta-Learning, we introduce
   can offer strong confidence guarantees on their predictions. Using Odeen as a testbed,
   we show how CRNs outperform empiricist end-to-end approaches of similar size and
   architecture (Transformers) in discovering explanations for unseen environments.
-  
- links:
+
+links:
         - name: PDF
           url: https://arxiv.org/pdf/2201.10222.pdf
         - name: GitHub
