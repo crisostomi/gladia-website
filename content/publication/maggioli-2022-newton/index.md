@@ -20,7 +20,7 @@ publication_short: ""
 links:
 - name: URL
   url: https://boa.unimib.it/retrieve/e33ba34f-cb44-4685-a5ca-97ecf89917fa/Maggioli-2022-SIGGA-VoR.pdf
-- name GitHub
+- name: GitHub
   url: https://github.com/filthynobleman/newton-fractals
 
 # Featured image
