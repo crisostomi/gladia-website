@@ -10,6 +10,23 @@
     padding-bottom: 40px;
 }
 
+/* Media queries for smaller screens */
+@media screen and (max-width: 600px) {
+/* Reduce the height of the list items */
+funding-item {
+    height: 120px;
+}
+/* Reduce the size of the images */
+.funding-img {
+    width: 80px;
+    margin-right: 5px;
+}
+/* Reduce the font size of the title text */
+strong {
+    font-size: 14px;
+}
+}
+
   .publication-short {
     color:rgba(0, 0, 0, 0.9);
     font-weight: 500;
