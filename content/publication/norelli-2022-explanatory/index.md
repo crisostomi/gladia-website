@@ -3,7 +3,7 @@
 
 title: 'Explanatory learning: Beyond empiricism in neural networks'
 subtitle: ''
-summary: ''
+summary: 'When a ML system becomes an artificial scientist: mastering the game of Zendo with Transformers.'
 authors:
 - norelli
 - mariani
@@ -18,7 +18,7 @@ date: '2022-01-01'
 lastmod: 2023-02-05T10:57:42+01:00
 featured: false
 draft: false
-publication_short: ""
+publication_short: "preprint"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -52,5 +52,17 @@ abstract: At the crossroads of Program Synthesis and Meta-Learning, we introduce
   can offer strong confidence guarantees on their predictions. Using Odeen as a testbed,
   we show how CRNs outperform empiricist end-to-end approaches of similar size and
   architecture (Transformers) in discovering explanations for unseen environments.
+  
+ links:
+        - name: PDF
+          url: https://arxiv.org/pdf/2201.10222.pdf
+        - name: GitHub
+          url: https://github.com/gladia-research-group/explanatory-learning
+        - name: arXiv
+          url: https://arxiv.org/abs/2201.10222
+        - icon: twitter
+          name: Thread
+          url: https://twitter.com/noranta4/status/1493893787696906241?s=20
+        
 publication: '*arXiv preprint arXiv:2201.10222*'
 ---
