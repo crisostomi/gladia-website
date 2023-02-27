@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - cosmo
-- G. Minello
+- Giorgia Minello
 - Michael M. Bronstein
 - rodola
 - Luca Rossi
@@ -52,7 +52,6 @@ abstract: The Average Mixing Kernel Signature is a novel spectral signature for 
   spectral signatures, the Heat Kernel Signature and the Wave Kernel Signature, and
   suggest that the AMKS should be the signature of choice for various compute vision
   problems, including as input of deep convolutional architectures for shape analysis.
-  © 2022, The Author(s).
 publication: '*International Journal of Computer Vision*'
 doi: 10.1007/s11263-022-01610-y
 links:
