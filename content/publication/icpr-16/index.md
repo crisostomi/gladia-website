@@ -41,5 +41,5 @@ abstract: 'Feature matching is a key step in most Computer Vision tasks involvin
 publication: "*Proc. International Conference on Pattern Recognition (ICPR)*"
 links:
 - name: 'PDF'
-  url: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7900212
+  url: https://vision.in.tum.de/_media/spezial/bib/cosmo-icpr16.pdf
 ---
