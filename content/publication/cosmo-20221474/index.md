@@ -57,5 +57,7 @@ publication: '*International Journal of Computer Vision*'
 doi: 10.1007/s11263-022-01610-y
 links:
 - name: URL
-  url: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85127954372&doi=10.1007%2fs11263-022-01610-y&partnerID=40&md5=1baf45dc4aaa10c8147c83b3bc4669f5
+  url: https://link.springer.com/article/10.1007/s11263-022-01610-y
+- name: GitHub
+  url: https://github.com/lcosmo/amks-descriptor
 ---
