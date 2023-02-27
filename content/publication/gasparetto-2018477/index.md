@@ -5,11 +5,11 @@ title: 'Spatial Maps: From low rank spectral to sparse spatial functional repres
 subtitle: ''
 summary: ''
 authors:
-- A. Gasparetto
+- Andrea Gasparetto
 - cosmo
 - rodola
-- M. Bronstein
-- A. Torsello
+- Michael M. Bronstein
+- Andrea Torsello
 tags: []
 categories: []
 date: '2018-01-01'
@@ -55,6 +55,6 @@ abstract: Functional representation is a well-established approach to represent 
 publication: '*Proceedings - 2017 International Conference on 3D Vision, 3DV 2017*'
 doi: 10.1109/3DV.2017.00061
 links:
-- name: URL
-  url: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85048791548&doi=10.1109%2f3DV.2017.00061&partnerID=40&md5=52e1816d277c95b2be51a036503d7573
+- name: PDF
+  url: https://vision.in.tum.de/_media/spezial/bib/gasparetto-3dv17.pdf
 ---

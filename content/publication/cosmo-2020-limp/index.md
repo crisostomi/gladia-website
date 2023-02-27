@@ -51,4 +51,9 @@ abstract: In this paper, we advocate the adoption of metric preservation as a po
   The effectiveness and potential of our generative model is showcased in applications
   of style transfer, content generation, and shape completion.
 publication: '*Computer Vision--ECCV 2020*'
+links:
+- name: 'arXiv'
+  url: https://arxiv.org/abs/2003.12283
+- name: GitHub
+  url: https://github.com/lcosmo/LIMP
 ---
