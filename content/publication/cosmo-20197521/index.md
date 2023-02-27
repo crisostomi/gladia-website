@@ -6,10 +6,10 @@ subtitle: ''
 summary: ''
 authors:
 - cosmo
-- M. Panine
+- Mikhail Panine
 - rampini
-- M. Ovsjanikov
-- M.M. Bronstein
+- Maks Ovsjanikov
+- Michael M. Bronstein
 - rodola
 tags:
 - featured
