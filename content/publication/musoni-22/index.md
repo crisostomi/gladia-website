@@ -24,6 +24,12 @@ image:
   focal_point: ''
   preview_only: false
 
+links:
+- name: URL
+  url: <URL TO PDF>
+- name: GitHub
+  url: [<URL TO GITHUB REPO>](https://github.com/PietroMsn/GIM3D)
+
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
