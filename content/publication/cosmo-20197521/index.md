@@ -48,7 +48,7 @@ abstract: The question whether one can recover the shape of a geometric object f
   procedure using modern differentiable programming techniques and exemplify its applications
   in some of the classical and notoriously hard problems in geometry processing, computer
   vision, and graphics such as shape reconstruction, pose and style transfer, and
-  dense deformable correspondence. © 2019 IEEE.
+  dense deformable correspondence.
 publication: '*Proceedings of the IEEE Computer Society Conference on Computer Vision
   and Pattern Recognition*'
 doi: 10.1109/CVPR.2019.00771
