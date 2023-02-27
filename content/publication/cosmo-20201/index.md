@@ -47,7 +47,7 @@ abstract: We introduce the Average Mixing Kernel Signature (AMKS), a novel signa
   experimental evaluation on two widely used shape matching datasets under varying
   level of noise, showing that the AMKS outperforms two state-of-the-art descriptors,
   namely the Heat Kernel Signature (HKS) and the similarly quantum-walk based Wave
-  Kernel Signature (WKS). © 2020, Springer Nature Switzerland AG.
+  Kernel Signature (WKS).
 publication: '*Lecture Notes in Computer Science (including subseries Lecture Notes
   in Artificial Intelligence and Lecture Notes in Bioinformatics)*'
 doi: 10.1007/978-3-030-58565-5_1
