@@ -53,6 +53,8 @@ publication: '*Proceedings of the IEEE Computer Society Conference on Computer V
   and Pattern Recognition*'
 doi: 10.1109/CVPR.2019.00771
 links:
-- name: URL
-  url: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85073188550&doi=10.1109%2fCVPR.2019.00771&partnerID=40&md5=df6cb7e75b8ffa09a88884eb02730a89
+- name: PDF
+  url: https://openaccess.thecvf.com/content_CVPR_2019/papers/Cosmo_Isospectralization_or_How_to_Hear_Shape_Style_and_Correspondence_CVPR_2019_paper.pdf
+- name: GitHub
+  url: https://github.com/lcosmo/isospectralization
 ---
