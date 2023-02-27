@@ -5,10 +5,10 @@ title: 'Robust figure extraction on textured background: a game-theoretic approa
 subtitle: ''
 summary: ''
 authors:
-- A. Albarelli
+- Andrea Albarelli
 - rodola
 - A. Cavallarin
-- A. Torsello
+- Andrea Torsello
 tags: []
 categories: []
 date: '2010-08-01'

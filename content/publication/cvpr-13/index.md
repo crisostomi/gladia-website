@@ -6,9 +6,9 @@ subtitle: ''
 summary: ''
 authors:
 - F. Bergamasco
-- A. Albarelli
+- Andrea Albarelli
 - rodola
-- A. Torsello
+- Andrea Torsello
 tags: []
 categories: []
 date: '2013-06-01'

@@ -5,9 +5,9 @@ title: Multiview registration via graph diffusion of dual quaternions
 subtitle: ''
 summary: ''
 authors:
-- A. Torsello
+- Andrea Torsello
 - rodola
-- A. Albarelli
+- Andrea Albarelli
 tags: []
 categories: []
 date: '2011-06-01'

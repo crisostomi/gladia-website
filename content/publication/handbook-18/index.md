@@ -9,7 +9,7 @@ authors:
 - rodola
 - A. M. Bronstein
 - M. M. Bronstein
-- D. Cremers
+- Daniel Cremers
 tags: []
 categories: []
 date: '2018-01-01'

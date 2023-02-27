@@ -5,9 +5,9 @@ title: Robust game-theoretic inlier selection for bundle adjustment
 subtitle: ''
 summary: ''
 authors:
-- A. Albarelli
+- Andrea Albarelli
 - rodola
-- A. Torsello
+- Andrea Torsello
 tags: []
 categories: []
 date: '2010-05-01'

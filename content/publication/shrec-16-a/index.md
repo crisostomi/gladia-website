@@ -8,7 +8,7 @@ authors:
 - Z. Lähner
 - rodola
 - M. M. Bronstein
-- D. Cremers
+- Daniel Cremers
 - O. Burghard
 - cosmo
 - A. Dieckmann

@@ -5,9 +5,9 @@ title: Geometric Deep Learning
 subtitle: ''
 summary: ''
 authors:
-- J. Masci
+- Jonathan Masci
 - rodola
-- D. Boscaini
+- Davide Boscaini
 - M. M. Bronstein
 - H. Li
 tags: []

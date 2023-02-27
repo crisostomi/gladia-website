@@ -6,9 +6,9 @@ subtitle: ''
 summary: ''
 authors:
 - rodola
-- A. Albarelli
-- D. Cremers
-- A. Torsello
+- Andrea Albarelli
+- Daniel Cremers
+- Andrea Torsello
 tags: []
 categories: []
 date: '2015-07-01'

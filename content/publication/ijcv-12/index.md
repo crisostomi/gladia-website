@@ -6,9 +6,9 @@ title: 'Imposing Semi-local Geometric Constraints for Accurate Correspondences S
 subtitle: ''
 summary: ''
 authors:
-- A. Albarelli
+- Andrea Albarelli
 - rodola
-- A. Torsello
+- Andrea Torsello
 tags: []
 categories: []
 date: '2012-03-01'

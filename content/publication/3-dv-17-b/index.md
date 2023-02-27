@@ -15,7 +15,7 @@ authors:
 - A. M. Bronstein
 - M. M. Bronstein
 - R. Kimmel
-- D. Cremers
+- Daniel Cremers
 tags: []
 categories: []
 date: '2017-10-01'

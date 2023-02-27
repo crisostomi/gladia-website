@@ -10,7 +10,7 @@ authors:
 - R. Litman
 - rodola
 - A. M. Bronstein
-- D. Cremers
+- Daniel Cremers
 tags: []
 categories: []
 date: '2017-07-01'

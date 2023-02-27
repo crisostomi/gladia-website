@@ -5,9 +5,9 @@ title: Fast and Accurate Surface Alignment Through an Isometry-Enforcing Game
 subtitle: ''
 summary: ''
 authors:
-- A. Albarelli
+- Andrea Albarelli
 - rodola
-- A. Torsello
+- Andrea Torsello
 tags: []
 categories: []
 date: '2015-07-01'
