@@ -43,7 +43,7 @@ abstract: 'We consider the problem of deformable object detection and dense corr
   relaxation of a quadratic assignment problem on features obtained via data-driven
   metric learning. The resulting matching pipeline is solved efficiently, and yields
   accurate results in challenging settings that were previously left unexplored in
-  the literature. © 2016 IEEE.'
+  the literature.'
 publication: '*Proceedings - 2016 4th International Conference on 3D Vision, 3DV 2016*'
 doi: 10.1109/3DV.2016.10
 links:
