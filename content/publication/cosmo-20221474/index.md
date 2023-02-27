@@ -56,7 +56,7 @@ abstract: The Average Mixing Kernel Signature is a novel spectral signature for 
 publication: '*International Journal of Computer Vision*'
 doi: 10.1007/s11263-022-01610-y
 links:
-- name: URL
+- name: PDF
   url: https://link.springer.com/article/10.1007/s11263-022-01610-y
 - name: GitHub
   url: https://github.com/lcosmo/amks-descriptor
