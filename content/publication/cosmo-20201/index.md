@@ -6,10 +6,10 @@ subtitle: ''
 summary: ''
 authors:
 - cosmo
-- G. Minello
-- M. Bronstein
-- L. Rossi
-- A. Torsello
+- Giorgia Minello
+- Michael M. Bronstein
+- Luca Rossi
+- Andrea Torsello
 tags: []
 categories: []
 date: '2020-01-01'
@@ -52,6 +52,8 @@ publication: '*Lecture Notes in Computer Science (including subseries Lecture No
   in Artificial Intelligence and Lecture Notes in Bioinformatics)*'
 doi: 10.1007/978-3-030-58565-5_1
 links:
-- name: URL
-  url: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85097424907&doi=10.1007%2f978-3-030-58565-5_1&partnerID=40&md5=1a2e0451f97334041f02a6803af3cc88
+- name: 'PDF'
+  url: https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650001.pdf
+- name: GitHub
+  url: https://github.com/lcosmo/amks-descriptor
 ---
