@@ -7,10 +7,10 @@ summary: ''
 authors:
 - cosmo
 - G. Minello
-- M. Bronstein
+- Michael M. Bronstein
 - rodola
-- L. Rossi
-- A. Torsello
+- Luca Rossi
+- Andrea Torsello
 tags: []
 categories: []
 date: '2022-01-01'
@@ -60,4 +60,6 @@ links:
   url: https://link.springer.com/article/10.1007/s11263-022-01610-y
 - name: GitHub
   url: https://github.com/lcosmo/amks-descriptor
+#- name: 'arXiv'
+#  url: https://arxiv.org/abs/2301.08562
 ---
