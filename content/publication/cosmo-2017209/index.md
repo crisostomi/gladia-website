@@ -49,9 +49,7 @@ abstract: Recent efforts in the area of joint object matching approach the probl
   presence of outliers. The particular form of the problem allows us to leverage results
   and tools from the field of evolutionary game theory. This enables a highly efficient
   optimization procedure which assures accurate and provably consistent solutions
-  in a matter of minutes in collections with hundreds of shapes. © 2016 The Authors
-  Computer Graphics Forum © 2016 The Eurographics Association and John Wiley & Sons
-  Ltd.
+  in a matter of minutes in collections with hundreds of shapes.
 publication: '*Computer Graphics Forum*'
 doi: 10.1111/cgf.12796
 links:
