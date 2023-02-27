@@ -5,11 +5,11 @@ title: 'Spatial Maps: From low rank spectral to sparse spatial functional repres
 subtitle: ''
 summary: ''
 authors:
-- A. Gasparetto
+- Andrea Gasparetto
 - cosmo
 - rodola
-- M. Bronstein
-- A. Torsello
+- Michael M. Bronstein
+- Andrea Torsello
 tags: []
 categories: []
 date: '2018-01-01'
