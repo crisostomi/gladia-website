@@ -7,9 +7,9 @@ summary: ''
 authors:
 - cosmo
 - rodola
-- J. Masci
-- A. Torsello
-- M.M. Bronstein
+- Jonathan Masci
+- Andrea Torsello
+- Michael M. Bronstein
 tags: []
 categories: []
 date: '2016-01-01'
@@ -47,6 +47,6 @@ abstract: 'We consider the problem of deformable object detection and dense corr
 publication: '*Proceedings - 2016 4th International Conference on 3D Vision, 3DV 2016*'
 doi: 10.1109/3DV.2016.10
 links:
-- name: URL
-  url: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85011309727&doi=10.1109%2f3DV.2016.10&partnerID=40&md5=5ceb87772615f8f23d75639a00f1c9ac
+- name: PDF
+  url: https://www.dais.unive.it/~cosmo/content/SCOPUS_ID:85011309727.pdf
 ---
