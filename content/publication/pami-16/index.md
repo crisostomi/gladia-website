@@ -5,11 +5,11 @@ title: An Accurate and Robust Artificial Marker Based on Cyclic Codes
 subtitle: ''
 summary: ''
 authors:
-- F. Bergamasco
-- A. Albarelli
+- Filippo Bergamasco
+- Andrea Albarelli
 - cosmo
 - rodola
-- A. Torsello
+- Andrea Torsello
 tags: []
 categories: []
 date: '2016-12-01'
@@ -37,4 +37,7 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*'
+links:
+- name: PDF
+  url: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7384749
 ---
