@@ -38,9 +38,8 @@ publishDate: '2023-02-02T05:55:17.064539Z'
 publication_types:
 - '1'
 abstract: 'Feature matching is a key step in most Computer Vision tasks involving several views of the same subject. In fact, it plays a crucial role for a successful reconstruction of 3D information of the corresponding material points. Typical approaches to construct stable feature tracks throughout a sequence of images operate via a two-step process: First, feature matches are extracted among all pairs of points of view; these matches are then given in input to a regularizer that provides a final, globally consistent solution. In this paper, we formulate this matching problem as a simultaneous optimization over the entire image collection, without requiring previously computed pairwise matches to be given as input. As our formulation operates directly in the space of feature across multiple images, the final matches are consistent by construction. Our matching problem has a natural interpretation as a non-cooperative game, which allows us to leverage tools and results from Game Theory. We performed a specially crafted set of experiments demonstrating that our approach compares favorably with the state of the art, while retaining a high computational efficiency.'
-publication: "*Proc. Int'l Conference on Pattern Recognition (ICPR)*"
----
+publication: "*Proc. International Conference on Pattern Recognition (ICPR)*"
 links:
 - name: 'PDF'
   url: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7900212
-
+---
