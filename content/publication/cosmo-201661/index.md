@@ -7,10 +7,10 @@ summary: ''
 authors:
 - cosmo
 - rodola
-- M.M. Bronstein
-- A. Torsello
-- D. Cremers
-- Y. Sahillioǧlu
+- Michael M. Bronstein
+- Andrea Torsello
+- Daniel Cremers
+- ‪Yusuf Sahillioǧlu
 tags: []
 categories: []
 date: '2016-01-01'
@@ -49,6 +49,8 @@ abstract: Matching deformable 3D shapes under partiality transformations is a ch
 publication: '*Eurographics Workshop on 3D Object Retrieval, EG 3DOR*'
 doi: 10.2312/3dor.20161089
 links:
+- name: PDF
+  url: https://diglib.eg.org/bitstream/handle/10.2312/3dor20161089/061-067.pdf
 - name: URL
-  url: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85018207676&doi=10.2312%2f3dor.20161089&partnerID=40&md5=841081b4536e1d84b4a5b81866620600
+  url: https://www.dais.unive.it/~shrec2016
 ---
