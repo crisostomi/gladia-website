@@ -25,6 +25,12 @@ image:
   focal_point: ''
   preview_only: false
 
+links:
+        - name: URL
+          url: [<URL TO PDF>](https://diglib.eg.org/bitstream/handle/10.2312/stag20221250/001-009.pdf)
+        - name: GitHub
+          url: [<URL TO GITHUB REPO>](https://github.com/michele-colombo/PC-Gau_STAG2022)
+  
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
