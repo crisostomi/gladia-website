@@ -54,4 +54,8 @@ abstract: 'The intrinsic random nature of quantum physics offers novel tools for
   we show that, for low levels of noise, our protocol offers an advantage over the
   simplest Bell-nonlocality protocol based on the Clauser-Horn-Shimony-Holt inequality.'
 publication: '*Communications Physics*'
+doi: https://doi.org/10.1038/s42005-020-0375-6
+links:
+- name: 'Communications Physics'
+  url: https://www.nature.com/articles/s42005-020-0375-6
 ---
