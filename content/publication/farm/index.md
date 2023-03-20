@@ -34,6 +34,6 @@ projects: []
 publishDate: '2023-02-02T05:54:46.973304Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: 'We introduce a new method for non-rigid registration of 3D human shapes. Our proposed pipeline builds upon a given parametric model of the human, and makes use of the functional map representation for encoding and inferring shape maps throughout the registration process. This combination endows our method with robustness to a large variety of nuisances observed in practical settings, including non-isometric transformations, downsampling, topological noise and occlusions; further, the pipeline can be applied invariably across different shape representations (e.g. meshes and point clouds), and in the presence of (even dramatic) missing parts such as those arising in real-world depth sensing applications. We showcase our method on a selection of challenging tasks, demonstrating results in line with, or even surpassing, state-of-the-art methods in the respective areas.'
 publication: '*Computer Graphics Forum (CGF)*'
 ---
