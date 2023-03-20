@@ -19,10 +19,10 @@ publication_short: ""
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-# image:
-#   caption: ''
-#   focal_point: ''
-#   preview_only: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -38,4 +38,6 @@ publication: '*arXiv preprint arXiv:2303.08288*'
 links:
 - name: URL
   url : https://arxiv.org/abs/2303.08288
+- name: PDF
+  url: https://arxiv.org/pdf/2303.08288.pdf
 ---
