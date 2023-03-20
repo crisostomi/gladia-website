@@ -6,8 +6,8 @@ subtitle: ''
 summary: ''
 authors:
 - rodola
-- A. Albarelli
-- A. Torsello
+- Andrea Albarelli
+- Andrea Torsello
 tags: []
 categories: []
 date: '2010-08-01'

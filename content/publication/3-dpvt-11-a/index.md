@@ -5,9 +5,9 @@ title: Sampling relevant points for surface registration
 subtitle: ''
 summary: ''
 authors:
-- A. Torsello
+- Andrea Torsello
 - rodola
-- A. Albarelli
+- Andrea Albarelli
 tags: []
 categories: []
 date: '2011-05-01'

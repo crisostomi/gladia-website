@@ -8,7 +8,7 @@ authors:
 - M. Vestner
 - rodola
 - S. Rota Bul\ ̀and T. Windheuser
-- D. Cremers
+- Daniel Cremers
 tags: []
 categories: []
 date: '2016-01-01'

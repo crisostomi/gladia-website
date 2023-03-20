@@ -7,9 +7,9 @@ summary: ''
 authors:
 - rodola
 - A. M. Bronstein
-- A. Albarelli
+- Andrea Albarelli
 - F. Bergamasco
-- A. Torsello
+- Andrea Torsello
 tags: []
 categories: []
 date: '2012-06-01'

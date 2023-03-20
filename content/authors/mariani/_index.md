@@ -27,7 +27,7 @@ bio: "Refactor specialist"
 # Interests to show in About widget
 interests:
   - Generative Models
-  - Music Synthesis
+  - Audio Generation
   - Computer Graphics
 
 # Social/Academic Networking

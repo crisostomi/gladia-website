@@ -6,8 +6,8 @@ subtitle: ''
 summary: ''
 authors:
 - F. Monti
-- D. Boscaini
-- J. Masci
+- Davide Boscaini
+- Jonathan Masci
 - rodola
 - J. Svoboda
 - M. M. Bronstein

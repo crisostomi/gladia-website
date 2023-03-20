@@ -22,7 +22,7 @@ organizations:
     url: https://www.uniroma1.it/
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Ph.D. student in Computer Science working on Generative Models and Audio, Former AI Research intern at Dolby Labs, Amateur DJ"
+bio: "Generative Audio Maverick"
 
 # Interests to show in About widget
 interests:
