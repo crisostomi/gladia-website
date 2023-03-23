@@ -114,7 +114,7 @@ Checkout my [personal website](https://www.luca.moschella.dev) :smile:
 {{< icon name="terminal" pack="fas" >}}
 
 <DIV align="center">
-{{< tweet 1577935226789044224 >}}
+{{<  tweet user="moschella_luca" id="1577935226789044224" >}}
 </DIV>
 
 ---
