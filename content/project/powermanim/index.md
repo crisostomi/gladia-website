@@ -39,6 +39,6 @@ url_video: ""
 slides: ""
 
 authors:
-  - Luca Moschella
+  - moschella
 
 ---

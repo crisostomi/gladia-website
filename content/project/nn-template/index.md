@@ -26,8 +26,8 @@ links:
 
 
 authors:
-  - Valentino Maiorca
-  - Luca Moschella
+  - maiorca
+  - moschella
 
 url_code: ""
 url_pdf: ""
