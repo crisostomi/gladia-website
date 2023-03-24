@@ -31,6 +31,13 @@ image:
   focal_point: ''
   preview_only: false
 
+
+links:
+  - name: URL
+    url: https://arxiv.org/ftp/arxiv/papers/2007/2007.11632.pdf
+  - name: GitHub
+    url: https://github.com/MaximeKirgo/CGF20_waveletsOnShapes
+    
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
