@@ -28,7 +28,14 @@ image:
   focal_point: ''
   preview_only: false
 
-# Projects (optional).
+links:
+  - name: URL
+    url: http://www.lix.polytechnique.fr/~maks/papers/SGP21_DiscMapOpt.pdf
+  - name: GitHub
+    url: https://github.com/llorz/SGP21_discreteOptimization
+    
+# Projects (optional).[[https://diglib.eg.org/bitstream/handle/10.2312/stag20221250/001-009.pdf](https://github.com/llorz/SGP21_discreteOptimization)
+](http://www.lix.polytechnique.fr/~maks/papers/SGP21_DiscMapOpt.pdf)
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
