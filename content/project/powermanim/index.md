@@ -1,5 +1,5 @@
 ---
-title: powermanim
+title: Powermanim
 summary: Collection of `manim` components, layouts and slide templates aimed to ease the development of animations, with particular focus on live presentations.
 
 tags:
