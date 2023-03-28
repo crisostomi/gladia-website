@@ -1,6 +1,6 @@
 ---
 title: camoscio
-summary: Camoscio: An Italian instruction-tuned LLaMA
+summary: An Italian instruction-tuned LLaMA
 
 tags:
 - opensource
