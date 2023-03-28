@@ -11,7 +11,7 @@ authors:
   - santilli
 doi: 
 publication: International Conference on Learning Representations
-publication_short: "**ICLR 2022 Spotlight**"
+publication_short: "ICLR 2022"
 abstract: Large language models have recently been shown to attain reasonable
   zero-shot generalization on a diverse set of tasks (Brown et al., 2020). It
   has been hypothesized that this is a consequence of implicit multitask

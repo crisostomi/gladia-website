@@ -13,7 +13,7 @@ authors:
 doi: http://dx.doi.org/10.18653/v1/2020.emnlp-main.18
 publication: Proceedings of the 2020 Conference on Empirical Methods in Natural
   Language Processing (EMNLP)
-publication_short: "**EMNLP2020**"
+publication_short: "EMNLP2020"
 abstract: "Syntactic parsers have dominated natural language understanding for
   decades. Yet, their syntactic interpretations are losing centrality in
   downstream tasks due to the success of large-scale textual representation

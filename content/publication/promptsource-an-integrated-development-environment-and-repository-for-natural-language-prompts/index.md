@@ -14,7 +14,7 @@ authors:
 doi: http://dx.doi.org/10.18653/v1/2022.acl-demo.9
 publication: " Proceedings of the 60th Annual Meeting of the Association for
   Computational Linguistics: System Demonstrations"
-publication_short: "**ACL 2022**"
+publication_short: "ACL 2022"
 abstract: PromptSource is a system for creating, sharing, and using natural
   language prompts. Prompts are functions that map an example from a dataset to
   a natural language input and target output. Using prompts to train and query
