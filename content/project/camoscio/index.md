@@ -1,15 +1,14 @@
 ---
-title: powermanim
-summary: Collection of `manim` components, layouts and slide templates aimed to ease the development of animations, with particular focus on live presentations.
+title: camoscio
+summary: Camoscio: An Italian instruction-tuned LLaMA
 
 tags:
 - opensource
 
-
-date: "2023-03-23T00:00:00Z"
+date: "2023-03-28T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://lucmos.github.io/powermanim/"
+external_link: "https://github.com/teelinsan/camoscio"
 
 image:
   # caption: Photo by rawpixel on Unsplash
@@ -29,6 +28,6 @@ url_video: ""
 slides: ""
 
 authors:
-  - moschella
+  - santilli
 
 ---

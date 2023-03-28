@@ -12,4 +12,7 @@ external_link: https://github.com/filthynobleman/FEM-laplacian
 image:
   caption: Laplacian eigenvalues with different discretizations.
   focal_point: Smart
+
+authors:
+  - maggioli
 ---

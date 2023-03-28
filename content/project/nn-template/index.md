@@ -8,21 +8,11 @@ tags:
 date: "2021-03-31T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://grok-ai.github.io/nn-template"
 
 image:
   focal_point: Smart
 
-links:
-- icon: home
-  icon_pack: fa
-  name:
-  url: https://grok-ai.github.io/nn-template
-
-- icon: github
-  icon_pack: fab
-  name: nn-template
-  url: https://github.com/grok-ai/nn-template
 
 
 authors:
