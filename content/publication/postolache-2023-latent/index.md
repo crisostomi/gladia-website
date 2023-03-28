@@ -20,7 +20,7 @@ date: '2023-01-01'
 lastmod: 2023-02-06T11:38:44+01:00
 featured: false
 draft: false
-publication_short: ""
+publication_short: "AAAI 2023"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
