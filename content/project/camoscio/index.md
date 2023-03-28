@@ -1,5 +1,5 @@
 ---
-title: camoscio
+title: Camoscio
 summary: An Italian instruction-tuned LLaMA
 
 tags:
