@@ -27,7 +27,7 @@ date: '2022-06-09'
 lastmod: 2022-03-31T14:18:10+02:00
 featured: false
 draft: false
-publication_short: ""
+publication_short: "TMLR"
 
 links:
 - icon:  chalkboard-user

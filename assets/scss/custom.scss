@@ -37,14 +37,14 @@ strong {
     padding: 30px 10px;
     position: relative;
   }
-  
+
   .avatar {
     width: 200px;
     height: 200px;
     margin: 0 auto;
     object-fit: fill;
   }
-  
+
   // Use smaller avatar size in About widget on small devices.
   @include media-breakpoint-down(sm) {
     .wg-about .avatar {
@@ -52,29 +52,29 @@ strong {
       height: 200px;
     }
   }
-  
+
   .avatar-circle {
     border-radius: 50%;
   }
-  
+
   .avatar-square {
     border-radius: 3px;
   }
-  
+
   .portrait-title h2 {
     font-size: 1.75em;
     font-weight: 300;
     color: #000;
     margin: 20px 0 10px;
   }
-  
+
   .portrait-title h3 {
     font-size: 1rem;
     font-weight: 300;
     color: rgba(0, 0, 0, 0.54);
     margin: 0 0 10px;
   }
-  
+
   ul.network-icon {
     display: inline-flex;
     flex-direction: row;
@@ -84,53 +84,53 @@ strong {
     padding: 0;
     margin: 0;
   }
-  
+
   #profile .network-icon {
     margin-top: 30px;
   }
-  
+
   .network-icon li {
     margin-right: 10px;
   }
-  
+
   .network-icon li:last-of-type {
     margin-right: 0;
   }
-  
+
   .network-icon li:hover {
     transform: scale(1.2);
   }
-  
+
   .big-icon {
     font-size: 2rem;
   }
-  
+
   ul.ul-interests li {
     font-size: 0.9rem;
   }
-  
+
   ul.ul-edu {
     list-style: none;
   }
-  
+
   ul.ul-edu li {
     position: relative;
     padding: 0 15px 4px 3px;
   }
-  
+
   ul.ul-edu li .description p {
     margin: 0;
   }
-  
+
   ul.ul-edu li .description p.course {
     font-size: 0.9rem;
   }
-  
+
   ul.ul-edu li .description p.institution {
     font-size: 0.75rem;
     color: rgba(0, 0, 0, 0.6);
   }
-  
+
   // For about.avatar widget
   .avatar-wrapper {
     position: relative;
@@ -138,7 +138,7 @@ strong {
     height: 150px;
     margin-left: auto;
     margin-right: auto;
-  
+
     .avatar-emoji {
       position: absolute;
       width: 40px;
@@ -154,12 +154,12 @@ strong {
       box-shadow: 0 10px 20px rgba(0, 0, 0, 0.04), 0 2px 6px rgba(0, 0, 0, 0.04), 0 0 1px rgba(0, 0, 0, 0.04);
     }
   }
-  
+
   .dark .avatar-emoji {
     background-color: #000;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.04), 0 2px 6px rgba(0, 0, 0, 0.04), 0 0 1px rgba(255, 255, 255, 0.96);
   }
-  
+
   // ABOUT.AVATAR BLOCK STYLE (overrides ABOUT block styles)
   .wg-about-avatar {
     // Custom avatar size on homepage
@@ -169,15 +169,15 @@ strong {
       max-width: 225px;
       max-height: 225px;
     }
-  
+
     #profile .network-icon {
       margin-top: 0.5rem;
     }
-  
+
     ul.network-icon .big-icon {
       font-size: 1.5rem;
     }
-  
+
     .network-icon li {
       @include media-breakpoint-down(sm) {
         /* Min 48px Lighthouse tap targets on mobile */
@@ -185,19 +185,24 @@ strong {
       }
     }
 
-  
+
     .dark .portrait-title h3 {
       color: rgba(255, 255, 255, 0.9);
       font-weight: bold;
     }
-  
+
     .dark .portrait-title h2 {
       color: #fff;
       font-weight: bold;
     }
-  
+
     .bio-text {
       max-width: 680px;
     }
   }
-  
+
+  .people-person {
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+
