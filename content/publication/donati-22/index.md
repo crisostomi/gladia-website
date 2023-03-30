@@ -28,6 +28,12 @@ image:
   focal_point: ''
   preview_only: false
 
+links:
+  - name: URL
+    url: https://arxiv.org/pdf/2112.09546.pdf
+  - name: GitHub
+    url: https://github.com/nicolasdonati/QMaps
+    
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.

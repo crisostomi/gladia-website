@@ -13,7 +13,7 @@ authors:
 - A. Boyarski
 - A.M. Bronstein
 - M.M. Bronstein
-- D. Cremers
+- Daniel Cremers
 - M. Fisher
 - T. Groueix
 - D. Guo

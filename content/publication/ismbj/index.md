@@ -10,7 +10,7 @@ authors:
 - F. Sverrisson
 - F. Monti
 - rodola
-- D. Boscaini
+- Davide Boscaini
 - M. M. Bronstein
 - B. Correia
 tags: ["featured"]

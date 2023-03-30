@@ -11,13 +11,16 @@ authors:
 - santilli
 - cosmo
 - rodola
-tags: []
+tags:
+- Signal Processing
+- Source Separation
+- featured
 categories: []
 date: '2023-01-01'
 lastmod: 2023-02-06T11:38:44+01:00
 featured: false
 draft: false
-publication_short: ""
+publication_short: "AAAI 2023"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -54,4 +57,9 @@ abstract: Autoregressive models have achieved impressive results over a wide ran
   the same time significant speedups in terms of inference time and scalability to
   higher dimensional data.
 publication: '*Proc. AAAI*'
+links:
+- name: 'arXiv'
+  url: https://arxiv.org/abs/2301.08562
+- name: GitHub
+  url: https://github.com/gladia-research-group/latent-autoregressive-source-separation
 ---

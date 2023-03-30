@@ -6,10 +6,10 @@ subtitle: ''
 summary: ''
 authors:
 - rodola
-- A. Torsello
+- Andrea Torsello
 - T. Harada
 - Y. Kuniyoshi
-- D. Cremers
+- Daniel Cremers
 tags: []
 categories: []
 date: '2013-12-01'

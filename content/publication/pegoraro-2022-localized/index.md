@@ -12,7 +12,6 @@ authors:
 - rodola
 tags:
 - '"Computer Science - Machine Learning"'
-- 'featured'
 - 'Spectral theory'
 - 'Geometry Processing'
 categories: []

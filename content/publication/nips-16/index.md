@@ -5,8 +5,8 @@ title: Learning shape correspondence with anisotropic convolutional neural netwo
 subtitle: ''
 summary: ''
 authors:
-- D. Boscaini
-- J. Masci
+- Davide Boscaini
+- Jonathan Masci
 - rodola
 - M. M. Bronstein
 tags: []

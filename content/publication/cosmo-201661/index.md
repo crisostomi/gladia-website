@@ -7,10 +7,10 @@ summary: ''
 authors:
 - cosmo
 - rodola
-- M.M. Bronstein
-- A. Torsello
-- D. Cremers
-- Y. Sahillioǧlu
+- Michael M. Bronstein
+- Andrea Torsello
+- Daniel Cremers
+- ‪Yusuf Sahillioǧlu
 tags: []
 categories: []
 date: '2016-01-01'
@@ -36,7 +36,7 @@ projects: []
 publishDate: '2023-02-08T18:53:27.946324Z'
 publication_types:
 - '1'
-abstract: Matching deformable 3D shapes under partiality transformations is a challenging
+abstract: 'Matching deformable 3D shapes under partiality transformations is a challenging
   problem that has received limited focus in the computer vision and graphics communities.
   With this benchmark, we explore and thoroughly investigate the robustness of existing
   matching methods in this challenging task. Participants are asked to provide a point-to-point
@@ -45,10 +45,12 @@ abstract: Matching deformable 3D shapes under partiality transformations is a ch
   to be solved for each method - making this benchmark the biggest and most challenging
   of its kind. Five matching algorithms were evaluated in the contest; this paper
   presents the details of the dataset, the adopted evaluation measures, and shows
-  thorough comparisons among all competing methods. © 2016 The Eurographics Association.
+  thorough comparisons among all competing methods.'
 publication: '*Eurographics Workshop on 3D Object Retrieval, EG 3DOR*'
 doi: 10.2312/3dor.20161089
 links:
+- name: PDF
+  url: https://diglib.eg.org/bitstream/handle/10.2312/3dor20161089/061-067.pdf
 - name: URL
-  url: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85018207676&doi=10.2312%2f3dor.20161089&partnerID=40&md5=841081b4536e1d84b4a5b81866620600
+  url: https://www.dais.unive.it/~shrec2016
 ---

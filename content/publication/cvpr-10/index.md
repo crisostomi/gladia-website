@@ -6,9 +6,9 @@ title: A game-theoretic approach to fine surface registration without initial mo
 subtitle: ''
 summary: ''
 authors:
-- A. Albarelli
+- Andrea Albarelli
 - rodola
-- A. Torsello
+- Andrea Torsello
 tags: []
 categories: []
 date: '2010-06-01'

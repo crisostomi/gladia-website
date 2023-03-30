@@ -5,11 +5,11 @@ title: Anisotropic Diffusion Descriptors
 subtitle: ''
 summary: ''
 authors:
-- D. Boscaini
-- J. Masci
+- Davide Boscaini
+- Jonathan Masci
 - rodola
 - M. M. Bronstein
-- D. Cremers
+- Daniel Cremers
 tags: []
 categories: []
 date: '2016-05-01'

@@ -5,8 +5,8 @@ title: Stable and Fast Techniques for Unambiguous Compound Phase Coding
 subtitle: ''
 summary: ''
 authors:
-- A. Torsello
-- A. Albarelli
+- Andrea Torsello
+- Andrea Albarelli
 - rodola
 tags: []
 categories: []

@@ -5,10 +5,10 @@ title: A Non-Cooperative Game for 3D Object Recognition in Cluttered Scenes
 subtitle: ''
 summary: ''
 authors:
-- A. Albarelli
+- Andrea Albarelli
 - rodola
 - F. Bergamasco
-- A. Torsello
+- Andrea Torsello
 tags: []
 categories: []
 date: '2011-05-01'
