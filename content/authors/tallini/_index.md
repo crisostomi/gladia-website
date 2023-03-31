@@ -30,6 +30,8 @@ bio: >
 interests:
   - Artificial Intelligence
   - AI for Music
+  - Denoising Diffusion
+  - Neural Network Compression
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -68,6 +70,8 @@ highlight_name: false
 ---
 I am a Ph.D. student in Computer Science at Sapienza, University of Rome, where I am part of the GLADIA research group, led by prof. Emanuele Rodolà.
 
-My research interest at the moment focus on Artificial Intelligence for Music. The aspect I like most about research is seeing the generalization and ordering power of math in action, thus its ability to unify seemingly different things and to separate different causes and consequences.
+My research interest at the moment focus on Artificial Intelligence for Music. I'm also interested in Neural Network Compression. 
+
+The aspect I like most about research is seeing the generalization and ordering power of math in action, thus its ability to unify seemingly different things and to separate different causes and consequences.
 
 {style="text-align: justify;"}
