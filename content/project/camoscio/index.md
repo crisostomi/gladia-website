@@ -35,7 +35,8 @@ authors:
 <div class="col-12 col-lg-8">
 
   <div class="mb-3">
-    <form name="contact" method="POST" action="mailto:donatocrisostomi@gmail.com"> 
+    <form name="contact" method="POST" {{ $post_action | safeHTMLAttr }} {{ if $use_netlify_form }}netlify-honeypot="_gotcha"{{ end }} {{ if $use_netlify_captcha }}data-netlify-recaptcha="true"{{ end }} {{ with $block.Params.content.form.netlify.success_url }}action="{{ . | relLangURL }}"{{ end }}>
+    <!-- <form name="contact" method="POST" action="mailto:donatocrisostomi@gmail.com">  -->
       <div class="form-group form-inline">
         <label class="sr-only" for="inputName"></label>
         <input type="text" name="name" class="form-control w-100" id="inputName" placeholder="Name" required>
