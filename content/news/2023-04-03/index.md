@@ -61,4 +61,4 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-We release Camoscio: An Italian instruction-tuned LLaMA! Checkout the details [here (Italian)](https://gladia.di.uniroma1.it/project/camoscio/) or [here (English)](https://github.com/teelinsan/camoscio).
+We release Camoscio: An Italian instruction-tuned LLaMA! Checkout the details [here (Italian)](https://gladia.di.uniroma1.it/project/camoscio-lm/) or [here (English)](https://github.com/teelinsan/camoscio).
