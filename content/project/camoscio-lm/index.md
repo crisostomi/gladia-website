@@ -34,6 +34,13 @@ authors:
   - santilli
 
 ---
+<head>
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Camoscio">
+  <meta name="twitter:description" content="Camoscio: un language model italiano addestrato a seguire le tue istruzioni">
+  <meta name="twitter:image" content="https://gladia.di.uniroma1.it/project/camoscio-lm/featured.png">
+</head>
+
 
 # 🇮🇹🦙 Camoscio: un language model italiano addestrato a seguire le tue istruzioni
 
