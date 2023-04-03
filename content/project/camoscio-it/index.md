@@ -38,7 +38,7 @@ authors:
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Camoscio">
   <meta name="twitter:description" content="Camoscio: un language model italiano addestrato a seguire le tue istruzioni">
-  <meta name="twitter:image" content="featured.png">
+  <meta name="twitter:image" content="https://gladia.di.uniroma1.it/project/camoscio-it/featured.png">
 </head>
 
 
