@@ -57,6 +57,8 @@ In questo contesto, [Andrea Santilli](https://gladia.di.uniroma1.it/authors/sant
 
 Pur con le dovute limitazioni, il modello è un primo passo verso lo **sviluppo di modelli open ed accessibili alla comunità** in grado di seguire istruzioni impartite in linguaggio naturale italiano.
 
+Una demo interattiva (per utenti esperti) è disponibile nei link qui sotto tramite Google Colab.
+
 ### ✉️ Subscribe
 Se sei interessato ad ulteriori aggiornamenti su questo progetto, puoi lasciare qui la tua email per essere aggiornato.
 Non ti preoccupare, non ti invieremo spam! Puoi eliminarti in qualsiasi momento [contattandoci](mailto:rodola@di.uniroma1.it).
