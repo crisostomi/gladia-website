@@ -1,6 +1,6 @@
 ---
 title: Any Order FEM Laplacian
-summary: This repository contains a MATLAB function for computing the Finite Element Method (FEM) discretization of the Laplace-Beltrami operator on triangular meshes. The discretization is parametric on the polynomial's order of the hat functions.
+summary: Finite Element Method (FEM) discretization of the Laplace-Beltrami operator on triangular meshes, parametric on the polynomial's order of the hat functions.
 tags:
   - Geometry Processing
   - Spectral Geometry
