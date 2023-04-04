@@ -28,6 +28,12 @@ image:
   focal_point: ''
   preview_only: false
 
+links:
+  - name: URL
+    url: https://arxiv.org/pdf/2006.02532.pdf
+  - name: GitHub
+    url: https://github.com/llorz/SGA20_mapExplor
+    
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.

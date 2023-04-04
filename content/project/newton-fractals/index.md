@@ -12,4 +12,7 @@ external_link: https://github.com/filthynobleman/newton-fractals
 image:
   caption: Examples of Newton's Fractals textures
   focal_point: Smart
+
+authors:
+  - maggioli
 ---

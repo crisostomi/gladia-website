@@ -5,9 +5,9 @@ title: Fast 3D surface reconstruction by unambiguous compound phase coding
 subtitle: ''
 summary: ''
 authors:
-- A. Albarelli
+- Andrea Albarelli
 - rodola
-- S. Rota Bul\ ̀and A. Torsello
+- S. Rota Bul\ ̀and Andrea Torsello
 tags: []
 categories: []
 date: '2009-10-01'

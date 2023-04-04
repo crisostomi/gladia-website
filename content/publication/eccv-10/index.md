@@ -5,9 +5,9 @@ title: Loosely distinctive features for robust surface alignment
 subtitle: ''
 summary: ''
 authors:
-- A. Albarelli
+- Andrea Albarelli
 - rodola
-- A. Torsello
+- Andrea Torsello
 tags: []
 categories: []
 date: '2010-09-01'

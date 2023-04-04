@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - rodola
-- S. Rota Bul\ ̀and D. Cremers
+- S. Rota Bul\ ̀and Daniel Cremers
 tags: []
 categories: []
 date: '2014-08-01'

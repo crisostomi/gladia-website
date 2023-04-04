@@ -8,7 +8,7 @@ authors:
 - rodola
 - T. Harada
 - Y. Kuniyoshi
-- D. Cremers
+- Daniel Cremers
 tags: []
 categories: []
 date: '2013-09-01'

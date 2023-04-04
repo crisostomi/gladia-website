@@ -7,8 +7,8 @@ summary: ''
 authors:
 - M. Pelillo
 - S. Rota Bulò
-- A. Torsello
-- A. Albarelli
+- Andrea Torsello
+- Andrea Albarelli
 - rodola
 tags: []
 categories: []

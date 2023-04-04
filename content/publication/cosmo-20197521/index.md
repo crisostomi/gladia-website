@@ -6,10 +6,10 @@ subtitle: ''
 summary: ''
 authors:
 - cosmo
-- M. Panine
+- Mikhail Panine
 - rampini
-- M. Ovsjanikov
-- M.M. Bronstein
+- Maks Ovsjanikov
+- Michael M. Bronstein
 - rodola
 tags:
 - featured
@@ -48,11 +48,13 @@ abstract: The question whether one can recover the shape of a geometric object f
   procedure using modern differentiable programming techniques and exemplify its applications
   in some of the classical and notoriously hard problems in geometry processing, computer
   vision, and graphics such as shape reconstruction, pose and style transfer, and
-  dense deformable correspondence. © 2019 IEEE.
+  dense deformable correspondence.
 publication: '*Proceedings of the IEEE Computer Society Conference on Computer Vision
   and Pattern Recognition*'
 doi: 10.1109/CVPR.2019.00771
 links:
-- name: URL
-  url: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85073188550&doi=10.1109%2fCVPR.2019.00771&partnerID=40&md5=df6cb7e75b8ffa09a88884eb02730a89
+- name: PDF
+  url: https://openaccess.thecvf.com/content_CVPR_2019/papers/Cosmo_Isospectralization_or_How_to_Hear_Shape_Style_and_Correspondence_CVPR_2019_paper.pdf
+- name: GitHub
+  url: https://github.com/lcosmo/isospectralization
 ---

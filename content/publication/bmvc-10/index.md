@@ -5,9 +5,9 @@ title: Robust camera calibration using inaccurate targets
 subtitle: ''
 summary: ''
 authors:
-- A. Albarelli
+- Andrea Albarelli
 - rodola
-- A. Torsello
+- Andrea Torsello
 tags: []
 categories: []
 date: '2010-08-01'
