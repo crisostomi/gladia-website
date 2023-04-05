@@ -15,7 +15,7 @@ date: '2022-01-01'
 lastmod: 2023-02-02T06:54:21+01:00
 featured: false
 draft: false
-publication_short: ""
+publication_short: "ECCV 2022"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -36,4 +36,10 @@ publication_types:
 - '1'
 abstract: ''
 publication: '*Proc. European Conference on Computer Vision (ECCV)*'
+
+links:
+- name: URL
+  url: https://arxiv.org/abs/2203.10554
+- name: PDF
+  url: https://arxiv.org/pdf/2203.10554.pdf
 ---
