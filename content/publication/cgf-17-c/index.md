@@ -25,6 +25,12 @@ image:
   focal_point: ''
   preview_only: false
 
+links:
+  - name: URL
+    url: https://arxiv.org/pdf/1707.02596.pdf
+  - name: GitHub
+    url: http://vision.in.tum.de/_media/spezial/bib/lmh-code.zip
+    
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
