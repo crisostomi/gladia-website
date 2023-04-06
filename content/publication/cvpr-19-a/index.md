@@ -27,6 +27,12 @@ image:
   focal_point: ''
   preview_only: false
 
+links:
+  - name: URL
+    url: https://drive.google.com/file/d/1ewpPCCkYMBpCsJ2FAbULzMbsFE0VOuaq/view
+  - name: GitHub
+    url: https://drive.google.com/file/d/17Th7QFhX2dOobcZM38AIqPaBQYg7nldW/view
+    
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
