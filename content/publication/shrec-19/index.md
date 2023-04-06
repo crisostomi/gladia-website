@@ -28,6 +28,12 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
+  
+links:
+  - name: URL
+    url: https://drive.google.com/file/d/1A3hpRRl4mARPd6QZS6bdzDFeKpYiVFTC/view
+  - name: GitHub
+    url: http://profs.scienze.univr.it/~marin/shrec19/
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
