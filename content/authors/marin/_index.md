@@ -9,7 +9,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'riccardo.marin@mnf.uni-tuebingen.de'
+    link: 'mailto:riccardo.marin@mnf.uni-tuebingen.de'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/_R_Marin_
