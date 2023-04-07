@@ -61,4 +61,4 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-We have two fully funded PhD scholarships in "Privacy-preserving language modeling" and "Context-aware Machine Translation" in partnership with [Translated](https://translated.com/welcome)! Full details following the link: [Apply Here!](https://translated.theresumator.com/apply/i2NhiTjq5N/4-PhD-Scholarships-In-Deep-Learning-For-Language-fullyfunded). Deadline 01/05.
+We have two fully funded PhD scholarships in "Privacy-preserving language modeling" and "Context-aware Machine Translation" in partnership with [Translated](https://translated.com/welcome)! Full details following the link: [Apply Here!](https://translated.theresumator.com/apply/i2NhiTjq5N/4-PhD-Scholarships-In-Deep-Learning-For-Language-fullyfunded)
