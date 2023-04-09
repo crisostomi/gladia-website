@@ -39,7 +39,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: lastname@di.uniroma1.it
+    link: mailto:lastname@di.uniroma1.it
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/noranta4
