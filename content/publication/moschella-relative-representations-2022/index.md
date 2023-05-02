@@ -39,7 +39,7 @@ links:
 - icon: github
   icon_pack: fab
   name: 'GitHub'
-  url: https://github.com/lucmos/relrep
+  url: https://github.com/lucmos/relreps
 - icon: chalkboard-user
   icon_pack: fas
   name: 'Slides'
