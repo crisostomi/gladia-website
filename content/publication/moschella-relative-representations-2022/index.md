@@ -32,11 +32,22 @@ publication_short: "ICLR 2023"
 #   preview_only: false
 
 links:
-- icon:  chalkboard-user
+- icon: link
   icon_pack: fas
-  name: 'OpenReview'
+  name: 'URL'
   url: https://openreview.net/forum?id=SrC-nwieGJ
-
+- icon: github
+  icon_pack: fab
+  name: 'GitHub'
+  url: https://github.com/lucmos/relreps
+- icon: chalkboard-user
+  icon_pack: fas
+  name: 'Slides'
+  url: https://lucmos.github.io/relreps-presentation/
+- icon: award 
+  icon_pack: fas
+  name: 'ICLR 2023 notable top 5%'
+  url: https://iclr.cc/virtual/2023/poster/11612
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -48,7 +59,4 @@ publishDate: '2022-04-28T10:30:59.888843Z'
 abstract: 'Neural networks embed the geometric structure of a data manifold lying in a high-dimensional space into latent representations. Ideally, the distribution of the data points in the latent space should depend only on the task, the data, the loss, and other architecture-specific constraints. However, factors such as the random weights initialization, training hyperparameters, or other sources of randomness in the training phase may induce incoherent latent spaces that hinder any form of reuse. Nevertheless, we empirically observe that, under the same data and modeling choices, distinct latent spaces typically differ by an unknown quasi-isometric transformation: that is, in each space, the distances between the encodings do not change. In this work, we propose to adopt pairwise similarities as an alternative data representation, that can be used to enforce the desired invariance without any additional training. We show how neural architectures can leverage these relative representations to guarantee, in practice, latent isometry invariance, effectively enabling latent space communication: from zero-shot model stitching to latent space comparison between diverse settings. We extensively validate the generalization capability of our approach on different datasets, spanning various modalities (images, text, graphs), tasks (e.g., classification, reconstruction) and architectures (e.g., CNNs, GCNs, transformers).'
 
 publication: '*International Conference on Learning Representations (ICLR 2023)*'
-links:
-- name: URL
-  url: https://openreview.net/forum?id=SrC-nwieGJ
 ---
