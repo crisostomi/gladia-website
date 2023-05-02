@@ -32,17 +32,17 @@ publication_short: "ICLR 2023"
 #   preview_only: false
 
 links:
-- name: 'OpenReview'
-  url: https://openreview.net/forum?id=SrC-nwieGJ
+  - name: 'OpenReview'
+    url: https://openreview.net/forum?id=SrC-nwieGJ
 
-- name: 'GitHub'
-  url: https://github.com/lucmos/relreps
+  - name: 'GitHub'
+    url: https://github.com/lucmos/relreps
 
-- name: 'Slides'
-  url: https://lucmos.github.io/relreps-presentation/
+  - name: 'Slides'
+    url: https://lucmos.github.io/relreps-presentation/
 
-- name: 'ICLR 2023 notable top 5%'
-  url: https://iclr.cc/virtual/2023/poster/11612
+  - name: 'ICLR 2023 notable top 5%'
+    url: https://iclr.cc/virtual/2023/poster/11612
 
 - name: 
 # Projects (optional).
