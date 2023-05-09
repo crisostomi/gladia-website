@@ -1,5 +1,5 @@
 ---
-title: "Accelerating Transformers Inference for Translations via Parallel Decoding"
+title: "Accelerating Transformer Inference for Translation via Parallel Decoding"
 publication_types:
   - "3"
 authors:
