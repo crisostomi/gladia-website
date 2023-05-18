@@ -24,4 +24,9 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2023-05-08
+links:
+- name: 'arXiv'
+  url: https://arxiv.org/abs/2305.10427
+- name: GitHub
+  url: https://github.com/teelinsan/parallel-decoding
 ---
