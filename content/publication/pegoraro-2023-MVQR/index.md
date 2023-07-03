@@ -36,8 +36,6 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2023-02-05T09:57:52.951304Z'
-publication_types:
-- '2'
 abstract: Quantile regression (QR) is a statistical tool for distribution-free estimation of conditional quantiles of a target variable given explanatory features.
   QR is limited by the assumption that the target distribution is univariate and defined on an Euclidean domain.
   Although the notion of quantiles was recently extended to multi-variate distributions,
