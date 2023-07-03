@@ -9,13 +9,18 @@ authors:
 - Jordi Pons
 - Santiago Pascual
 - Joan Serrà
-tags: []
+tags:
+- Signal Processing
+- Source Separation
 categories: []
 date: '2022-01-01'
 lastmod: 2023-02-06T11:38:43+01:00
 featured: false
 draft: false
-publication_short: ""
+publication_short: "ICASSP 2023"
+links:
+- name: 'arXiv'
+  url: https://arxiv.org/abs/2210.12108 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -44,6 +49,6 @@ abstract: 'Universal sound separation consists of separating mixes with arbitrar
   a non-negligible improvement of 1.4 dB SI-SNRi in the reverberant FUSS dataset.
   We also find adversarial PIT to be effective at reducing spectral holes, ubiquitous
   in mask-based separation models, which highlights the potential relevance of adversarial
-  losses for source separation. '
-publication: '*arXiv preprint arXiv:2210.12108*'
+  losses for source separation.'
+publication: '*Proc. ICASSP*'
 ---

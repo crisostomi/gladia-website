@@ -24,6 +24,12 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
+  
+links:
+  - name: URL
+    url: https://profs.sci.univr.it/~castellani/allegati/3DV16_CR.pdf
+  - name: GitHub
+    url: 
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

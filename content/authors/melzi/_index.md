@@ -38,7 +38,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'simone.melzi@unimib.it'
+    link: 'mailto:simone.melzi@unimib.it'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.it/citations?user=hkrUTqEAAAAJ&hl=it

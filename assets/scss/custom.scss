@@ -10,6 +10,12 @@
     padding-bottom: 40px;
 }
 
+@media screen and (max-width: 992px) {
+  section#demo {
+    display: none;
+  }
+}
+
 /* Media queries for smaller screens */
 @media screen and (max-width: 600px) {
 /* Reduce the height of the list items */

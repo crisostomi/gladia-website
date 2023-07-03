@@ -30,6 +30,12 @@ image:
   focal_point: ''
   preview_only: false
 
+links:
+  - name: URL
+    url: http://www.lix.polytechnique.fr/~maks/papers/SGA19_zoomOut_reduced.pdf
+  - name: GitHub
+    url: https://github.com/llorz/SGA19_zoomOut
+    
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
