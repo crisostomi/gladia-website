@@ -39,13 +39,13 @@ publishDate: '2023-02-05T09:57:52.951304Z'
 publication_types:
 - '2'
 abstract: Quantile regression (QR) is a statistical tool for distribution-free estimation of conditional quantiles of a target variable given explanatory features.
-QR is limited by the assumption that the target distribution is univariate and defined on an Euclidean domain.
-Although the notion of quantiles was recently extended to multi-variate distributions,
-QR for multi-variate distributions on manifolds remains underexplored, even though 
-many important applications inherently involve data distributed on, e.g., spheres (climate measurements), tori (dihedral angles in proteins), or Lie groups (attitude in navigation).
-By leveraging optimal transport theory and the notion of $c$-concave functions, we meaningfully define conditional vector quantile functions of high-dimensional variables on manifolds (M-CVQFs).
-Our approach allows for quantile estimation, regression, and computation of conditional confidence sets.
-We demonstrate the approach's efficacy and provide insights regarding the meaning of non-Euclidean quantiles through preliminary synthetic data experiments.
+  QR is limited by the assumption that the target distribution is univariate and defined on an Euclidean domain.
+  Although the notion of quantiles was recently extended to multi-variate distributions,
+  QR for multi-variate distributions on manifolds remains underexplored, even though 
+  many important applications inherently involve data distributed on, e.g., spheres (climate measurements), tori (dihedral angles in proteins), or Lie groups (attitude in navigation).
+  By leveraging optimal transport theory and the notion of $c$-concave functions, we meaningfully define conditional vector quantile functions of high-dimensional variables on manifolds (M-CVQFs).
+  Our approach allows for quantile estimation, regression, and computation of conditional confidence sets.
+  We demonstrate the approach's efficacy and provide insights regarding the meaning of non-Euclidean quantiles through preliminary synthetic data experiments.
 publication: '*Workshop on New Frontiers in Learning, Control, and Dynamical Systems at the International Conference on Machine Learning (2023)*'
 links:
 - name: arXiv
