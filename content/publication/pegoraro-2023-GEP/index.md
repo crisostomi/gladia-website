@@ -36,8 +36,6 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2023-02-05T09:57:52.951304Z'
-publication_types:
-- '2'
 abstract: Antibody-antigen interactions play a crucial role in identifying and neutralizing harmful foreign molecules. 
   In this paper, we investigate the optimal representation for predicting the binding sites in the two molecules and emphasize the importance of geometric information. 
   Specifically, we compare different geometric deep learning methods applied to proteins inner (I-GEP) and outer (O-GEP) structures. 
