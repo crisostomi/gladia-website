@@ -23,13 +23,13 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: >
-  I am a Ph.D. student in Geometric Deep Learning. My research activity is focused on spectral geometry processing applied to graph learning.
+  I am a Ph.D. student in Geometric Deep Learning. My research activity is focused on spectral geometry processing applied to graph learning and computational biology.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Geometry Processing
   - Geometric Deep Learning
+  - Geometry Processing
+  - Computational Biology
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -65,14 +65,14 @@ email: 'pegoraro@di.uniroma1.it'
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-As a Ph.D. student at Sapienza University of Rome, I am part of the GLADIA research group led by Emanuele Rodol\`{a}. With a background in Computer Science and Engineering from the University of Verona (2021), I specialize in Geometric Deep Learning, Geometry Processing, and 3D spectral shape analysis. 
+As a Ph.D. student at Sapienza University of Rome, I am part of the GLADIA research group led by Emanuele Rodolà. With a background in Computer Science and Engineering from the University of Verona (2021), I specialize in Geometric Deep Learning, Geometry Processing, and 3D spectral shape analysis. 
 
 My research interest lies in exploring the intersection of geometry processing and graph learning, with a particular emphasis on utilizing spectral techniques in graph analysis. My current research directions encompass:
-- Developing spectral representations for graphs and subgraphs to address alignment problems.
+- Apply vector quantile regression to data that lies on manifolds.
 -  Analyzing biomolecular interactions from a geometric perspective.
 - Investigating the use of spectral structures to represent graphs.
 
 I am proud to have received recognition for my Master's thesis with the Best Italian Master Thesis in Computer Graphics (Matteo Dellepiane award) at the Italian Chapter of EuroGraphics (STAG).
-In March, I'm going to join the research group of Alex Bronstein at Technion (Israel) to start a collaboration on spectral analysis applied to dynamic systems.}
+In March, I joined the research group of Alex Bronstein at Technion (Israel) to start a collaboration on vector quantile regression applied to manifolds and geometric analysis of aromatic molecules.
 
 {style="text-align: justify;"}

@@ -11,7 +11,7 @@ main:
     url: '#news'
     weight: 20
   - name: Publications
-    url: '#publications'
+    url: '/publication'
     weight: 25
   - name: People
     url: '#people'
@@ -22,6 +22,9 @@ main:
   # - name: Talks
   #   url: '#talks'
   #   weight: 40
+  - name: Talks
+    url: '/talks'
+    weight: 50
   - name: Contact
     url: '#contact'
     weight: 60
