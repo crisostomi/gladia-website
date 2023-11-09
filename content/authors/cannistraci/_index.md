@@ -40,10 +40,10 @@ first_name: Irene
 
 
 {style="text-align: justify;"}
-I am a Ph.D. student in Computer Science at the Sapienza University of Rome, affiliated with the GLADIA and VisionLab research groups.
+I'm Irene, a Ph.D. student in Computer Science at the Sapienza University of Rome, and I’m part of the Gladia research group led by Professor Emanuele Rodolà.
 
-My research journey has spanned deep learning, allowing me to explore diverse areas such as time-series and image analysis. Lately, I’ve been particularly focused on representation learning and its applications in healthcare.
+My research journey has spanned deep learning, allowing me to explore diverse areas such as time-series and image analysis. Lately, I've been particularly focused on **representation learning** and its applications in **healthcare**.
 
 I strongly believe that collaboration is the key to innovation, and I thrive in multidisciplinary teamwork. I enjoy combining knowledge from different domains to gain fresh insights!
 
-When I’m not immersed in research papers and code, you’ll often find me pursuing my adventurous side. I’m an enthusiast of various sports, such as weightlifting, mountain biking, climbing, and hiking!
+When I'm not immersed in research papers and code, you'll often find me pursuing my adventurous side. I'm an enthusiast of various sports, such as weightlifting, mountain biking, climbing, and hiking!

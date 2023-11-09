@@ -35,10 +35,10 @@ image:
 projects: []
 publishDate: '2023-03-01T:26:44'
 publication_types:
-- '3'
+- '2'
 abstract: 'The use of relative representations for latent embeddings has shown potential in enabling latent space communication and zero-shot model stitching across a wide range of applications. Nevertheless, relative representations rely on a certain amount of parallel anchors to be given as input, which can be impractical to obtain in certain scenarios. To overcome this limitation, we propose an optimization-based method to discover new parallel anchors from a limited number of seeds. Our approach can be used to find semantic correspondence between different domains, align their relative spaces, and achieve competitive results in several tasks.'
-publication: '*arXiv preprint arXiv:2303.00721*'
+publication: 'Tiny Papers @ ICLR 2023'
 links:
 - name: URL
-  url : https://arxiv.org/pdf/2303.00721.pdf
+  url : https://openreview.net/pdf?id=VBuUL2IWlq
 ---
