@@ -36,15 +36,15 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/adrian-robert-minut/
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:robertadrian.minut@gmail.com'
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
 #   - icon: cv
 #     icon_pack: ai
 #     link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "robertadrian.minut@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
