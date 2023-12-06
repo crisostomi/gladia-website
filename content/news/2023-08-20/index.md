@@ -1,6 +1,5 @@
 ---
-title: Two fully funded PhD scholarships in Deep Learning for Language
-
+title: Papers accepted at NeurIPS 2023
 
 event: ""
 event_url: ""
@@ -21,12 +20,12 @@ abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-04-07T13:00:00Z'
+date: '2023-07-20T13:00:00Z'
 # date_end: '2030-06-01T15:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2023-04-07T00:00:00Z'
+publishDate: '2023-07-20T00:00:00Z'
 
 tags: []
 
@@ -61,4 +60,4 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-We have two fully funded PhD scholarships in "Privacy-preserving language modeling" and "Context-aware Machine Translation" in partnership with [Translated](https://translated.com/welcome)! (call expired)
+We have 3/3 papers accepted at **NeurIPS 2023**!
