@@ -30,6 +30,10 @@ image:
   preview_only: false
 
 links:
+- icon: github
+  icon_pack: fab
+  name: 'GitHub'
+  url: https://github.com/Flegyas/latent-translation
 - icon:  chalkboard-user
   icon_pack: fas
   name: 'NeurIPS 2023'
