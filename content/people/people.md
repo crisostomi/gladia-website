@@ -19,6 +19,7 @@ content:
   - Principal Investigator
   - PhD Students
   - Alumni
+  - Postdoc toral
   - Project Assistant
 
 design:

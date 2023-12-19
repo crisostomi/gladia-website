@@ -9,12 +9,12 @@ status:
   icon: ""
 
 user_groups:
-  - PhD Students
+  - Postdocs
 
 superuser: true
 
 # Role/position/tagline
-role: PhD Student
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -22,7 +22,7 @@ organizations:
     url: https://www.uniroma1.it/
 
 # Short bio (displayed in user profile at end of posts)
-bio: "PhD student @ Sapienza, University of Rome | former PhD visiting @ KAUST, King Abdullah University of Science and Technology"
+bio: "Postdoctoral researcher @ Sapienza, University of Rome | former PhD visiting @ KAUST, King Abdullah University of Science and Technology"
 
 # Interests to show in About widget
 interests:
