@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: 'Emanuele Rodolà © {year} -- Made and maintained by Donato Crisostomi.'
+    notice: 'Emanuele Rodolà © {year} -- Made by <a href="https://crisostomi.com/">Donato Crisostomi</a>, maintained by <a href="https://crisostomi.com/">Donato Crisostomi</a>, <a href="https://gladia.di.uniroma1.it/authors/santilli/">Andrea Santilli</a>, <a href="https://gladia.di.uniroma1.it/authors/moschella/">Luca Moschella</a>.'
     license:
       enable: false
       allow_derivatives: false
