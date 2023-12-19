@@ -35,4 +35,4 @@ slides: ""
 projects: []
 ---
 
-The paper ["*Spectral Maps for Learning on Subgraphs*"](https://gladia.di.uniroma1.it/publication/pegoraro-2023-spectral/) received the **Best Paper Award** in the category Topology and Graph at the NeuRIPS 2023 workshop [NeurReps](https://www.neurreps.org/about).
+Our paper ["*Spectral Maps for Learning on Subgraphs*"](https://gladia.di.uniroma1.it/publication/pegoraro-2023-spectral/) received the **Best Paper Award** in the category Topology and Graphs at the *NeurIPS 2023* workshop [NeurReps](https://www.neurreps.org/about).
