@@ -18,10 +18,10 @@ tags:
 - 'Subgraphs'
 categories: []
 date: '2023-01-01'
-lastmod: 2023-02-05T10:57:52+01:00
+lastmod: 2023-12-16T10:57:52+01:00
 featured: false
 draft: false
-publication_short: "Preprint"
+publication_short: "NeuReps"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -55,7 +55,7 @@ abstract: In graph learning, maps between graphs and their subgraphs frequently 
   Our approach bears practical benefits in knowledge distillation and hierarchical
   learning, where we show comparable or improved performance at a fraction of the
   computational cost.
-publication: '*arXiv preprint arXiv:2108.02161*'
+publication: '*NeuReps Workshop 2023*'
 links:
 - name: URL
   url: https://arxiv.org/pdf/2205.14938.pdf

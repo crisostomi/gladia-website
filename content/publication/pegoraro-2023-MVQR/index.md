@@ -15,11 +15,11 @@ tags:
 - 'Machine Learning'
 - 'Probability and Statistics'
 categories: []
-date: '2023-07-03'
-lastmod: 2023-02-05T10:57:53+01:00
+date: '2024-01-20'
+lastmod: 2024-01-20T10:57:53+01:00
 featured: false
 draft: false
-publication_short: "frontiers4lcd"
+publication_short: "AISTATS 2024"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-02-05T09:57:52.951304Z'
+publishDate: '2024-01-20T09:57:52.951304Z'
 abstract: Quantile regression (QR) is a statistical tool for distribution-free estimation of conditional quantiles of a target variable given explanatory features.
   QR is limited by the assumption that the target distribution is univariate and defined on an Euclidean domain.
   Although the notion of quantiles was recently extended to multi-variate distributions,
@@ -44,7 +44,7 @@ abstract: Quantile regression (QR) is a statistical tool for distribution-free e
   By leveraging optimal transport theory and the notion of $c$-concave functions, we meaningfully define conditional vector quantile functions of high-dimensional variables on manifolds (M-CVQFs).
   Our approach allows for quantile estimation, regression, and computation of conditional confidence sets.
   We demonstrate the approach's efficacy and provide insights regarding the meaning of non-Euclidean quantiles through preliminary synthetic data experiments.
-publication: '*Workshop on New Frontiers in Learning, Control, and Dynamical Systems at the International Conference on Machine Learning (2023)*'
+publication: '*AISTATS 2024*'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2307.01037
