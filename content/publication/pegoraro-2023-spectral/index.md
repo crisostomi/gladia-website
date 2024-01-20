@@ -18,7 +18,7 @@ tags:
 - 'Subgraphs'
 categories: []
 date: '2023-01-01'
-lastmod: 2023-02-05T10:57:52+01:00
+lastmod: 2023-12-16T10:57:52+01:00
 featured: false
 draft: false
 publication_short: "NeuReps Workshop 2023"
