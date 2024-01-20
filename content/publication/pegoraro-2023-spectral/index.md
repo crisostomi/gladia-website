@@ -21,7 +21,7 @@ date: '2023-01-01'
 lastmod: 2023-02-05T10:57:52+01:00
 featured: false
 draft: false
-publication_short: "Preprint"
+publication_short: "NeuReps Workshop 2023"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
