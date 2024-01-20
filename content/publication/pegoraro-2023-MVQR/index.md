@@ -15,8 +15,8 @@ tags:
 - 'Machine Learning'
 - 'Probability and Statistics'
 categories: []
-date: '2023-07-03'
-lastmod: 2023-02-05T10:57:53+01:00
+date: '2024-01-20'
+lastmod: 2024-01-20T10:57:53+01:00
 featured: false
 draft: false
 publication_short: "AISTATS 2024"
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-02-05T09:57:52.951304Z'
+publishDate: '2024-01-20T09:57:52.951304Z'
 abstract: Quantile regression (QR) is a statistical tool for distribution-free estimation of conditional quantiles of a target variable given explanatory features.
   QR is limited by the assumption that the target distribution is univariate and defined on an Euclidean domain.
   Although the notion of quantiles was recently extended to multi-variate distributions,
