@@ -44,7 +44,7 @@ abstract: Quantile regression (QR) is a statistical tool for distribution-free e
   By leveraging optimal transport theory and the notion of $c$-concave functions, we meaningfully define conditional vector quantile functions of high-dimensional variables on manifolds (M-CVQFs).
   Our approach allows for quantile estimation, regression, and computation of conditional confidence sets.
   We demonstrate the approach's efficacy and provide insights regarding the meaning of non-Euclidean quantiles through preliminary synthetic data experiments.
-publication: '*Workshop on New Frontiers in Learning, Control, and Dynamical Systems at the International Conference on Machine Learning (2023)*'
+publication: '*AISTATS 2024*'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2307.01037
