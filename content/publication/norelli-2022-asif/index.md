@@ -11,13 +11,17 @@ authors:
 - moschella
 - rodola
 - Francesco Locatello
-tags: []
+
+tags:
+- '"Computer Science - Machine Learning"'
+- 'featured'
+
 categories: []
-date: '2022-01-01'
-lastmod: 2023-02-05T10:57:46+01:00
+date: '2023-12-12'
+lastmod: 2023-02-06T10:57:46+01:00
 featured: false
 draft: false
-publication_short: ""
+publication_short: "NeurIPS 2023"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -54,8 +58,25 @@ abstract: CLIP proved that aligning visual and language spaces is key to solving
 links:
   - name: PDF
     url: https://arxiv.org/pdf/2210.01738.pdf
+  - name: html
+    url: https://neurips.cc/virtual/2023/poster/71339
   - name: arXiv
     url: https://arxiv.org/abs/2210.01738
+  - name: Poster
+    url: https://drive.google.com/file/d/1irucKF7d8LbWfrVFX4vNHL9sVdh3Zu8v/view
+  - icon: twitter
+    icon_pack: fab
+    name: Thread
+    url: https://x.com/noranta4/status/1734020892282278210?s=20
+  - icon: github
+    icon_pack: fab
+    name: 'GitHub'
+    url: https://github.com/noranta4/ASIF
+  - icon:  chalkboard-user
+    icon_pack: fas
+    name: 'NeurIPS 2023'
+    url: https://neurips.cc/virtual/2023/poster/71339
+
     
-publication: '*arXiv preprint arXiv:2210.01738*'
+publication: '*NeurIPS 2023*'
 ---
