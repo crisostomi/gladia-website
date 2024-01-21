@@ -56,6 +56,21 @@ links:
     url: https://arxiv.org/pdf/2210.01738.pdf
   - name: arXiv
     url: https://arxiv.org/abs/2210.01738
+  - name: Wonderful poster
+    url: https://drive.google.com/file/d/1irucKF7d8LbWfrVFX4vNHL9sVdh3Zu8v/view
+  - icon: twitter
+    icon_pack: fab
+    name: Twitter thread
+    url: https://x.com/noranta4/status/1734020892282278210?s=20
+  - icon: github
+    icon_pack: fab
+    name: 'GitHub'
+    url: https://github.com/noranta4/ASIF
+  - icon:  chalkboard-user
+    icon_pack: fas
+    name: 'NeurIPS 2023'
+    url: https://neurips.cc/virtual/2023/poster/71339
+
     
-publication: '*arXiv preprint arXiv:2210.01738*'
+publication: '*NeurIPS 2023*'
 ---
