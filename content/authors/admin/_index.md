@@ -31,14 +31,14 @@ Welcome to the GLADIA research lab! Based in the beautiful city of Rome, we are 
 
 <ul style="list-style:none; padding:0; margin:0; display:flex; flex-wrap: wrap; justify-content: space-between;">
   <li style="width: 100%; margin-bottom: 0px; display: flex; align-items: center;  padding-right: 10px; padding-left: 10px; height: 100px;">
-    <img src="https://research.google/static/images/google_research_lockup-121987c06c0aa0ab26ca8716a0f2e7945d1cbf82077bbab9f914dac0a0bf099f.svg" style="max-width: 150px; height: auto; margin-right: 10px;"/> 
+    <img src="uploads/google_research_award.png" style="max-width: 150px; height: auto; margin-right: 10px;"/>
     <div style="flex: 1; min-width: 50px">
       <h4 style="margin: 0; font-weight: 400;">Google Research Award "FairGeometry"</h4>
       <!-- <p style="margin: 5px 0 0 0; font-size: 14px;">Description text goes here.</p> -->
     </div>
   </li>
   <li style="width: 100%; margin-bottom: 0px; display: flex; align-items: center; padding-right: 10px; padding-left: 10px; height: 100px;" >
-    <img src="https://erc.europa.eu/sites/default/files/LOGO_ERC-FLAG_EU_.jpg" style="max-width: 150px; height: auto; margin-right: 10px;"/> 
+    <img src="https://erc.europa.eu/sites/default/files/LOGO_ERC-FLAG_EU_.jpg" style="max-width: 150px; height: auto; margin-right: 10px;"/>
     <div style="flex: 1; min-width: 50px">
       <h4 style="margin: 0; font-weight: 400;">ERC StG 2018 "SPECGEO"</h4>
       <!-- <p style="margin: 5px 0 0 0; font-size: 14px;">Description text goes here.</p> -->
