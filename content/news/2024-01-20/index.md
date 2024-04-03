@@ -36,4 +36,4 @@ slides: ""
 projects: []
 ---
 
-Our paper ["*Vector Quantile Regression on Manifolds*"](https://gladia.di.uniroma1.it/publication/pegoraro-2023-mvqr/) was accepted to **AISTATS 2024** main conference!
+Our paper ["*Vector Quantile Regression on Manifolds*"](https://gladia.di.uniroma1.it/publication/pegoraro-2023-mvqr/) was accepted at **AISTATS 2024** main conference!

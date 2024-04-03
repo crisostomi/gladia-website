@@ -39,4 +39,4 @@ slides: ""
 projects: []
 ---
 
-Our paper ["*Multi-Source Diffusion Models for Simultaneous Music Generation and Separation*"](https://gladia.di.uniroma1.it/publication/mariani-2023-multi/) was accepted as **Oral (Top 1.2%)** to **ICLR 2024** main conference!
+Our paper ["*Multi-Source Diffusion Models for Simultaneous Music Generation and Separation*"](https://gladia.di.uniroma1.it/publication/mariani-2023-multi/) was accepted as **Oral (Top 1.2%)** at **ICLR 2024** main conference!
