@@ -71,4 +71,6 @@ I am a Ph.D. student in Computer Science at Sapienza, University of Rome, where 
 
 My research interests at the moment focus on artificial intelligence for music, and vector quantile regression, a statistical inference method based on optimal transport.
 
+Find my CV at [this link](https://drive.google.com/file/d/1CANiMbtu8fywy2WZjyyzViSC_krsl6FC/view?usp=sharing).
+
 {style="text-align: justify;"}
