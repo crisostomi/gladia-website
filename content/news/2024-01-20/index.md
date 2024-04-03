@@ -6,6 +6,7 @@ event_url: ""
 
 authors:
     - pegoraro
+    - tallini
 
 summary: ""
 abstract: ""
