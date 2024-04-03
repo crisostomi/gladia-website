@@ -23,15 +23,14 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: >
-    I'm a Computer Science PhD with Math Bachelor and passion. Right now I'm working on AI for Music.
+    I'm a Computer Science PhD with Math Bachelor and passion. Right now I'm working on AI for music and vector quantile regression.
     I like to sing, also.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
   - AI for Music
-  - Denoising Diffusion
-  - Neural Network Compression
+  - Vector Quantile Regression
+  - Optimal Transport
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -70,8 +69,6 @@ highlight_name: false
 ---
 I am a Ph.D. student in Computer Science at Sapienza, University of Rome, where I am part of the GLADIA research group, led by prof. Emanuele Rodolà.
 
-My research interest at the moment focus on Artificial Intelligence for Music. I'm also interested in Neural Network Compression. 
-
-The aspect I like most about research is seeing the generalization and ordering power of math in action, thus its ability to unify seemingly different things and to separate different causes and consequences.
+My research interests at the moment focus on artificial intelligence for music, and vector quantile regression, a statistical inference method based on optimal transport.
 
 {style="text-align: justify;"}
