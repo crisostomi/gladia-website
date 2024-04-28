@@ -1,22 +1,25 @@
 ---
-title: "Paper accepted at AISTATS 2024"
+title: "Paper accepted as Oral at ICLR 2024"
 
 event: ""
 event_url: ""
 
 authors:
-    - pegoraro
+    - mariani
     - tallini
+    - postolache
+    - mancusi
+    - rodola
 
 summary: ""
 abstract: ""
 
 
-date: '2024-01-20T17:00:00Z'  # REPLACE WITH THE CORRECT DATE HERE 
+date: '2024-01-16T17:00:00Z'  # REPLACE WITH THE CORRECT DATE HERE 
 
 all_day: true
 
-publishDate: '2024-01-20T17:00:00Z'
+publishDate: '2024-01-16T17:00:00Z'
 
 tags: []
 
@@ -36,4 +39,4 @@ slides: ""
 projects: []
 ---
 
-Our paper ["*Vector Quantile Regression on Manifolds*"](https://gladia.di.uniroma1.it/publication/pegoraro-2023-mvqr/) was accepted at **AISTATS 2024** main conference!
+Our paper ["*Multi-Source Diffusion Models for Simultaneous Music Generation and Separation*"](https://gladia.di.uniroma1.it/publication/mariani-2023-multi/) was accepted as **Oral (Top 1.2%)** at **ICLR 2024** main conference!
