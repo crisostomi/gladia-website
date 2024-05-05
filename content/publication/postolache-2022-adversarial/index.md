@@ -38,7 +38,7 @@ image:
 projects: []
 publishDate: '2023-02-06T10:38:42.817844Z'
 publication_types:
-- '2'
+- '1'
 abstract: 'Universal sound separation consists of separating mixes with arbitrary
   sounds of different types, and permutation invariant training (PIT) is used to train
   source agnostic models that do so. In this work, we complement PIT with adversarial
