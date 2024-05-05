@@ -64,6 +64,5 @@ email: 'postolache@di.uniroma1.it'
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I am a Ph.D. student interested in generative models and audio processing. My work focused on enabling source separation using latent autoregressive models in VQ-VAE domains, proposing a Bayesian sampling technique based on fully discrete likelihood functions. I pursued an internship at Dolby Laboratories, where I improved universal sound separation using adversarial techniques. I developed a diffusion-based model that simultaneously performs music generation, accompaniment generation, and source separation. Now I am an academic visitor at Queen Mary University of London in the Artificial Intelligence for Music (AIM) group at the Center for Digital Music (C4DM).
-
+I am a Ph.D. student interested in generative models, especially applied to (waveform) compositional music generation. I also worked on source separation, foley sound synthesis, EEG music decoding and machine translation. I pursued internships at Dolby Laboratories, SonyCSL Tokyo and visited the Center For Digital Music in Queen Mary University of London.
 {style="text-align: justify;"}
