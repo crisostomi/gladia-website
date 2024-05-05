@@ -20,6 +20,7 @@ date: '2024-05-09'
 lastmod: 2024-05-05T14:00:41+01:00
 featured: false
 draft: false
+publication_short: "ICLR 2024"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
