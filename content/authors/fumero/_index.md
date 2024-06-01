@@ -9,7 +9,7 @@ status:
   icon: ""
 
 user_groups:
-  - PhD Students
+  - Alumni
 
 superuser: true
 
