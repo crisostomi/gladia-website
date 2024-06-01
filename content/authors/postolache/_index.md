@@ -9,12 +9,12 @@ status:
   icon: ""
 
 user_groups:
-  - PhD Students
+  - Alumni
 
 superuser: true
 
 # Role/position/tagline
-role: PhD Student
+role: PhD student
 
 # Organizations/Affiliations to show in About widget
 organizations:
