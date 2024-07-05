@@ -30,7 +30,7 @@ bio: ""
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
+  - Representation Learning
   - Geometry Processing
   - Graph and Geometric Deep Learning
   - ML for Audio
@@ -72,6 +72,6 @@ email: ''
 highlight_name: false
 ---
 {style="text-align: justify;"}
-Emanuele Rodolà is Full Professor of Computer Science at Sapienza University of Rome, where he leads the GLADIA group of Geometry, Learning and Applied AI, funded by an ERC Grant and a Google Research Award, and acts as the Director of the PhD in Computer Science. Previously, he was Assistant and then Associate Professor at Sapienza (2017-2020), a postdoc at USI Lugano (2016-2017), an Alexander von Humboldt Fellow at TU Munich (2013-2016), and a JSPS Research Fellow at The University of Tokyo (2013). He is an ELLIS fellow and a fellow of the Young Academy of Europe, has received a number of research prizes, has been serving in the program and organizing committees of the top rated conferences in computer vision, machine learning and graphics, founded and chaired several successful workshops. His research interests lie at the intersection of geometry processing, graph and geometric deep learning, computer vision, language and signal processing, and has published more than 100 papers in these areas. 
+Emanuele Rodolà is Full Professor of Computer Science at Sapienza University of Rome, where he leads the GLADIA group of Geometry, Learning and Applied AI, funded by an ERC Grant and a Google Research Award. Previously, he was Assistant and then Associate Professor at Sapienza (2017-2020), a postdoc at USI Lugano (2016-2017), a Humboldt Fellow at TU Munich (2013-2016), and a JSPS Research Fellow at The University of Tokyo (2013). He is an ELLIS fellow and a fellow of the Young Academy of Europe, has received a number of research prizes, has been serving in the program and organizing committees of the top rated conferences in computer vision, machine learning and graphics, founded and chaired several successful workshops. His research interests lie at the intersection of representation learning, geometry processing, graph and geometric deep learning, vision, language, and audio, and has published more than 150 papers in these areas. 
 
 You can find the full CV at [this link](https://drive.google.com/file/d/1tSqWbWJ9VmK1z692EdsBiYMEq9ZeRsAB/view?usp=sharing).
