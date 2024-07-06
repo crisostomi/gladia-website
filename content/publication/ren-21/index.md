@@ -32,9 +32,13 @@ links:
 - icon: link
   icon_pack: fas
   name: 'URL'
-    url: http://www.lix.polytechnique.fr/~maks/papers/SGP21_DiscMapOpt.pdf
-  - name: GitHub
-    url: https://github.com/llorz/SGP21_discreteOptimization
+  url: https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14359
+- name: 'PDF'
+  url: http://www.lix.polytechnique.fr/~maks/papers/SGP21_DiscMapOpt.pdf
+- icon: github
+  icon_pack: fab
+  name: 'GitHub'
+  url: https://github.com/llorz/SGP21_discreteOptimization
 
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
@@ -60,9 +64,5 @@ abstract: Abstract We propose a novel discrete solver for optimizing functional 
   Refinement (EFMR) method which achieves the state-of-the-art accuracy on the SHREC'19
   benchmark.
 publication: '*Computer Graphics Forum*'
-links:
-- icon: link
-  icon_pack: fas
-  name: 'URL'
-  url: https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14359
+
 ---
