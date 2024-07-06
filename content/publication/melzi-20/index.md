@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Intrinsic/extrinsic embedding for functional remeshing of 3D shapes
+title: 'Intrinsic/extrinsic embedding for functional remeshing of 3D shapes'
 subtitle: ''
 summary: ''
 authors:
@@ -36,9 +36,11 @@ links:
 - icon: link
   icon_pack: fas
   name: 'URL'
-    url: https://reader.elsevier.com/reader/sd/pii/S0097849320300194?token=A4863AC87E8DEE6D9DB93E0D0A82B9E73546D60608F9626ED4979759D5E53CB52B9F4C53C71C59F147B6E7A87E5DAD37&originRegion=eu-west-1&originCreation=20230406125403
-  - name: GitHub
-    url: https://github.com/PietroMsn/CMH
+  url: https://www.sciencedirect.com/science/article/pii/S0097849320300194
+- icon: github
+  icon_pack: fab
+  name: 'GitHub'
+  url: https://github.com/PietroMsn/CMH
     
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -65,9 +67,4 @@ abstract: '3D acquisition pipeline delivers 3D digital models accurately represe
   Harmonics (CMH). We evaluate this strategy (quantitatively and qualitatively) over
   models of different classes, obtaining a favourable comparison with existing methods.'
 publication: '*Computers & Graphics*'
-links:
-- icon: link
-  icon_pack: fas
-  name: 'URL'
-  url: https://www.sciencedirect.com/science/article/pii/S0097849320300194
 ---
