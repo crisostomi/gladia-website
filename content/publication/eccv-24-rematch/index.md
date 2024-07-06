@@ -1,6 +1,6 @@
 ---
 
-title: ReMatching: Low-Resolution Representations for Scalable Shape Correspondence
+title: "ReMatching: Low-Resolution Representations for Scalable Shape Correspondence"
 subtitle: ''
 summary: ''
 authors:
