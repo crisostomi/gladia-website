@@ -47,6 +47,7 @@ projects: []
 publishDate: '2022-04-28T10:30:59.888843Z'
 publication_types:
 - '1'
+
 abstract: 'In recent years Large Language Models (LLMs) have increased the state of the art on several natural language processing tasks. However, their accessibility is often limited to paid API services, posing challenges for researchers in conducting extensive investigations. On the other hand, while some open-source models have been proposed by the community, they are typically English-centric or multilingual without a specific adaptation for the Italian language. In an effort to democratize the available and open resources for the Italian language, in this paper we introduce Camoscio: a language model specifically tuned to follow users' prompts in Italian. Specifically, we finetuned the smallest variant of LLaMA (7b) with LoRA on a corpus of instruction prompts translated to Italian via ChatGPT. Results indicate that the model's zero-shot performance on various downstream tasks in Italian competes favorably with existing models specifically finetuned for those tasks. All the artifacts (code, dataset, model) are released to the community.'
 
 publication: '*Italian Conference on Computational Linguistics (CLiC-it 2023)*'
