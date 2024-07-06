@@ -36,7 +36,7 @@ links:
 - icon: link
   icon_pack: fas
   name: 'URL'
-    url: https://arxiv.org/pdf/2206.10885.pdf
+  url: https://arxiv.org/pdf/2206.10885.pdf
   
 
 
