@@ -20,7 +20,7 @@ date: '2019-11-01'
 lastmod: 2023-02-08T15:02:32+01:00
 featured: false
 draft: false
-publication_short: ""
+publication_short: "TOG"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -29,12 +29,6 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
-
-links:
-  - name: URL
-    url: http://www.lix.polytechnique.fr/~maks/papers/SGA19_zoomOut_reduced.pdf
-  - name: GitHub
-    url: https://github.com/llorz/SGA19_zoomOut
     
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -45,22 +39,18 @@ projects: []
 publishDate: '2023-02-08T14:02:31.810661Z'
 publication_types:
 - '2'
-abstract: We present a simple and efficient method for refining maps or correspondences
-  by iterative upsampling in the spectral domain that can be implemented in a few
-  lines of code. Our main observation is that high quality maps can be obtained even
-  if the input correspondences are noisy or are encoded by a small number of coefficients
-  in a spectral basis. We show how this approach can be used in conjunction with existing
-  initialization techniques across a range of application scenarios, including symmetry
-  detection, map refinement across complete shapes, non-rigid partial shape matching
-  and function transfer. In each application we demonstrate an improvement with respect
-  to both the quality of the results and the computational speed compared to the best
-  competing methods, with up to two orders of magnitude speed-up in some applications.
-  We also demonstrate that our method is both robust to noisy input and is scalable
-  with respect to shape complexity. Finally, we present a theoretical justification
-  for our approach, shedding light on structural properties of functional maps.
+abstract: "We present a simple and efficient method for refining maps or correspondences by iterative upsampling in the spectral domain that can be implemented in a few lines of code. Our main observation is that high quality maps can be obtained even if the input correspondences are noisy or are encoded by a small number of coefficients in a spectral basis. We show how this approach can be used in conjunction with existing initialization techniques across a range of application scenarios, including symmetry detection, map refinement across complete shapes, non-rigid partial shape matching and function transfer. In each application we demonstrate an improvement with respect to both the quality of the results and the computational speed compared to the best competing methods, with up to two orders of magnitude speed-up in some applications. We also demonstrate that our method is both robust to noisy input and is scalable with respect to shape complexity. Finally, we present a theoretical justification for our approach, shedding light on structural properties of functional maps."
 publication: '*ACM Trans. Graph.*'
 doi: 10.1145/3355089.3356524
 links:
-- name: URL
-  url: https://doi.org/10.1145/3355089.3356524
+- icon: link
+  icon_pack: fas
+  name: 'URL'
+  url: https://dl.acm.org/doi/10.1145/3355089.3356524
+- name: PDF
+  url: https://arxiv.org/pdf/1904.07865
+- icon: github
+  icon_pack: fab
+  name: 'GitHub'
+  url: https://github.com/llorz/SGA19_zoomOut
 ---
