@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Camoscio: an Italian Instruction-tuned LLaMA
+title: "Camoscio: an Italian Instruction-tuned LLaMA"
 subtitle: ''
 summary: ''
 authors:
