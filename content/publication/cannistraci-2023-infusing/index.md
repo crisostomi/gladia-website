@@ -41,7 +41,7 @@ links:
 - name: URL
   url : https://openreview.net/forum?id=vngVydDWft
 - name: PDF
-    url: https://openreview.net/pdf?id=vngVydDWft
+  url: https://openreview.net/pdf?id=vngVydDWft
 - icon: award
   icon_pack: fas
   name: 'ICLR 2024 spotlight'
