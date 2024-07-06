@@ -54,6 +54,8 @@ publication: '*Computer Vision--ECCV 2020*'
 links:
 - name: 'arXiv'
   url: https://arxiv.org/abs/2003.12283
-- name: GitHub
+- icon: github
+  icon_pack: fab
+  name: 'GitHub'
   url: https://github.com/lcosmo/LIMP
 ---

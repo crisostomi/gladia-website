@@ -51,10 +51,11 @@ abstract: The question whether one can recover the shape of a geometric object f
   dense deformable correspondence.
 publication: '*Proceedings of the IEEE Computer Society Conference on Computer Vision
   and Pattern Recognition*'
-doi: 10.1109/CVPR.2019.00771
 links:
 - name: PDF
   url: https://openaccess.thecvf.com/content_CVPR_2019/papers/Cosmo_Isospectralization_or_How_to_Hear_Shape_Style_and_Correspondence_CVPR_2019_paper.pdf
-- name: GitHub
+- icon: github
+  icon_pack: fab
+  name: 'GitHub'
   url: https://github.com/lcosmo/isospectralization
 ---

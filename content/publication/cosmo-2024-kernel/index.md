@@ -41,7 +41,9 @@ publication_types:
 abstract: "The convolution operator at the core of many modern neural architectures can effectively be seen as performing a dot product between an input matrix and a filter. While this is readily applicable to data such as images, which can be represented as regular grids in the Euclidean space, extending the convolution operator to work on graphs proves more challenging, due to their irregular structure. In this article, we propose to use graph kernels, i.e., kernel functions that compute an inner product on graphs, to extend the standard convolution operator to the graph domain. This allows us to define an entirely structural model that does not require computing the embedding of the input graph. Our architecture allows to plug-in any type of graph kernels and has the added benefit of providing some interpretability in terms of the structural masks that are learned during the training process, similar to what happens for convolutional masks in traditional convolutional neural networks (CNNs). We perform an extensive ablation study to investigate the model hyperparameters’ impact and show that our model achieves competitive performance on standard graph classification and regression datasets."
 publication: '*IEEE Transactions on Neural Networks and Learning Systems*'
 links:
-- name: URL
+- icon: link
+  icon_pack: fas
+  name: 'URL'
   url: https://ieeexplore.ieee.org/document/10542111
 - name: arXiv
   url: https://arxiv.org/abs/2112.07436

@@ -29,7 +29,9 @@ image:
   preview_only: false
 
 links:
-  - name: URL
+- icon: link
+  icon_pack: fas
+  name: 'URL'
     url: https://arxiv.org/pdf/2006.02532.pdf
   - name: GitHub
     url: https://github.com/llorz/SGA20_mapExplor
@@ -57,8 +59,9 @@ abstract: In this paper we propose an approach for computing multiple high-quali
   and results in more accurate correspondences than state-of-the-art for shape matching
   and symmetry detection.
 publication: '*ACM Trans. Graph.*'
-doi: 10.1145/3414685.3417800
 links:
-- name: URL
+- icon: link
+  icon_pack: fas
+  name: 'URL'
   url: https://doi.org/10.1145/3414685.3417800
 ---

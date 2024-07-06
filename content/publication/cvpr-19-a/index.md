@@ -17,7 +17,7 @@ date: '2019-06-01'
 lastmod: 2023-02-02T06:55:07+01:00
 featured: false
 draft: false
-publication_short: ""
+publication_short: "CVPR 2019"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -28,10 +28,16 @@ image:
   preview_only: false
 
 links:
-  - name: URL
-    url: https://drive.google.com/file/d/1ewpPCCkYMBpCsJ2FAbULzMbsFE0VOuaq/view
-  - name: GitHub
-    url: https://drive.google.com/file/d/17Th7QFhX2dOobcZM38AIqPaBQYg7nldW/view
+- icon: link
+  icon_pack: fas
+  name: 'URL'
+  url: https://ieeexplore.ieee.org/document/8953995
+- name: PDF
+  url: https://openaccess.thecvf.com/content_CVPR_2019/papers/Melzi_GFrames_Gradient-Based_Local_Reference_Frame_for_3D_Shape_Matching_CVPR_2019_paper.pdf
+- icon: github
+  icon_pack: fab
+  name: 'GitHub'
+  url: https://drive.google.com/file/d/17Th7QFhX2dOobcZM38AIqPaBQYg7nldW/view
     
 # Projects (optional).
 #   Associate this post with one or more of your projects.

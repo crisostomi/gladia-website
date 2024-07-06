@@ -60,6 +60,8 @@ publication: '*Proc. AAAI*'
 links:
 - name: 'arXiv'
   url: https://arxiv.org/abs/2301.08562
-- name: GitHub
+- icon: github
+  icon_pack: fab
+  name: 'GitHub'
   url: https://github.com/gladia-research-group/latent-autoregressive-source-separation
 ---

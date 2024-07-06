@@ -55,8 +55,9 @@ abstract: Gaussian Boson Sampling (GBS) is a non-universal model for quantum com
   a novel approach to the actual need for tailored algorithms to benchmark large-scale
   Gaussian Boson Samplers.
 publication: '*Quantum Science and Technology*'
-doi: 10.1088/2058-9565/ac969b
 links:
-- name: URL
+- icon: link
+  icon_pack: fas
+  name: 'URL'
   url: https://dx.doi.org/10.1088/2058-9565/ac969b
 ---

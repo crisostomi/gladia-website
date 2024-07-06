@@ -26,10 +26,10 @@ image:
   preview_only: false
   
 links:
-  - name: URL
-    url: https://profs.sci.univr.it/~castellani/allegati/3DV16_CR.pdf
-  - name: GitHub
-    url: 
+- icon: link
+  icon_pack: fas
+  name: 'URL'
+  url: https://profs.sci.univr.it/~castellani/allegati/3DV16_CR.pdf
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

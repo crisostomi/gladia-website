@@ -25,9 +25,13 @@ image:
   preview_only: false
 
 links:
-- name: URL
+- icon: link
+  icon_pack: fas
+  name: 'URL'
   url: https://diglib.eg.org/bitstream/handle/10.2312/stag20221252/021-028.pdf
-- name: GitHub
+- icon: github
+  icon_pack: fab
+  name: 'GitHub'
   url: https://github.com/PietroMsn/GIM3D
   
 # Projects (optional).
@@ -53,5 +57,4 @@ abstract: The 3D cloth segmentation task is particularly challenging due to the 
   both meshes and point clouds.
 publication: '*Smart Tools and Applications in Graphics - Eurographics Italian Chapter
   Conference*'
-doi: 10.2312/stag.20221252
 ---

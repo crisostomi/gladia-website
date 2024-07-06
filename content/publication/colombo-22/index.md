@@ -26,10 +26,14 @@ image:
   preview_only: false
 
 links:
-  - name: URL
-    url: https://diglib.eg.org/bitstream/handle/10.2312/stag20221250/001-009.pdf
-  - name: GitHub
-    url: https://github.com/michele-colombo/PC-Gau_STAG2022
+- icon: link
+  icon_pack: fas
+  name: 'URL'
+  url: https://diglib.eg.org/bitstream/handle/10.2312/stag20221250/001-009.pdf
+- icon: github
+  icon_pack: fab
+  name: 'GitHub'
+  url: https://github.com/michele-colombo/PC-Gau_STAG2022
   
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -59,5 +63,4 @@ abstract: Shape matching is a central problem in geometry processing application
   to LB - when employed in the same shape-matching pipeline.
 publication: '*Smart Tools and Applications in Graphics - Eurographics Italian Chapter
   Conference*'
-doi: 10.2312/stag.20221253
 ---

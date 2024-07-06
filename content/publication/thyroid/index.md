@@ -41,7 +41,9 @@ abstract: 'Computer-aided diagnosis (CAD) is becoming a prominent approach to as
 publication: '*IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*'
 
 links:
-- name: URL
+- icon: link
+  icon_pack: fas
+  name: 'URL'
   url: https://ieeexplore.ieee.org/document/9409170
 - name: PDF
   url: https://arxiv.org/pdf/2005.14117

@@ -57,7 +57,9 @@ abstract: In graph learning, maps between graphs and their subgraphs frequently 
   computational cost.
 publication: '*NeurReps Workshop 2023*'
 links:
-- name: URL
+- icon: link
+  icon_pack: fas
+  name: 'URL'
   url: https://openreview.net/forum?id=e9JBa515z2
 - name: PDF
   url: https://openreview.net/pdf?id=e9JBa515z2

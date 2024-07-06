@@ -30,10 +30,14 @@ image:
   preview_only: false
   
 links:
-  - name: URL
-    url: https://drive.google.com/file/d/1A3hpRRl4mARPd6QZS6bdzDFeKpYiVFTC/view
-  - name: GitHub
-    url: http://profs.scienze.univr.it/~marin/shrec19/
+- icon: link
+  icon_pack: fas
+  name: 'URL'
+  url: https://drive.google.com/file/d/1A3hpRRl4mARPd6QZS6bdzDFeKpYiVFTC/view
+- icon: github
+  icon_pack: fab
+  name: 'GitHub'
+  url: http://profs.scienze.univr.it/~marin/shrec19/
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

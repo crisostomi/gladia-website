@@ -6,9 +6,9 @@ subtitle: ''
 summary: ''
 authors:
 - pegoraro
-- Clémentine Dominé
+- Clementine Domine
 - rodola
-- Petar Veličković
+- Petar Velickovic
 - Andreea Deac
 tags:
 - 'Machine Learning'
@@ -36,11 +36,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2023-02-05T09:57:52.951304Z'
-abstract: Antibody-antigen interactions play a crucial role in identifying and neutralizing harmful foreign molecules. 
-  In this paper, we investigate the optimal representation for predicting the binding sites in the two molecules and emphasize the importance of geometric information. 
-  Specifically, we compare different geometric deep learning methods applied to proteins inner (I-GEP) and outer (O-GEP) structures. 
-  We incorporate 3D coordinates and spectral geometric descriptors as input features to fully leverage the geometric information. 
-  Our research suggests that surface-based models are more efficient than other methods, and our O-GEP experiments have achieved state-of-the-art results with significant performance improvements.
+abstract: "Antibody-antigen interactions play a crucial role in identifying and neutralizing harmful foreign molecules. In this paper, we investigate the optimal representation for predicting the binding sites in the two molecules and emphasize the importance of geometric information. Specifically, we compare different geometric deep learning methods applied to proteins inner (I-GEP) and outer (O-GEP) structures. We incorporate 3D coordinates and spectral geometric descriptors as input features to fully leverage the geometric information. Our research suggests that surface-based models are more efficient than other methods, and our O-GEP experiments have achieved state-of-the-art results with significant performance improvements."
 publication: '*Preprint*'
 links:
 - name: bioRxiv

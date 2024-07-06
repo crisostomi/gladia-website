@@ -39,10 +39,14 @@ abstract: 'We introduce the first completely unsupervised correspondence learnin
 publication: "*Proc. Int'l Conference on Computer Vision and Pattern Recognition (CVPR)*"
 
 links:
-- name: URL
+- icon: link
+  icon_pack: fas
+  name: 'URL'
   url: https://ieeexplore.ieee.org/document/8953366
 - name: PDF
   url: https://openaccess.thecvf.com/content_CVPR_2019/papers/Halimi_Unsupervised_Learning_of_Dense_Shape_Correspondence_CVPR_2019_paper.pdf
-- name: GitHub
+- icon: github
+  icon_pack: fab
+  name: 'GitHub'
   url: https://github.com/OshriHalimi/unsupervised_learning_of_dense_shape_correspondence
 ---

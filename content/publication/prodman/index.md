@@ -39,7 +39,9 @@ abstract: 'We consider the tasks of representing, analyzing and manipulating map
 publication: '*Computer Graphics Forum (CGF)*'
 
 links:
-- name: URL
+- icon: link
+  icon_pack: fas
+  name: 'URL'
   url: https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13598
 - name: PDF
   url: https://arxiv.org/pdf/1809.10940

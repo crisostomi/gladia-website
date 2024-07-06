@@ -50,10 +50,13 @@ abstract: 'Adversarial attacks have demonstrated remarkable efficacy in altering
   Our findings are confirmed empirically over multiple datasets spanning different
   semantic classes and deformations.'
 publication: '*Computer Graphics Forum*'
-doi: https://doi.org/10.1111/cgf.14083
 links:
-- name: URL
+- icon: link
+  icon_pack: fas
+  name: 'URL'
   url: https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14083
-- name: GitHub
+- icon: github
+  icon_pack: fab
+  name: 'GitHub'
   url: https://github.com/giorgio-mariani/Adversarial-Surfaces-via-Band-Limited-Perturbations
 ---

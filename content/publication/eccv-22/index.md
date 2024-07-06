@@ -38,7 +38,9 @@ abstract: '3D human pose estimation is fundamental to understanding human behavi
 publication: '*Proc. European Conference on Computer Vision (ECCV)*'
 
 links:
-- name: URL
+- icon: link
+  icon_pack: fas
+  name: 'URL'
   url: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1049_ECCV_2022_paper.php
 - name: PDF
   url: https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136610158.pdf

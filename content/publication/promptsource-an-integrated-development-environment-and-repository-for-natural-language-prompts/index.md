@@ -11,7 +11,6 @@ authors:
   - Colin Raffel
   - BIG-Science contributors including
   - santilli
-doi: http://dx.doi.org/10.18653/v1/2022.acl-demo.9
 publication: " Proceedings of the 60th Annual Meeting of the Association for
   Computational Linguistics: System Demonstrations"
 publication_short: "ACL 2022"

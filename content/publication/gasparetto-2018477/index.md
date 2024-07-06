@@ -53,7 +53,6 @@ abstract: Functional representation is a well-established approach to represent 
   and thus the bijectivity of the induced map is assured. The performance of the proposed
   method is assessed on several popular benchmarks. © 2017 IEEE.
 publication: '*Proceedings - 2017 International Conference on 3D Vision, 3DV 2017*'
-doi: 10.1109/3DV.2017.00061
 links:
 - name: PDF
   url: https://vision.in.tum.de/_media/spezial/bib/gasparetto-3dv17.pdf

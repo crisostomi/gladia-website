@@ -28,10 +28,14 @@ image:
   preview_only: false
 
 links:
-  - name: URL
-    url: http://www.lix.polytechnique.fr/~maks/papers/CVPR21_Fast_Sinkhorn_filters.pdf
-  - name: GitHub
-    url: https://github.com/paigautam/CVPR21_FastSinkhornFilters
+- icon: link
+  icon_pack: fas
+  name: 'URL'
+  url: http://www.lix.polytechnique.fr/~maks/papers/CVPR21_Fast_Sinkhorn_filters.pdf
+- icon: github
+  icon_pack: fab
+  name: 'GitHub'
+  url: https://github.com/paigautam/CVPR21_FastSinkhornFilters
     
 # Projects (optional).
 #   Associate this post with one or more of your projects.

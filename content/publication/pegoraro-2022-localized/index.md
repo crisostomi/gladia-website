@@ -58,6 +58,8 @@ abstract: Many natural shapes have most of their characterizing features concent
   different choices of local operators over diverse shape categories.
 publication: '*Computer Graphics Forum*'
 links:
-- name: URL
+- icon: link
+  icon_pack: fas
+  name: 'URL'
   url: https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14599
 ---

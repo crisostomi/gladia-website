@@ -38,5 +38,4 @@ publication_types:
 abstract: ''
 publication: '*Processing, Analyzing and Learning of Images, Shapes, and Forms: Part
   1*'
-doi: https://doi.org/10.1016/bs.hna.2018.09.002
 ---

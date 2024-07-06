@@ -40,10 +40,14 @@ abstract: 'We consider the problem of localizing relevant subsets of non-rigid g
 publication: "*Proc. Int'l Conference on 3D Vision (3DV)*"
 
 links:
-- name: URL
+- icon: link
+  icon_pack: fas
+  name: 'URL'
   url: https://www.computer.org/csdl/proceedings-article/3dv/2019/313100a037/1ezRALztN1m
 - name: PDF
   url: https://arxiv.org/pdf/1906.06226
-- name: GitHub
+- icon: github
+  icon_pack: fab
+  name: 'GitHub'
   url: https://github.com/AriannaRampini/HamiltonianSpectrumAlignment
 ---

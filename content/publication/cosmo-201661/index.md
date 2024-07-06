@@ -47,10 +47,11 @@ abstract: 'Matching deformable 3D shapes under partiality transformations is a c
   presents the details of the dataset, the adopted evaluation measures, and shows
   thorough comparisons among all competing methods.'
 publication: '*Eurographics Workshop on 3D Object Retrieval, EG 3DOR*'
-doi: 10.2312/3dor.20161089
 links:
 - name: PDF
   url: https://diglib.eg.org/bitstream/handle/10.2312/3dor20161089/061-067.pdf
-- name: URL
+- icon: link
+  icon_pack: fas
+  name: 'URL'
   url: https://www.dais.unive.it/~shrec2016
 ---
