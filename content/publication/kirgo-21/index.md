@@ -33,12 +33,16 @@ image:
 
 
 links:
+- name: 'PDF'
+  url: https://arxiv.org/ftp/arxiv/papers/2007/2007.11632.pdf
 - icon: link
   icon_pack: fas
   name: 'URL'
-    url: https://arxiv.org/ftp/arxiv/papers/2007/2007.11632.pdf
-  - name: GitHub
-    url: https://github.com/MaximeKirgo/CGF20_waveletsOnShapes
+  url: https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14180
+- icon: github
+  icon_pack: fab
+  name: 'GitHub'
+  url: https://github.com/MaximeKirgo/CGF20_waveletsOnShapes
     
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -63,9 +67,5 @@ abstract: Abstract In this paper, we propose a new construction for the Mexican 
   shape matching. An extensive comparison to the state-of-the-art shows that it is
   comparable in performance, while both simpler and much faster than competing approaches.
 publication: '*Computer Graphics Forum*'
-links:
-- icon: link
-  icon_pack: fas
-  name: 'URL'
-  url: https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14180
+
 ---
