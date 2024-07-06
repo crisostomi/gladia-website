@@ -51,7 +51,6 @@ abstract: Recent efforts in the area of joint object matching approach the probl
   optimization procedure which assures accurate and provably consistent solutions
   in a matter of minutes in collections with hundreds of shapes.
 publication: '*Computer Graphics Forum*'
-doi: 10.1111/cgf.12796
 links:
 - name: PDF
   url: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cgf.12796

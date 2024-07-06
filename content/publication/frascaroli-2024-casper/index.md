@@ -42,7 +42,9 @@ publication_types:
 abstract: "While biological intelligence grows organically as new knowledge is gathered throughout life, Artificial Neural Networks forget catastrophically whenever they face a changing training data distribution. Rehearsal-based Continual Learning (CL) approaches have been established as a versatile and reliable solution to overcome this limitation; however, sudden input disruptions and memory constraints are known to alter the consistency of their predictions. We study this phenomenon by investigating the geometric characteristics of the learner’s latent space and find that replayed data points of different classes increasingly mix up, interfering with classification. Hence, we propose a geometric regularizer that enforces weak requirements on the Laplacian spectrum of the latent space, promoting a partitioning behavior. Our proposal, called Continual Spectral Regularizer for Incremental Learning (CaSpeR-IL), can be easily combined with any rehearsal-based CL approach and improves the performance of SOTA methods on standard benchmarks."
 publication: '*Pattern Recognition Letters*'
 links:
-- name: URL
+- icon: link
+  icon_pack: fas
+  name: 'URL'
   url: https://www.sciencedirect.com/science/article/pii/S0167865524001909
 - name: arXiv
   url: https://arxiv.org/abs/2301.03345

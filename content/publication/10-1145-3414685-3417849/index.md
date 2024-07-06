@@ -49,8 +49,9 @@ abstract: 'We introduce a novel computational framework for digital geometry pro
   our method through multiple applications in graphics, ranging from surface and signal
   denoising to enhancement, detail transfer, and cubic stylization.'
 publication: '*ACM Trans. Graph.*'
-doi: 10.1145/3414685.3417849
 links:
-- name: URL
+- icon: link
+  icon_pack: fas
+  name: 'URL'
   url: https://doi.org/10.1145/3414685.3417849
 ---

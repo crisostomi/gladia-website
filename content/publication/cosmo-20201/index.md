@@ -50,10 +50,11 @@ abstract: We introduce the Average Mixing Kernel Signature (AMKS), a novel signa
   Kernel Signature (WKS).
 publication: '*Lecture Notes in Computer Science (including subseries Lecture Notes
   in Artificial Intelligence and Lecture Notes in Bioinformatics)*'
-doi: 10.1007/978-3-030-58565-5_1
 links:
 - name: 'PDF'
   url: https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650001.pdf
-- name: GitHub
+- icon: github
+  icon_pack: fab
+  name: 'GitHub'
   url: https://github.com/lcosmo/amks-descriptor
 ---

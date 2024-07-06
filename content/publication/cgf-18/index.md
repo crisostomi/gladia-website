@@ -28,10 +28,14 @@ image:
   preview_only: false
 
 links:
-  - name: URL
-    url: http://www.lix.polytechnique.fr/~maks/papers/product_transfer.pdf
-  - name: GitHub
-    url: https://drive.google.com/file/d/1QSHeZYJC58blbgV9mj0SSlZMDRiGIlKU/view
+- icon: link
+  icon_pack: fas
+  name: 'URL'
+  url: http://www.lix.polytechnique.fr/~maks/papers/product_transfer.pdf
+- icon: github
+  icon_pack: fab
+  name: 'GitHub'
+  url: https://drive.google.com/file/d/1QSHeZYJC58blbgV9mj0SSlZMDRiGIlKU/view
     
 # Projects (optional).
 #   Associate this post with one or more of your projects.

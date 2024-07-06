@@ -40,7 +40,9 @@ abstract: 'Federated Learning (FL) deals with learning a central model (i.e. the
 publication: "*Proc. Int'l Conference on Computer Vision and Pattern Recognition (CVPR)\
   \ - Workshop on Learning from Limited or Imperfect Data (L2ID)*"
 links:
-- name: URL
+- icon: link
+  icon_pack: fas
+  name: 'URL'
   url: https://www.computer.org/csdl/proceedings-article/cvprw/2021/489900c743/1yVzUPAEtyM
 - name: PDF
   url: https://openaccess.thecvf.com/content/CVPR2021W/LLID/papers/Caldarola_Cluster-Driven_Graph_Federated_Learning_Over_Multiple_Domains_CVPRW_2021_paper.pdf

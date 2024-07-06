@@ -29,7 +29,9 @@ image:
 links:
 - name: PDF
   url: https://arxiv.org/pdf/2110.13042.pdf
-- name: GitHub
+- icon: github
+  icon_pack: fab
+  name: 'GitHub'
   url: https://github.com/filthynobleman/AtA
 
 # Projects (optional).

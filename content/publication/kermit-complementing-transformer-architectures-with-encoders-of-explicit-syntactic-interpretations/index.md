@@ -10,7 +10,6 @@ authors:
   - Dario Onorati
   - Pierfrancesco Tommasino
   - Francesca Fallucchi
-doi: http://dx.doi.org/10.18653/v1/2020.emnlp-main.18
 publication: Proceedings of the 2020 Conference on Empirical Methods in Natural
   Language Processing (EMNLP)
 publication_short: "EMNLP2020"

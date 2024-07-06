@@ -6,7 +6,6 @@ publication_types:
 authors:
   - santilli
   - Fabio Massimo Zanzotto
-doi: http://dx.doi.org/10.18653/v1/S18-1076
 publication: Proceedings of The 12th International Workshop on Semantic Evaluation
 publication_short: SemEval2018
 abstract: In this paper, we present SyntNN as a way to include traditional

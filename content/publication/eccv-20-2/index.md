@@ -40,7 +40,9 @@ publication_types:
 abstract: 'According to Aristotle, the whole is greater than the sum of its parts. This statement was adopted to explain human perception by the Gestalt psychology school of thought in the twentieth century. Here, we claim that when observing a part of an object which was previously acquired as a whole, one could deal with both partial correspondence and shape completion in a holistic manner. More specifically, given the geometry of a full, articulated object in a given pose, as well as a partial scan of the same object in a different pose, we address the new problem of matching the part to the whole while simultaneously reconstructing the new pose from its partial observation. Our approach is data-driven and takes the form of a Siamese autoencoder without the requirement of a consistent vertex labeling at inference time; as such, it can be used on unorganized point clouds as well as on triangle meshes. We demonstrate the practical effectiveness of our model in the applications of single-view deformable shape completion and dense shape correspondence, both on synthetic and real-world geometric data, where we outperform prior work by a large margin.'
 publication: '*Proc. European Conference on Computer Vision (ECCV)*'
 links:
-- name: URL
+- icon: link
+  icon_pack: fas
+  name: 'URL'
   url: https://link.springer.com/chapter/10.1007/978-3-030-58586-0_22
 - name: PDF
   url: https://iris.uniroma1.it/bitstream/11573/1485482/3/Halimi_post-print_Towards_2020.pdf

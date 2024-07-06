@@ -41,7 +41,6 @@ publication_types:
 - '2'
 abstract: "We present a simple and efficient method for refining maps or correspondences by iterative upsampling in the spectral domain that can be implemented in a few lines of code. Our main observation is that high quality maps can be obtained even if the input correspondences are noisy or are encoded by a small number of coefficients in a spectral basis. We show how this approach can be used in conjunction with existing initialization techniques across a range of application scenarios, including symmetry detection, map refinement across complete shapes, non-rigid partial shape matching and function transfer. In each application we demonstrate an improvement with respect to both the quality of the results and the computational speed compared to the best competing methods, with up to two orders of magnitude speed-up in some applications. We also demonstrate that our method is both robust to noisy input and is scalable with respect to shape complexity. Finally, we present a theoretical justification for our approach, shedding light on structural properties of functional maps."
 publication: '*ACM Trans. Graph.*'
-doi: 10.1145/3355089.3356524
 links:
 - icon: link
   icon_pack: fas

@@ -53,11 +53,12 @@ abstract: The Average Mixing Kernel Signature is a novel spectral signature for 
   suggest that the AMKS should be the signature of choice for various compute vision
   problems, including as input of deep convolutional architectures for shape analysis.
 publication: '*International Journal of Computer Vision*'
-doi: 10.1007/s11263-022-01610-y
 links:
 - name: PDF
   url: https://link.springer.com/article/10.1007/s11263-022-01610-y
-- name: GitHub
+- icon: github
+  icon_pack: fab
+  name: 'GitHub'
   url: https://github.com/lcosmo/amks-descriptor
 #- name: 'arXiv'
 #  url: https://arxiv.org/abs/2301.08562

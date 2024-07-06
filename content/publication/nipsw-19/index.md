@@ -40,7 +40,9 @@ abstract: 'Predicting interactions between proteins and other biomolecules purel
 publication: '*Conference on Neural Information Processing Systems (NeurIPS) - Workshop
   on Graph Representation Learning*'
 links:
-- name: URL
+- icon: link
+  icon_pack: fas
+  name: 'URL'
   url: https://grlearning.github.io/papers/
 - name: PDF
   url: https://grlearning.github.io/papers/115.pdf

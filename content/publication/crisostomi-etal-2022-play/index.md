@@ -59,6 +59,8 @@ abstract: Cross-lingual phenomena are quite common in informal contexts like soc
 publication: '*Proceedings of the Massively Multilingual Natural Language Understanding
   Workshop (MMNLU-22)*'
 links:
-- name: URL
+- icon: link
+  icon_pack: fas
+  name: 'URL'
   url: https://aclanthology.org/2022.mmnlu-1.5
 ---

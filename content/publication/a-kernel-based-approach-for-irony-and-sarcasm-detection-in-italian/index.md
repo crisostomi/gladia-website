@@ -8,7 +8,6 @@ authors:
   - Roberto Basili
 author_notes:
   - (Oral Presentation + Best System Award Nomination)
-doi: https://doi.org/10.4000/books.aaccademia.4613
 publication: Proceedings of the 6th evaluation campaign of Natural Language
   Processing and Speech tools for Italia
 publication_short: EVALITA2018

@@ -29,10 +29,14 @@ image:
   preview_only: false
 
 links:
-  - name: URL
-    url: https://arxiv.org/pdf/2112.09546.pdf
-  - name: GitHub
-    url: https://github.com/nicolasdonati/QMaps
+- icon: link
+  icon_pack: fas
+  name: 'URL'
+  url: https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14437
+- icon: github
+  icon_pack: fab
+  name: 'GitHub'
+  url: https://github.com/nicolasdonati/QMaps
     
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -58,8 +62,5 @@ abstract: Abstract In this paper, we introduce complex functional maps, which ex
   jointly to promote orientation preservation, regularizing pipelines that previously
   suffered from orientation-reversing symmetry errors.
 publication: '*Computer Graphics Forum*'
-doi: https://doi.org/10.1111/cgf.14437
-links:
-- name: URL
-  url: https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14437
+
 ---

@@ -45,7 +45,6 @@ abstract: 'We consider the problem of deformable object detection and dense corr
   accurate results in challenging settings that were previously left unexplored in
   the literature.'
 publication: '*Proceedings - 2016 4th International Conference on 3D Vision, 3DV 2016*'
-doi: 10.1109/3DV.2016.10
 links:
 - name: PDF
   url: https://www.dais.unive.it/~cosmo/content/SCOPUS_ID:85011309727.pdf

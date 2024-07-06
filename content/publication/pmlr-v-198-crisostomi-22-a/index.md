@@ -37,10 +37,14 @@ publication: 'Proceedings of the First Learning on Graphs Conference'
 publication_short: "LoG 2022"
 
 links:
-- name: URL
+- icon: link
+  icon_pack: fas
+  name: 'URL'
   url: https://proceedings.mlr.press/v198/crisostomi22a.html
 - name: PDF
   url: https://proceedings.mlr.press/v198/crisostomi22a/crisostomi22a.pdf
-- name: GitHub
+- icon: github
+  icon_pack: fab
+  name: 'GitHub'
   url: https://github.com/crisostomi/metric-few-shot-graph
 ---

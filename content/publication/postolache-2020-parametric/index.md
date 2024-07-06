@@ -52,8 +52,9 @@ abstract: Abstract In this paper we develop an in-depth theoretical investigatio
   obtaining state of the art results, and provide directions where our theoretical
   findings could be applied in future research.
 publication: '*Computer Graphics Forum*'
-doi: https://doi.org/10.1111/cgf.14072
 links:
-- name: URL
+- icon: link
+  icon_pack: fas
+  name: 'URL'
   url: https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14072
 ---

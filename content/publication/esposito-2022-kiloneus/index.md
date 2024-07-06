@@ -33,8 +33,10 @@ image:
   preview_only: false
 
 links:
-  - name: URL
-    url: https://arxiv.org/pdf/2206.10885.pdf
+- icon: link
+  icon_pack: fas
+  name: 'URL'
+  url: https://arxiv.org/pdf/2206.10885.pdf
   
 
 

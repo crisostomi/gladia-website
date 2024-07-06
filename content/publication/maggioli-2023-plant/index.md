@@ -41,7 +41,6 @@ publication_types:
 - '2'
 abstract: "Plants are among the most complex objects to be modeled in computer graphics. While a large body of work is concerned with structural modeling and the dynamic reaction to external forces, our work focuses on the dynamic deformation caused by plant internal wilting processes. To this end, we motivate the simulation of water transport inside the plant which is a key driver of the wilting process. We then map the change of water content in individual plant parts to branch stiffness values and obtain the wilted plant shape through a position based dynamics simulation. We show, that our approach can recreate measured wilting processes and does so with a higher fidelity than approaches ignoring the internal water flow. Realistic plant wilting is not only important in a computer graphics context but can also aid the development of machine learning algorithms in agricultural applications through the generation of synthetic training data."
 publication: '*ACM Trans. Graph.*'
-doi: 10.1145/3610548.3618218
 links:
 - icon: link
   icon_pack: fas

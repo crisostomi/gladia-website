@@ -57,6 +57,8 @@ publication: '*arXiv preprint arXiv:2110.05313*'
 links:
 - name: 'arXiv'
   url: https://arxiv.org/abs/2110.05313
-- name: GitHub
+- icon: github
+  icon_pack: fab
+  name: 'GitHub'
   url: https://github.com/michelemancusi/LQVAE-separation
 ---

@@ -9,7 +9,6 @@ authors:
   - Stephen H. Bach
   - BIG-Science contributors including
   - santilli
-doi: 
 publication: International Conference on Learning Representations
 publication_short: "ICLR 2022"
 abstract: Large language models have recently been shown to attain reasonable

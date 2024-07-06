@@ -20,7 +20,9 @@ publication_short: "SIGGRAPH 2022"
 links:
 - name: PDF
   url: https://boa.unimib.it/retrieve/e33ba34f-cb44-4685-a5ca-97ecf89917fa/Maggioli-2022-SIGGA-VoR.pdf
-- name: GitHub
+- icon: github
+  icon_pack: fab
+  name: 'GitHub'
   url: https://github.com/filthynobleman/newton-fractals
 
 # Featured image

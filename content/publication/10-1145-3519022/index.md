@@ -60,8 +60,9 @@ abstract: Deep learning approaches have recently raised the bar in many fields, 
   in the current literature, discussing their pros and cons, and classifying them
   according to a rigorous taxonomy.
 publication: '*ACM Comput. Surv.*'
-doi: 10.1145/3519022
 links:
-- name: URL
+- icon: link
+  icon_pack: fas
+  name: 'URL'
   url: https://doi.org/10.1145/3519022
 ---

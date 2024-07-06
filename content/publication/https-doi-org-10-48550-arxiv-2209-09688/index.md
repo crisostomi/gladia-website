@@ -60,8 +60,9 @@ abstract: Graph Neural Networks (GNNs) have proven to be successful in several p
   Finally, despite those attacks require full knowledge of the target model, we show
   that they are successfully transferable to other black-box methods for link prediction.
 publication: '*arXiv*'
-doi: 10.48550/ARXIV.2209.09688
 links:
-- name: URL
+- icon: link
+  icon_pack: fas
+  name: 'URL'
   url: https://arxiv.org/abs/2209.09688
 ---
