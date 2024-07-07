@@ -15,7 +15,7 @@ date: '2014-12-01'
 lastmod: 2023-02-02T06:55:24+01:00
 featured: false
 draft: false
-publication_short: ""
+publication_short: "3DV 2014"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -34,6 +34,6 @@ projects: []
 publishDate: '2023-02-02T05:55:24.148629Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: "In this paper, we propose an optimization method for estimating the parameters that typically appear in graph-theoretical formulations of the matching problem for object detection. Although several methods have been proposed to optimize parameters for graph matching in a way to promote correct correspondences and to restrict wrong ones, our approach is novel in the sense that it aims at improving performance in the more general task of object detection. In our formulation, similarity functions are adjusted so as to increase the overall similarity among a reference model and the observed target, and at the same time reduce the similarity among reference and 'non-target' objects. We evaluate the proposed method in two challenging scenarios, namely object detection using data captured with a Kinect sensor in a real environment, and intrinsic metric learning for deformable shapes, demonstrating substantial improvements in both settings."
 publication: "*Proc. Int'l Conference on 3D Vision (3DV)*"
 ---

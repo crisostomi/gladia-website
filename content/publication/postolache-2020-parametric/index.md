@@ -53,6 +53,8 @@ abstract: Abstract In this paper we develop an in-depth theoretical investigatio
   findings could be applied in future research.
 publication: '*Computer Graphics Forum*'
 links:
+- name: 'PDF'
+  url: https://diglib.eg.org/bitstream/handle/10.1111/cgf14072/v39i5pp103-118.pdf
 - icon: link
   icon_pack: fas
   name: 'URL'

@@ -20,7 +20,7 @@ date: '2023-12-01'
 lastmod: 2023-02-08T15:02:32+01:00
 featured: false
 draft: false
-publication_short: "TOG"
+publication_short: "TOG (Proc. SIGGRAPH Asia 2023)"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

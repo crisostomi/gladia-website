@@ -9,7 +9,7 @@ authors:
 - marin
 - melzi
 - rodola
-- U. Castellani
+- Umberto Castellani
 tags: []
 categories: []
 date: '2019-09-01'
@@ -35,6 +35,18 @@ projects: []
 publishDate: '2023-02-02T05:54:42.520570Z'
 publication_types:
 - '1'
-abstract: 'We propose a new approach for 3D shape matching of deformable human shapes. Our approach is based on the joint adoption of three different tools: an intrinsic spectral matching pipeline, a morphable model, and an extrinsic details refinement. By operating in conjunction, these tools allow us to greatly improve the quality of the matching while at the same time resolving the key issues exhibited by each tool individually. In this paper we present an innovative High-Resolution Augmentation (HRA) strategy that enables highly accurate correspondence even in the presence of significant mesh resolution mismatch between the input shapes. This augmentation provides an effective workaround for the resolution limitations imposed by the adopted morphable model. The HRA in its global and localized versions represents a novel refinement strategy for surface subdivision methods. We demonstrate the accuracy of the proposed pipeline on multiple challenging benchmarks, and showcase its effectiveness in surface registration and texture transfer.'
+abstract: "We propose a new approach for 3D shape matching of deformable human shapes. Our approach is based on the joint adoption of three different tools: an intrinsic spectral matching pipeline, a morphable model, and an extrinsic details refinement. By operating in conjunction, these tools allow us to greatly improve the quality of the matching while at the same time resolving the key issues exhibited by each tool individually. In this paper we present an innovative High-Resolution Augmentation (HRA) strategy that enables highly accurate correspondence even in the presence of significant mesh resolution mismatch between the input shapes. This augmentation provides an effective workaround for the resolution limitations imposed by the adopted morphable model. The HRA in its global and localized versions represents a novel refinement strategy for surface subdivision methods. We demonstrate the accuracy of the proposed pipeline on multiple challenging benchmarks, and showcase its effectiveness in surface registration and texture transfer."
 publication: "*Proc. Int'l Conference on 3D Vision (3DV)*"
+
+links:
+- name: 'arXiv'
+  url: https://arxiv.org/abs/2009.09312
+- icon: link
+  icon_pack: fas
+  name: 'URL'
+  url: https://ieeexplore.ieee.org/document/8885432
+- icon: github
+  icon_pack: fab
+  name: 'GitHub'
+  url: https://github.com/riccardomarin/FARM-ZOSR
 ---

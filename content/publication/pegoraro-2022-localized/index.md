@@ -19,7 +19,7 @@ date: '2022-01-01'
 lastmod: 2023-02-05T10:57:53+01:00
 featured: false
 draft: false
-publication_short: "CGF"
+publication_short: "CGF (Proc. SGP 2022)"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -62,4 +62,8 @@ links:
   icon_pack: fas
   name: 'URL'
   url: https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14599
+- icon: github
+  icon_pack: fab
+  name: 'GitHub'
+  url: https://github.com/Marco-Peg/Localized-Shape-Modelling-with-Global-Coherence
 ---
