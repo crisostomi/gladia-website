@@ -7,7 +7,7 @@ summary: ''
 authors:
 - rodola
 - cosmo
-- M. M. Bronstein
+- Michael M. Bronstein
 - Andrea Torsello
 - Daniel Cremers
 tags: []
@@ -16,7 +16,7 @@ date: '2017-01-01'
 lastmod: 2023-02-02T06:54:55+01:00
 featured: false
 draft: false
-publication_short: ""
+publication_short: "CGF"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -35,6 +35,14 @@ projects: []
 publishDate: '2023-02-02T05:54:54.883490Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: "In this paper, we propose a method for computing partial functional correspondence between non-rigid shapes. We use perturbation analysis to show how removal of shape parts changes the Laplace–Beltrami eigenfunctions, and exploit it as a prior on the spectral representation of the correspondence. Corresponding parts are optimization variables in our problem and are used to weight the functional correspondence; we are looking for the largest and most regular (in the Mumford–Shah sense) parts that minimize correspondence distortion. We show that our approach can cope with very challenging correspondence settings."
 publication: '*Computer Graphics Forum (CGF)*'
+
+links:
+- icon: link
+  icon_pack: fas
+  name: 'URL'
+  url: https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.12797
+- name: 'PDF'
+  url: https://cvg.cit.tum.de/_media/spezial/bib/rodola-partial.pdf
 ---

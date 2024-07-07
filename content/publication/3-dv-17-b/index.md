@@ -5,16 +5,16 @@ title: Efficient deformable shape correspondence via kernel matching
 subtitle: ''
 summary: ''
 authors:
-- M. Vestner
-- Z. Lähner
-- A. Boyarski
-- O. Litany
-- R. Slossberg
-- T. Remez
+- Matthias Vestner
+- Zorah Lähner
+- Amit Boyarski
+- Or Litany
+- Ron Slossberg
+- Tal Remez
 - rodola
-- A. M. Bronstein
-- M. M. Bronstein
-- R. Kimmel
+- Alex M. Bronstein
+- Michael M. Bronstein
+- Ron Kimmel
 - Daniel Cremers
 tags: []
 categories: []
@@ -22,7 +22,7 @@ date: '2017-10-01'
 lastmod: 2023-02-02T06:55:03+01:00
 featured: false
 draft: false
-publication_short: ""
+publication_short: "3DV 2017"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -41,6 +41,14 @@ projects: []
 publishDate: '2023-02-02T05:55:02.775605Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: 'We present a method to match three dimensional shapes under non-isometric deformations, topology changes and partiality. We formulate the problem as matching between a set of pair-wise and point-wise descriptors, imposing a continuity prior on the mapping, and propose a projected descent optimization procedure inspired by difference of convex functions (DC) programming.'
 publication: "*Proc. Int'l Conference on 3D Vision (3DV)*"
+
+links:
+- icon: link
+  icon_pack: fas
+  name: 'URL'
+  url: https://ieeexplore.ieee.org/document/8374606
+- name: 'PDF'
+  url: https://zorah.github.io/files/pdfs/vestner2017kernel.pdf
 ---
