@@ -5,10 +5,10 @@ title: Non-rigid puzzles
 subtitle: ''
 summary: ''
 authors:
-- O. Litany
+- Or Litany
 - rodola
-- A. M. Bronstein
-- M. M. Bronstein
+- Alex M. Bronstein
+- Michael M. Bronstein
 - Daniel Cremers
 tags: []
 categories: []
@@ -16,7 +16,7 @@ date: '2016-08-01'
 lastmod: 2023-02-02T06:54:53+01:00
 featured: false
 draft: false
-publication_short: ""
+publication_short: "CGF (Proc. SGP 2016)"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -35,6 +35,22 @@ projects: []
 publishDate: '2023-02-02T05:54:53.089735Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: "Shape correspondence is a fundamental problem in computer graphics and vision, with applications in various problems including animation, texture mapping, robotic vision, medical imaging, archaeology and many more. In settings where the shapes are allowed to undergo non-rigid deformations and only partial views are available, the problem becomes very challenging. To this end, we present a non-rigid multi-part shape matching algorithm. We assume to be given a reference shape and its multiple parts undergoing a non-rigid deformation. Each of these query parts can be additionally contaminated by clutter, may overlap with other parts, and there might be missing parts or redundant ones. Our method simultaneously solves for the segmentation of the reference model, and for a dense correspondence to (subsets of) the parts. Experimental results on synthetic as well as real scans demonstrate the effectiveness of our method in dealing with this challenging matching scenario."
 publication: '*Computer Graphics Forum (CGF)*'
+
+links:
+- name: 'PDF'
+  url: https://cvg.cit.tum.de/_media/spezial/bib/litany16.pdf
+- icon: link
+  icon_pack: fas
+  name: 'URL'
+  url: https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.12970
+- icon: github
+  icon_pack: fab
+  name: 'GitHub'
+  url: https://github.com/orlitany/NonRigidPuzzles
+- icon: award
+  icon_pack: fas
+  name: 'Best Paper Award'
+  url: https://awards.geometryprocessing.org/
 ---

@@ -17,7 +17,7 @@ date: '2016-01-01'
 lastmod: 2023-02-08T19:53:28+01:00
 featured: false
 draft: false
-publication_short: ""
+publication_short: "3DOR 2016"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
