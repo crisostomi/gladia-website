@@ -5,14 +5,14 @@ title: Computing and Processing Correspondences with Functional Maps
 subtitle: ''
 summary: ''
 authors:
-- M. Ovsjanikov
-- E. Corman
-- M. M. Bronstein
+- Maks Ovsjanikov
+- Etienne Corman
+- Michael M. Bronstein
 - rodola
-- M. Ben-Chen
-- L. Guibas
-- F. Chazal
-- A. M. Bronstein
+- Mirela Ben-Chen
+- Leo Guibas
+- Frederic Chazal
+- Alex M. Bronstein
 tags: []
 categories: []
 date: '2016-01-01'

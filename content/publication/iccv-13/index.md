@@ -7,8 +7,8 @@ summary: ''
 authors:
 - rodola
 - Andrea Torsello
-- T. Harada
-- Y. Kuniyoshi
+- Tatsuya Harada
+- Yasuo Kuniyoshi
 - Daniel Cremers
 tags: []
 categories: []

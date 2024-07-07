@@ -49,6 +49,8 @@ abstract: We propose a novel approach to disentangle the generative factors of v
   applications, where we compare favorably with the state of the art.
 publication: '*Proceedings of the 38th International Conference on Machine Learning*'
 links:
+- name: 'PDF'
+  url: http://proceedings.mlr.press/v139/fumero21a/fumero21a.pdf
 - icon: link
   icon_pack: fas
   name: 'URL'

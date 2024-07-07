@@ -7,8 +7,8 @@ summary: 'The usual Laplacian eigenbasis is extended to consider also polynomial
 authors:
 - maggioli
 - melzi
-- Maksim Ovsjanikov
-- Michael M Bronstein
+- Maks Ovsjanikov
+- Michael M. Bronstein
 - rodola
 tags: ["Spectral Geometry", "Shape Matching", "Signal Transfer"]
 categories: []

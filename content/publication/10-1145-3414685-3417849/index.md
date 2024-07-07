@@ -54,4 +54,6 @@ links:
   icon_pack: fas
   name: 'URL'
   url: https://doi.org/10.1145/3414685.3417849
+- name: 'arXiv'
+  url: https://arxiv.org/abs/2009.03044
 ---

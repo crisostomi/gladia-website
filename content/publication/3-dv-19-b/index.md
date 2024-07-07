@@ -50,4 +50,8 @@ links:
   icon_pack: fab
   name: 'GitHub'
   url: https://github.com/AriannaRampini/HamiltonianSpectrumAlignment
+- icon: award
+  icon_pack: fas
+  name: 'Best Paper Award'
+  url: 
 ---

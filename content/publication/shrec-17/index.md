@@ -43,4 +43,12 @@ publication_types:
 - '1'
 abstract: "Partial similarity problems arise in numerous applications that involve real data acquisition by 3D sensors, inevitably leading to missing parts due to occlusions and partial views. In this setting, the shapes to be retrieved may undergo a variety of transformations simultaneously, such as non-rigid deformations (changes in pose), topological noise, and missing parts – a combination of nuisance factors that renders the retrieval process extremely challenging. With this benchmark, we aim to evaluate the state of the art in deformable shape retrieval under such kind of transformations. The benchmark is organized in two sub-challenges exemplifying different data modalities (3D vs. 2.5D). A total of 15 retrieval algorithms were evaluated in the contest; this paper presents the details of the dataset, and shows thorough comparisons among all competing methods."
 publication: '*Proc. EUROGRAPHICS Workshop on 3D Object Retrieval (3DOR)*'
+
+links:
+- name: 'PDF'
+  url: https://diglib.eg.org/bitstreams/3a342030-8c28-46bd-ab29-f127716d3caf/download
+- icon: link
+  icon_pack: fas
+  name: 'URL'
+  url: https://sites.google.com/view/shrec17/
 ---

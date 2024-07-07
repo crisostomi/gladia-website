@@ -5,10 +5,10 @@ title: Learning similarities for rigid and non-rigid object detection
 subtitle: ''
 summary: ''
 authors:
-- A. Kanezaki
+- Asako Kanezaki
 - rodola
 - Daniel Cremers
-- T. Harada
+- Tatsuya Harada
 tags: []
 categories: []
 date: '2014-12-01'
