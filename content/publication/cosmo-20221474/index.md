@@ -54,7 +54,9 @@ abstract: The Average Mixing Kernel Signature is a novel spectral signature for 
   problems, including as input of deep convolutional architectures for shape analysis.
 publication: '*International Journal of Computer Vision*'
 links:
-- name: PDF
+- icon: link
+  icon_pack: fas
+  name: 'URL'
   url: https://link.springer.com/article/10.1007/s11263-022-01610-y
 - icon: github
   icon_pack: fab

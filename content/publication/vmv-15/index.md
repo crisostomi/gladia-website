@@ -37,8 +37,12 @@ abstract: "Since their introduction in the shape analysis community, functional 
 publication: "*Int'l Symposium on Vision, Modeling and Visualization (VMV)*"
 
 links:
+- name: 'PDF'
+  url: https://cvg.cit.tum.de/_media/spezial/bib/rodola-vmv15.pdf
 - icon: award
   icon_pack: fas
   name: 'Best Paper Award'
   url: 
+- name: 'arXiv'
+  url: https://arxiv.org/abs/1506.05603
 ---

@@ -5,11 +5,11 @@ title: 'Deep Functional Maps: Structured Prediction for Dense Shape Corresponden
 subtitle: ''
 summary: ''
 authors:
-- O. Litany
-- T. Remez
+- Or Litany
+- Tal Remez
 - rodola
-- A. M. Bronstein
-- M. M. Bronstein
+- Alex M. Bronstein
+- Michael M. Bronstein
 tags: ["featured"]
 categories: []
 date: '2017-10-01'

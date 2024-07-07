@@ -6,8 +6,6 @@ authors:
   - santilli
   - Danilo Croce
   - Roberto Basili
-author_notes:
-  - (Oral Presentation + Best System Award Nomination)
 publication: Proceedings of the 6th evaluation campaign of Natural Language
   Processing and Speech tools for Italia
 publication_short: 'EVALITA 2018'
@@ -27,8 +25,16 @@ image:
   preview_only: false
 date: 2018-10-10
 links:
-- icon:
+- icon: link
   icon_pack: fas
-  name: 'EVALITA 2018'
+  name: 'URL'
   url: https://doi.org/10.4000/books.aaccademia.4613
+- icon: github
+  icon_pack: fab
+  name: 'GitHub'
+  url: https://github.com/teelinsan/ironySarcasmDetection
+- icon: award
+  icon_pack: fas
+  name: 'Best System Award Nomination'
+  url: 
 ---

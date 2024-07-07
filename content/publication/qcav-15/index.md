@@ -5,7 +5,7 @@ title: Analysis of surface parametrizations for modern photometric stereo modeli
 subtitle: ''
 summary: ''
 authors:
-- R. Mecca
+- Roberto Mecca
 - rodola
 - Daniel Cremers
 tags: []
@@ -36,4 +36,12 @@ publication_types:
 abstract: "Tridimensional shape recovery based on Photometric Stereo (PS) recently received a strong improvement due to new mathematical models based on partial differential irradiance equation ratios.1 This modern approach to PS faces more realistic physical effects among which light attenuation and radial light propagation from a point light source. Since the approximation of the surface is performed with single step method, accurate reconstruction is prevented by sensitiveness to noise. In this paper we analyse a well-known parametrization2 of the tridimensional surface extending it on any auxiliary convex projection functions. Experiments on synthetic data show preliminary results where more accurate reconstruction can be achieved using more suitable parametrization specially in case of noisy input images."
 publication: "*Proc. Int'l Conference on Quality Control by Artificial Vision Workshops\
   \ (QCAV - Photometric Stereo: from Theory to Industral Applications)*"
+  
+links:
+- name: 'PDF'
+  url: https://cvai.cit.tum.de/_media/spezial/bib/mecca-cag15.pdf
+- icon: link
+  icon_pack: fas
+  name: 'URL'
+  url: https://www.sciencedirect.com/science/article/pii/S0097849315000679
 ---

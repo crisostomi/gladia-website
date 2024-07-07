@@ -36,4 +36,8 @@ publication_types:
 - '1'
 abstract: "This paper introduces an anisotropic Laplace-Beltrami operator for shape analysis. While keeping useful properties of the standard Laplace-Beltrami operator, it introduces variability in the directions of principal curvature, giving rise to a more intuitive and semantically meaningful diffusion process. Although the benefits of anisotropic diffusion have already been noted in the area of mesh processing (e.g. surface regularization), focusing on the Laplacian itself, rather than on the diffusion process it induces, opens the possibility to effectively replace the omnipresent Laplace-Beltrami operator in many shape analysis methods. After providing a mathematical formulation and analysis of this new operator, we derive a practical implementation on discrete meshes. Further, we demonstrate the effectiveness of our new operator when employed in conjunction with different methods for shape segmentation and matching."
 publication: '*Proc. European Conference on Computer Vision Workshops (ECCV - NORDIA)*'
+
+links:
+- name: 'PDF'
+  url: https://www.di.ens.fr/~andreux/publications/andreux-nordia14.pdf
 ---

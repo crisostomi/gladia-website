@@ -53,5 +53,9 @@ abstract: Recent efforts in the area of joint object matching approach the probl
 publication: '*Computer Graphics Forum*'
 links:
 - name: PDF
-  url: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cgf.12796
+  url: https://www.dsi.unive.it/~cosmo/content/SCOPUS_ID:84957991700.pdf
+- icon: link
+  icon_pack: fas
+  name: 'URL'
+  url: https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.12796
 ---

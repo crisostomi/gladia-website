@@ -46,4 +46,8 @@ links:
   icon_pack: fab
   name: 'GitHub'
   url: https://github.com/riccardomarin/InstantRecoveryFromSpectrum
+- icon: award
+  icon_pack: fas
+  name: 'Best Student Paper Award'
+  url: http://3dv2020.dgcv.nii.ac.jp/awards.html
 ---

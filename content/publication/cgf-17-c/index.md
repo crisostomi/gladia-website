@@ -7,8 +7,8 @@ summary: ''
 authors:
 - melzi
 - rodola
-- U. Castellani
-- M. M. Bronstein
+- Umberto Castellani
+- Michael M. Bronstein
 tags: []
 categories: []
 date: '2018-09-01'
