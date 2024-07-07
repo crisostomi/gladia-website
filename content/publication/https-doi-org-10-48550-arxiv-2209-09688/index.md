@@ -21,7 +21,7 @@ date: '2023-09-26'
 lastmod: 2023-02-08T16:41:35+01:00
 featured: false
 draft: false
-publication_short: "TAI"
+publication_short: "IEEE TAI"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

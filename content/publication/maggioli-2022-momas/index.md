@@ -15,7 +15,7 @@ date: '2022-01-01'
 lastmod: 2023-02-08T16:41:56+01:00
 featured: false
 draft: false
-publication_short: "PG 2022"
+publication_short: "CGF (Proc. PG 2022)"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

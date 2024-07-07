@@ -8,15 +8,15 @@ authors:
 - Jonathan Masci
 - rodola
 - Davide Boscaini
-- M. M. Bronstein
-- H. Li
+- Michael M. Bronstein
+- Hao Li
 tags: []
 categories: []
 date: '2016-01-01'
 lastmod: 2023-02-02T06:55:12+01:00
 featured: false
 draft: false
-publication_short: ""
+publication_short: "SIGGA 2016 Courses"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -35,6 +35,12 @@ projects: []
 publishDate: '2023-02-02T05:55:11.646961Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: "The goal of these course notes is to describe the main mathematical ideas behind geometric deep learning and to provide implementation details for several applications in shape analysis and synthesis, computer vision and computer graphics. The text in the course materials is primarily based on previously published work. With these notes we gather and provide a clear picture of the key concepts and techniques that fall under the umbrella of geometric deep learning, and illustrate the applications they enable. We also aim to provide practical implementation details for the methods presented in these works, as well as suggest further readings and extensions of these ideas."
 publication: '*ACM SIGGRAPH Asia 2016 Courses*'
+
+links:
+- icon: link
+  icon_pack: fas
+  name: 'URL'
+  url: https://www.lix.polytechnique.fr/~maks/fmaps_course/index.html
 ---
