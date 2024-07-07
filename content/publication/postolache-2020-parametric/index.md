@@ -18,7 +18,7 @@ date: '2020-01-01'
 lastmod: 2023-02-06T11:38:42+01:00
 featured: false
 draft: false
-publication_short: ""
+publication_short: "CGF (Proc. SGP 2020)"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

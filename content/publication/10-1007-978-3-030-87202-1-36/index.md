@@ -21,7 +21,7 @@ date: '2021-01-01'
 lastmod: 2023-02-06T12:13:53+01:00
 featured: false
 draft: false
-publication_short: ""
+publication_short: "MICCAI 2021"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

@@ -14,7 +14,7 @@ date: '2022-01-01'
 lastmod: 2023-02-08T15:02:26+01:00
 featured: false
 draft: false
-publication_short: ""
+publication_short: "STAG 2022"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -25,9 +25,7 @@ image:
   preview_only: false
 
 links:
-- icon: link
-  icon_pack: fas
-  name: 'URL'
+- name: 'PDF'
   url: https://diglib.eg.org/bitstream/handle/10.2312/stag20221252/021-028.pdf
 - icon: github
   icon_pack: fab

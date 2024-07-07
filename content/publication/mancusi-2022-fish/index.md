@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Fish sounds: towards the evaluation of marine acoustic biodiversity through
-  data-driven audio source separation'
+title: 'Fish sounds: towards the evaluation of marine acoustic biodiversity through data-driven audio source separation'
 subtitle: ''
 summary: ''
 authors:
@@ -12,11 +11,11 @@ authors:
 - Silvia Zuffi
 tags: []
 categories: []
-date: '2022-01-01'
+date: '2023-09-05'
 lastmod: 2023-02-05T10:57:36+01:00
 featured: false
 draft: false
-publication_short: ""
+publication_short: "I3DA 2023"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -35,28 +34,13 @@ projects: []
 publishDate: '2023-02-05T09:57:35.321590Z'
 publication_types:
 - '2'
-abstract: The marine ecosystem is changing at an alarming rate, exhibiting biodiversity
-  loss and the migration of tropical species to temperate basins. Monitoring the underwater
-  environments and their inhabitants is of fundamental importance to understand the
-  evolution of these systems and implement safeguard policies. However, assessing
-  and tracking biodiversity is often a complex task, especially in large and uncontrolled
-  environments, such as the oceans. One of the most popular and effective methods
-  for monitoring marine biodiversity is passive acoustics monitoring (PAM), which
-  employs hydrophones to capture underwater sound. Many aquatic animals produce sounds
-  characteristic of their own species; these signals travel efficiently underwater
-  and can be detected even at great distances. Furthermore, modern technologies are
-  becoming more and more convenient and precise, allowing for very accurate and careful
-  data acquisition. To date, audio captured with PAM devices is frequently manually
-  processed by marine biologists and interpreted with traditional signal processing
-  techniques for the detection of animal vocalizations. This is a challenging task,
-  as PAM recordings are often over long periods of time. Moreover, one of the causes
-  of biodiversity loss is sound pollution; in data obtained from regions with loud
-  anthropic noise, it is hard to separate the artificial from the fish sound manually.
-  Nowadays, machine learning and, in particular, deep learning represents the state
-  of the art for processing audio signals. Specifically, sound separation networks
-  are able to identify and separate human voices and musical instruments. In this
-  work, we show that the same techniques can be successfully used to automatically
-  extract fish vocalizations in PAM recordings, opening up the possibility for biodiversity
-  monitoring at a large scale.
-publication: '*arXiv preprint arXiv:2201.05013*'
+abstract: "The marine ecosystem is changing at an alarming rate, exhibiting biodiversity loss and the migration of tropical species to temperate basins. Monitoring the underwater environments and their inhabitants is of fundamental importance to understand the evolution of these systems and implement safeguard policies. However, assessing and tracking biodiversity is often a complex task, especially in large and uncontrolled environments, such as the oceans. One of the most popular and effective methods for monitoring marine biodiversity is passive acoustics monitoring (PAM), which employs hydrophones to capture underwater sound. Many aquatic animals produce sounds characteristic of their own species; these signals travel efficiently underwater and can be detected even at great distances. Furthermore, modern technologies are becoming more and more convenient and precise, allowing for very accurate and careful data acquisition. To date, audio captured with PAM devices is frequently manually processed by marine biologists and interpreted with traditional signal processing techniques for the detection of animal vocalizations. This is a challenging task, as PAM recordings are often over long periods of time. Moreover, one of the causes of biodiversity loss is sound pollution; in data obtained from regions with loud anthropic noise, it is hard to separate the artificial from the fish sound manually. Nowadays, machine learning and, in particular, deep learning represents the state of the art for processing audio signals. Specifically, sound separation networks are able to identify and separate human voices and musical instruments. In this work, we show that the same techniques can be successfully used to automatically extract fish vocalizations in PAM recordings, opening up the possibility for biodiversity monitoring at a large scale."
+publication: '*Immersive and 3D Audio: from Architecture to Automotive*'
+links:
+- icon: link
+  icon_pack: fas
+  name: 'URL'
+  url: https://ieeexplore.ieee.org/document/10289193
+- name: 'PDF'
+  url: https://arxiv.org/pdf/2201.05013
 ---

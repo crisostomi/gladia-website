@@ -6,10 +6,10 @@ subtitle: ''
 summary: ''
 authors:
 - melzi
-- R. Spezialetti
-- F. Tombari
-- M. M. Bronstein
-- L. Di Stefano
+- Riccardo Spezialetti
+- Federico Tombari
+- Michael M. Bronstein
+- Luigi Di Stefano
 - rodola
 tags: []
 categories: []
@@ -48,6 +48,6 @@ projects: []
 publishDate: '2023-02-02T05:55:07.122370Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: "We introduce GFrames, a novel local reference frame (LRF) construction for 3D meshes and point clouds. GFrames are based on the computation of the intrinsic gradient of a scalar field defined on top of the input shape. The resulting tangent vector field defines a repeatable tangent direction of the local frame at each point; importantly, it directly inherits the properties and invariance classes of the underlying scalar function, making it remarkably robust under strong sampling artifacts, vertex noise, as well as non-rigid deformations. Existing local descriptors can directly benefit from our repeatable frames, as we showcase in a selection of 3D vision and shape analysis applications where we demonstrate state-of-the-art performance in a variety of challenging settings."
 publication: "*Proc. Int'l Conference on Computer Vision and Pattern Recognition (CVPR)*"
 ---

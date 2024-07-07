@@ -24,6 +24,8 @@ publication_short: "ICASSP 2024"
 links:
 - name: 'arXiv'
   url: https://arxiv.org/abs/2310.15247
+- name: 'PDF'
+  url: https://www.eecs.qmul.ac.uk/~josh/documents/2024/Syncfusion.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

@@ -10,7 +10,7 @@ author_notes:
   - (Oral Presentation + Best System Award Nomination)
 publication: Proceedings of the 6th evaluation campaign of Natural Language
   Processing and Speech tools for Italia
-publication_short: EVALITA2018
+publication_short: 'EVALITA 2018'
 abstract: "This paper describes the UNITOR system that participated to the Irony
   Detection in Italian Tweets task (IronITA) within the context of EvalIta 2018.
   The system corresponds to a cascade of Support Vector Machine classifiers.

@@ -16,7 +16,7 @@ date: '2020-01-01'
 lastmod: 2023-02-08T19:53:24+01:00
 featured: false
 draft: false
-publication_short: ""
+publication_short: "ECCV 2020"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -48,8 +48,7 @@ abstract: We introduce the Average Mixing Kernel Signature (AMKS), a novel signa
   level of noise, showing that the AMKS outperforms two state-of-the-art descriptors,
   namely the Heat Kernel Signature (HKS) and the similarly quantum-walk based Wave
   Kernel Signature (WKS).
-publication: '*Lecture Notes in Computer Science (including subseries Lecture Notes
-  in Artificial Intelligence and Lecture Notes in Bioinformatics)*'
+publication: '*European Conference on Computer Vision*'
 links:
 - name: 'PDF'
   url: https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650001.pdf

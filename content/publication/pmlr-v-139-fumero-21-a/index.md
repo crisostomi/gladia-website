@@ -15,7 +15,7 @@ date: '2021-07-01'
 lastmod: 2023-02-08T15:00:22+01:00
 featured: false
 draft: false
-publication_short: ""
+publication_short: "ICML 2021"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

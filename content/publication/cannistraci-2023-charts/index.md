@@ -15,11 +15,11 @@ authors:
 tags:
 - 'Model merging'
 categories: []
-date: '2023-11-29'
+date: '2023-09-29'
 lastmod: 2023-12-16T10:57:52+01:00
 featured: false
 draft: false
-publication_short: "NeuReps 2023"
+publication_short: "NeurReps 2023"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

@@ -18,7 +18,7 @@ date: '2022-11-01'
 lastmod: 2023-02-08T15:02:09+01:00
 featured: false
 draft: false
-publication_short: ""
+publication_short: "QST"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -60,4 +60,6 @@ links:
   icon_pack: fas
   name: 'URL'
   url: https://dx.doi.org/10.1088/2058-9565/ac969b
+- name: 'PDF'
+  url: https://iopscience.iop.org/article/10.1088/2058-9565/ac969b/pdf
 ---

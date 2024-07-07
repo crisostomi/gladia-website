@@ -16,10 +16,11 @@ tags:
 - '"Computer Science - Machine Learning"'
 
 categories: []
-date: '2023-12-11'
+date: '2023-09-30'
 lastmod: 2022-09-30T11:32:00+02:00
 featured: false
 draft: false
+publication_short: "NeurIPS 2023"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -30,14 +31,16 @@ image:
   preview_only: false
 
 links:
+- name: 'PDF'
+  url: https://openreview.net/pdf?id=pBa70rGHlr
+- icon: link
+  icon_pack: fas
+  name: 'URL'
+  url: https://openreview.net/forum?id=pBa70rGHlr
 - icon: github
   icon_pack: fab
   name: 'GitHub'
   url: https://github.com/Flegyas/latent-translation
-- icon:  chalkboard-user
-  icon_pack: fas
-  name: 'NeurIPS 2023'
-  url: https://openreview.net/forum?id=pBa70rGHlr
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

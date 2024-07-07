@@ -14,7 +14,7 @@ date: '2023-03-15'
 lastmod: 2023-03-15T:26:44
 featured: false
 draft: false
-publication_short: ""
+publication_short: "Tiny ICLR 2023"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -33,8 +33,8 @@ projects: []
 publishDate: '2023-03-15T:26:44'
 publication_types:
 - '3'
-abstract: 'We analyze how large language models (LLMs) represent out-of-context words, investigating their reliance on the given context to capture their semantics. Our likelihood-guided text perturbations reveal a correlation between token likelihood and attention values in transformer-based language models. Extensive experiments reveal that unexpected tokens cause the model to attend less to the information coming from themselves to compute their representations, particularly at higher layers. These findings have valuable implications for assessing the robustness of LLMs in real-world scenarios. Fully reproducible codebase at https://github.com/Flegyas/AttentionLikelihood .'
-publication: '*arXiv preprint arXiv:2303.08288*'
+abstract: 'We analyze how large language models (LLMs) represent out-of-context words, investigating their reliance on the given context to capture their semantics. Our likelihood-guided text perturbations reveal a correlation between token likelihood and attention values in transformer-based language models. Extensive experiments reveal that unexpected tokens cause the model to attend less to the information coming from themselves to compute their representations, particularly at higher layers. These findings have valuable implications for assessing the robustness of LLMs in real-world scenarios.'
+publication: 'Tiny Papers @ ICLR 2023'
 links:
 - icon: link
   icon_pack: fas
@@ -42,4 +42,8 @@ links:
   url : https://arxiv.org/abs/2303.08288
 - name: PDF
   url: https://arxiv.org/pdf/2303.08288.pdf
+- icon: github
+  icon_pack: fab
+  name: 'GitHub'
+  url: https://github.com/Flegyas/AttentionLikelihood
 ---
