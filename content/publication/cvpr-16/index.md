@@ -35,7 +35,7 @@ projects: []
 publishDate: '2023-02-02T05:55:19.409784Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: "We propose the first algorithm for non-rigid 2D-to-3D shape matching, where the input is a 2D shape represented as a planar curve and a 3D shape represented as a surface; the output is a continuous curve on the surface. We cast the problem as finding the shortest circular path on the product 3-manifold of the surface and the curve. We prove that the optimal matching can be computed in polynomial time with a (worst-case) complexity of O(m n^2 log(n)), where m and n denote the number of vertices on the template curve and the 3D shape respectively. We also demonstrate that in practice the runtime is essentially linear in m times n making it an efficient method for shape analysis and shape retrieval. Quantitative evaluation confirms that the method provides excellent results for sketch-based deformable 3D shape retrieval."
 publication: "*Proc. Int'l Conference on Computer Vision and Pattern Recognition (CVPR)*"
 
 links:
