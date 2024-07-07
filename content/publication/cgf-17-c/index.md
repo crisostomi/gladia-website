@@ -15,7 +15,7 @@ date: '2018-09-01'
 lastmod: 2023-02-02T06:54:51+01:00
 featured: false
 draft: false
-publication_short: ""
+publication_short: "CGF"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -29,7 +29,9 @@ links:
 - icon: link
   icon_pack: fas
   name: 'URL'
-  url: https://arxiv.org/pdf/1707.02596.pdf
+  url: https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13309
+- name: 'PDF'
+  url: https://cvg.cit.tum.de/_media/spezial/bib/melzi-cgf18.pdf
 - icon: github
   icon_pack: fab
   name: 'GitHub'
@@ -44,6 +46,6 @@ projects: []
 publishDate: '2023-02-02T05:54:50.496383Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: "The use of Laplacian eigenfunctions is ubiquitous in a wide range of computer graphics and geometry processing applications. In particular, Laplacian eigenbases allow generalizing the classical Fourier analysis to manifolds. A key drawback of such bases is their inherently global nature, as the Laplacian eigenfunctions carry geometric and topological structure of the entire manifold. In this paper, we introduce a new framework for local spectral shape analysis. We show how to efficiently construct localized orthogonal bases by solving an optimization problem that in turn can be posed as the eigendecomposition of a new operator obtained by a modification of the standard Laplacian. We study the theoretical and computational aspects of the proposed framework and showcase our new construction on the classical problems of shape approximation and correspondence. We obtain significant improvement compared to classical Laplacian eigenbases as well as other alternatives for constructing localized bases."
 publication: '*Computer Graphics Forum (CGF)*'
 ---

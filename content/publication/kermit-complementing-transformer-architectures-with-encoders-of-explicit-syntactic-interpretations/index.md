@@ -12,7 +12,7 @@ authors:
   - Francesca Fallucchi
 publication: Proceedings of the 2020 Conference on Empirical Methods in Natural
   Language Processing (EMNLP)
-publication_short: "EMNLP2020"
+publication_short: "EMNLP 2020"
 abstract: "Syntactic parsers have dominated natural language understanding for
   decades. Yet, their syntactic interpretations are losing centrality in
   downstream tasks due to the success of large-scale textual representation
@@ -31,8 +31,8 @@ image:
   preview_only: false
 date: 2020-06-10
 links:
-- icon:  chalkboard-user
+- icon: link
   icon_pack: fas
-  name: 'EMNLP 2020'
+  name: 'URL'
   url: http://dx.doi.org/10.18653/v1/2020.emnlp-main.18
 ---

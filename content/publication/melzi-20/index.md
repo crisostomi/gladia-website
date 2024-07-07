@@ -22,7 +22,7 @@ date: '2020-01-01'
 lastmod: 2023-02-08T15:02:31+01:00
 featured: false
 draft: false
-publication_short: ""
+publication_short: "CAG"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Newton’s Fractals on Surfaces via Bicomplex Algebra
+title: "Newton's Fractals on Surfaces via Bicomplex Algebra"
 subtitle: ''
 summary: 'An algorithm that exploits features of the bicomplex field to compute 4-dimensional Newton fractals for procedural texturing applications. The generated fractals are computed in a pixel shader only on the target surface to achieve real-time performance.'
 authors:
@@ -15,7 +15,7 @@ date: '2022-01-01'
 lastmod: 2023-02-08T16:41:54+01:00
 featured: false
 draft: false
-publication_short: "SIGGRAPH 2022"
+publication_short: "SIGGRAPH 2022 Posters"
 
 links:
 - name: PDF
@@ -42,7 +42,6 @@ projects: []
 publishDate: '2023-02-08T15:41:54.143691Z'
 publication_types:
 - '6'
-abstract: ''
 publication: '*ACM SIGGRAPH 2022 Posters*'
-abstract: Real-time procedural texturing is becoming more and more important as the need of large variety of contents increases. We propose a new technique that exploits the properties of a 4-dimensional algebraic field for efficiently computing on GPU a procedural texture with fractal properties. The produced pattern are shown to be well suitable in many applications, especially when used as building blocks for complex materials.
+abstract: "Real-time procedural texturing is becoming more and more important as the need of large variety of contents increases. We propose a new technique that exploits the properties of a 4-dimensional algebraic field for efficiently computing on GPU a procedural texture with fractal properties. The produced pattern are shown to be well suitable in many applications, especially when used as building blocks for complex materials."
 ---

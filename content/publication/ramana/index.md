@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Reduced Representation of Deformation Fields for Effective Non-rigid Shape
-  Matching
+title: 'Reduced Representation of Deformation Fields for Effective Non-rigid Shape Matching'
 subtitle: ''
 summary: ''
 authors:
@@ -16,7 +15,7 @@ date: '2022-01-01'
 lastmod: 2023-02-06T12:13:55+01:00
 featured: false
 draft: false
-publication_short: ""
+publication_short: "NeurIPS 2022"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -37,4 +36,15 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Advances in Neural Information Processing Systems*'
+links:
+- name: 'PDF'
+  url: https://proceedings.neurips.cc/paper_files/paper/2022/file/43d1d3bdd92204c96fa4ac3c578f6a33-Paper-Conference.pdf
+- icon: link
+  icon_pack: fas
+  name: 'URL'
+  url: https://dl.acm.org/doi/10.5555/3600270.3601026
+- icon: github
+  icon_pack: fab
+  name: 'GitHub'
+  url: https://github.com/Sentient07/DeformationBasis
 ---

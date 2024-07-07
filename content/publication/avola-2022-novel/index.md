@@ -23,7 +23,7 @@ date: '2022-01-01'
 lastmod: 2023-02-06T12:14:06+01:00
 featured: false
 draft: false
-publication_short: ""
+publication_short: "Remote Sensing"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

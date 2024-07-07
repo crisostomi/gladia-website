@@ -15,11 +15,11 @@ tags:
 - 'Geometry Processing'
 - 'Computational Biology'
 categories: []
-date: '2023-07-03'
+date: '2023-09-29'
 lastmod: 2023-02-05T10:57:53+01:00
 featured: false
 draft: false
-publication_short: "NeuReps Workshop 2023"
+publication_short: "NeurReps 2023"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

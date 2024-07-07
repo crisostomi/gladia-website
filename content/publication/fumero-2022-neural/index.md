@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Neural Implicit Style-net: synthesizing shapes in a preferred style exploiting
-  self supervision'
+title: 'Neural Implicit Style-net: synthesizing shapes in a preferred style exploiting self supervision'
 subtitle: ''
 summary: ''
 authors:
@@ -16,7 +15,7 @@ date: '2022-01-01'
 lastmod: 2023-02-08T15:02:10+01:00
 featured: false
 draft: false
-publication_short: ""
+publication_short: "NeurReps 2022"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -47,4 +46,11 @@ abstract: We introduce a novel approach to disentangle style from content in the
   a variety of transformations. We validate our approach qualitatively and quantitatively
   on a dataset with font style labels.
 publication: '*NeurIPS 2022 Workshop on Symmetry and Geometry in Neural Representations*'
+links:
+- icon: link
+  icon_pack: fas
+  name: 'URL'
+  url: https://openreview.net/forum?id=78MJoZ0L64q
+- name: 'PDF'
+  url: https://openreview.net/pdf?id=78MJoZ0L64q
 ---

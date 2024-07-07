@@ -22,7 +22,7 @@ date: '2022-04-29'
 lastmod: 2021-04-02T11:32:00+02:00
 featured: false
 draft: false
-publication_short: ""
+publication_short: "CGF"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -33,10 +33,10 @@ image:
   preview_only: false
 
 links:
-- icon:  chalkboard-user
+- icon: link
   icon_pack: fas
-  name: 'Computer Graphics Forum'
-  url: https://diglib.eg.org/handle/10.1111/cgf14483
+  name: 'URL'
+  url: https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14483
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

@@ -16,7 +16,7 @@ date: '2021-01-01'
 lastmod: 2023-02-08T16:41:52+01:00
 featured: false
 draft: false
-publication_short: "EUROGRAPHICS 2021"
+publication_short: "CGF (Proc. EG 2021)"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

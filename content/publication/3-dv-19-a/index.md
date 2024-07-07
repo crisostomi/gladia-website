@@ -16,7 +16,7 @@ date: '2019-09-01'
 lastmod: 2023-02-02T06:54:43+01:00
 featured: false
 draft: false
-publication_short: ""
+publication_short: "3DV 2019"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

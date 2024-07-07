@@ -17,7 +17,7 @@ date: '2020-10-01'
 lastmod: 2023-02-02T06:54:39+01:00
 featured: false
 draft: false
-publication_short: "IEEE ToM 22(10) 2020"
+publication_short: "IEEE ToM"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

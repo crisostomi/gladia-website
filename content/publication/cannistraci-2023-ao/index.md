@@ -17,7 +17,7 @@ date: '2023-03-01'
 lastmod: 2023-03-01T:26:44
 featured: false
 draft: false
-publication_short: ""
+publication_short: "Tiny ICLR 2023"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

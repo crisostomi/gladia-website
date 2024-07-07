@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'KiloNeuS: A Versatile Neural Implicit Surface Representation for Real-Time
-  Rendering'
+title: 'KiloNeuS: A Versatile Neural Implicit Surface Representation for Real-Time Rendering'
 subtitle: ''
 summary: A neural implicit representation which couples solving for a well-defined surface
   and real-time rendering capabilities.
@@ -22,7 +21,7 @@ date: '2022-01-01'
 lastmod: 2023-02-06T11:39:09+01:00
 featured: false
 draft: false
-publication_short: arXiv
+publication_short: Preprint
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

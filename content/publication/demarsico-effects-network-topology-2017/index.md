@@ -20,7 +20,7 @@ date: '2017-09-05'
 lastmod: 2021-04-02T11:31:59+02:00
 featured: false
 draft: false
-publication_short: ""
+publication_short: "EC-TEL 2017"
 
 links:
 - icon:  chalkboard-user

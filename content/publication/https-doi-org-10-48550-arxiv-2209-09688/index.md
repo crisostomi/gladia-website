@@ -17,11 +17,11 @@ tags:
 - 'FOS: Computer and information sciences'
 - 'FOS: Computer and information sciences'
 categories: []
-date: '2022-01-01'
+date: '2023-09-26'
 lastmod: 2023-02-08T16:41:35+01:00
 featured: false
 draft: false
-publication_short: ""
+publication_short: "TAI"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -40,29 +40,15 @@ projects: []
 publishDate: '2023-02-08T15:41:34.158908Z'
 publication_types:
 - '0'
-abstract: Graph Neural Networks (GNNs) have proven to be successful in several predictive
-  modeling tasks for graph-structured data. Amongst those tasks, link prediction is
-  one of the fundamental problems for many real-world applications, such as recommender
-  systems. However, GNNs are not immune to adversarial attacks, i.e., carefully crafted
-  malicious examples that are designed to fool the predictive model. In this work,
-  we focus on a specific, white-box attack to GNN-based link prediction models, where
-  a malicious node aims to appear in the list of recommended nodes for a given target
-  victim. To achieve this goal, the attacker node may also count on the cooperation
-  of other existing peers that it directly controls, namely on the ability to inject
-  a number of ``vicious'' nodes in the network. Specifically, all these malicious
-  nodes can add new edges or remove existing ones, thereby perturbing the original
-  graph. Thus, we propose SAVAGE, a novel framework and a method to mount this type
-  of link prediction attacks. SAVAGE formulates the adversary's goal as an optimization
-  task, striking the balance between the effectiveness of the attack and the sparsity
-  of malicious resources required. Extensive experiments conducted on real-world and
-  synthetic datasets demonstrate that adversarial attacks implemented through SAVAGE
-  indeed achieve high attack success rate yet using a small amount of vicious nodes.
-  Finally, despite those attacks require full knowledge of the target model, we show
-  that they are successfully transferable to other black-box methods for link prediction.
-publication: '*arXiv*'
+abstract: "In this study, we introduce SAVAGE, a novel framework for sparse vicious adversarial link prediction attacks in graph neural networks (GNNs). While GNNs have been successful in link prediction tasks, they are susceptible to adversarial attacks where malicious nodes attempt to manipulate recommendations for a target victim. SAVAGE optimizes the attacker's goal to maximize attack effectiveness while minimizing the required malicious resources. Unlike existing methods with static resource-based upper bounds, SAVAGE employs a sparsity-enforcing mechanism to reduce the number of malicious nodes needed for the attack. Extensive experiments on real-world and synthetic datasets demonstrate the optimal tradeoff achieved by SAVAGE between a high attack success rate and the number of malicious nodes utilized. Furthermore, we demonstrate that SAVAGE can successfully target non-GNN-based link prediction systems, even those unknown at the time of the attack. This showcases the transferability of SAVAGE-generated attacks to other black-box methods for link prediction, highlighting its applicability across different real-world scenarios."
+publication: '*IEEE Transactions on Artificial Intelligence*'
 links:
 - icon: link
   icon_pack: fas
   name: 'URL'
-  url: https://arxiv.org/abs/2209.09688
+  url: https://ieeexplore.ieee.org/document/10264111
+- icon: github
+  icon_pack: fab
+  name: 'GitHub'
+  url: https://github.com/GiovanniTRA/SAVAGE
 ---

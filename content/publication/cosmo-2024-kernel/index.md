@@ -15,7 +15,7 @@ authors:
 tags:
 - 'Graph learning'
 categories: []
-date: '2024-05-01'
+date: '2024-05-30'
 lastmod: 2023-02-05T10:57:53+01:00
 featured: false
 draft: false
