@@ -16,7 +16,7 @@ date: '2016-12-01'
 lastmod: 2023-02-02T06:54:53+01:00
 featured: false
 draft: false
-publication_short: ""
+publication_short: "TPAMI"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -38,6 +38,8 @@ publication_types:
 abstract: 'Artificial markers are successfully adopted to solve several vision tasks, ranging from tracking to calibration. While most designs share the same working principles, many specialized approaches exist to address specific application domains. Some are specially crafted to boost pose recovery accuracy. Others are made robust to occlusion or easy to detect with minimal computational resources. The sheer amount of approaches available in recent literature is indeed a statement to the fact that no silver bullet exists. Furthermore, this is also a hint to the level of scholarly interest that still characterizes this research topic. With this paper we try to add a novel option to the offer, by introducing a general purpose fiducial marker which exhibits many useful properties while being easy to implement and fast to detect. The key ideas underlying our approach are three. The first one is to exploit the projective invariance of conics to jointly find the marker and set a reading frame for it. Moreover, the tag identity is assessed by a redundant cyclic coded sequence implemented using the same circular features used for detection. Finally, the specific design and feature organization of the marker are well suited for several practical tasks, ranging from camera calibration to information payload delivery.'
 publication: '*IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*'
 links:
-- name: PDF
+- icon: link
+  icon_pack: fas
+  name: 'URL'
   url: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7384749
 ---
