@@ -21,10 +21,10 @@ main:
     weight: 35
   # - name: Talks
   #   url: '#talks'
-  #   weight: 40
-  - name: Talks
-    url: '/talks'
-    weight: 50
+  # #   weight: 40
+  # - name: Talks
+  #   url: '/talks'
+  #   weight: 50
   - name: Contact
     url: '#contact'
     weight: 60
