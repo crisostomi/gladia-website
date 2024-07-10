@@ -40,6 +40,4 @@ publication: '*arXiv preprint*'
 links:
 - name: arXiv
   url : https://arxiv.org/abs/2406.14183
-- name: PDF
-  url: https://arxiv.org/pdf/2406.14183
 ---

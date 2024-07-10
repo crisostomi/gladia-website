@@ -48,4 +48,8 @@ links:
   url: https://www.sciencedirect.com/science/article/pii/S0167865524001909
 - name: arXiv
   url: https://arxiv.org/abs/2301.03345
+- icon: github
+  icon_pack: fab
+  name: 'GitHub'
+  url: https://github.com/aimagelab/CaSpeR
 ---

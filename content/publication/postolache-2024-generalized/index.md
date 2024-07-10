@@ -21,8 +21,12 @@ featured: false
 draft: false
 publication_short: "ICASSP 2024"
 links:
+- icon: link
+  icon_pack: fas
+  name: 'URL'
+  url : https://gladia-research-group.github.io/gmsdi/
 - name: 'arXiv'
-  url: https://arxiv.org/abs/2210.12108 
+  url: https://arxiv.org/abs/2403.11706
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

@@ -48,4 +48,8 @@ publication: '*AISTATS 2024*'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2307.01037
+- icon: github
+  icon_pack: fab
+  name: 'GitHub'
+  url: https://github.com/Marco-Peg/mvqr
 ---
