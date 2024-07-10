@@ -41,8 +41,6 @@ publication: '*arXiv preprint*'
 links:
 - name: arXiv
   url : https://arxiv.org/abs/2404.16969
-- name: PDF
-  url: https://arxiv.org/pdf/2404.16969
 - icon: github
   icon_pack: fab
   name: 'GitHub'

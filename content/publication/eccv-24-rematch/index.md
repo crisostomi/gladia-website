@@ -36,6 +36,10 @@ publication: 'Proc. ECCV'
 publication_short: "ECCV 2024"
 
 links:
-- name: PDF
-  url: https://arxiv.org/pdf/2305.09274
+- name: arXiv
+  url: https://arxiv.org/abs/2305.09274
+- icon: github
+  icon_pack: fab
+  name: 'GitHub'
+  url: https://github.com/filthynobleman/rematching
 ---

@@ -22,10 +22,18 @@ featured: false
 draft: false
 publication_short: "ICASSP 2024"
 links:
-- name: 'arXiv'
-  url: https://arxiv.org/abs/2310.15247
 - name: 'PDF'
   url: https://www.eecs.qmul.ac.uk/~josh/documents/2024/Syncfusion.pdf
+- icon: link
+  icon_pack: fas
+  name: 'URL'
+  url : https://mcomunita.github.io/syncfusion-webpage/
+- name: 'arXiv'
+  url: https://arxiv.org/abs/2310.15247
+- icon: github
+  icon_pack: fab
+  name: 'GitHub'
+  url: https://github.com/mcomunita/syncfusion
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
