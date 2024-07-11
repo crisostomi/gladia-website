@@ -5,8 +5,8 @@
 {{ $link := $item.RelPermalink }}
 {{ $target := "" }}
 {{ if $item.Params.external_link }}
-  {{ $link = $item.Params.external_link }}
-  {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+{{ $link = $item.Params.external_link }}
+{{ $target = "target=\"_blank\" rel=\"noopener\"" }}
 {{ end }}
 {{ $show_authors_only = true }}
 
@@ -15,11 +15,11 @@
 {{/* Get summary. */}}
 {{ $summary := "" }}
 {{ if $item.Params.summary }}
-  {{ $summary = $item.Params.summary | markdownify | emojify }}
+{{ $summary = $item.Params.summary | markdownify | emojify }}
 {{ else if $item.Params.abstract }}
-  {{ $summary = $item.Params.abstract | markdownify | emojify | truncate (site.Params.abstract_length | default 135) }}
+{{ $summary = $item.Params.abstract | markdownify | emojify | truncate (site.Params.abstract_length | default 135) }}
 {{ else if $item.Summary }}
-  {{ $summary = $item.Summary }}
+{{ $summary = $item.Summary }}
 {{ end }}
 
 <div class="paper-media stream-item view-compact">
@@ -31,10 +31,10 @@
 
     {{ with $summary }}
     <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="summary-link">
-        <div class="publication-short">
-            {{$item.Params.publication_short}}
-        </div>
-        <div class="article-style">
+      <div class="publication-short">
+        {{$item.Params.publication_short}}
+      </div>
+      <div class="article-style">
         {{.}}
       </div>
     </a>
@@ -47,13 +47,13 @@
         {{ partial "page_metadata_authors" $item }}
       </div>
       {{ else if not $show_authors_only }}
-        {{ partial "page_metadata" (dict "page" $item "is_list" 1) }}
+      {{ partial "page_metadata" (dict "page" $item "is_list" 1) }}
       {{ end }}
     </div>
 
     {{ if $has_attachments }}
     <div class="btn-links">
-      {{ partial "page_links" (dict "page" $item "is_list" 1) }}
+      {{ partial "my_page_links" (dict "page" $item "is_list" 1) }}
     </div>
     {{ end }}
 
@@ -61,11 +61,11 @@
   <div class="m3 paper-img">
     {{ $resource := partial "functions/get_featured_image.html" $item }}
     {{ with $resource }}
-      {{ $image := .Resize "150x webp" }}
-      <a href="{{$link}}" {{ $target | safeHTMLAttr }}>
-        <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
-            alt="{{ $item.Title }}" loading="lazy">
-      </a>
+    {{ $image := .Resize "150x webp" }}
+    <a href="{{$link}}" {{ $target | safeHTMLAttr }}>
+      <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
+        alt="{{ $item.Title }}" loading="lazy">
+    </a>
     {{end}}
   </div>
 </div>
