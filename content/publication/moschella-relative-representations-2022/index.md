@@ -13,7 +13,6 @@ authors:
 - rodola
 
 tags:
-- '"Computer Science - Machine Learning"'
 - 'featured'
 
 categories: []

@@ -15,6 +15,7 @@ tags:
 - Signal Processing
 - Music Generation
 - Source Separation
+- 'featured'
 categories: []
 date: '2024-06-03'
 lastmod: 2024-05-05T14:00:41+01:00
