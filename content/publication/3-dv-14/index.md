@@ -36,4 +36,10 @@ publication_types:
 - '1'
 abstract: "In this paper, we propose an optimization method for estimating the parameters that typically appear in graph-theoretical formulations of the matching problem for object detection. Although several methods have been proposed to optimize parameters for graph matching in a way to promote correct correspondences and to restrict wrong ones, our approach is novel in the sense that it aims at improving performance in the more general task of object detection. In our formulation, similarity functions are adjusted so as to increase the overall similarity among a reference model and the observed target, and at the same time reduce the similarity among reference and 'non-target' objects. We evaluate the proposed method in two challenging scenarios, namely object detection using data captured with a Kinect sensor in a real environment, and intrinsic metric learning for deformable shapes, demonstrating substantial improvements in both settings."
 publication: "*Proc. Int'l Conference on 3D Vision (3DV)*"
+
+links:
+- icon: link
+  icon_pack: fas
+  name: 'URL'
+  url: https://ieeexplore.ieee.org/document/7035890
 ---
