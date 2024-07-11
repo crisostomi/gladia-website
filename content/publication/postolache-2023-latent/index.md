@@ -14,7 +14,6 @@ authors:
 tags:
 - Signal Processing
 - Source Separation
-- featured
 categories: []
 date: '2023-01-01'
 lastmod: 2023-02-06T11:38:44+01:00

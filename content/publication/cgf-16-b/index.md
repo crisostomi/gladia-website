@@ -39,10 +39,10 @@ abstract: "In this paper, we propose a method for computing partial functional c
 publication: '*Computer Graphics Forum (CGF)*'
 
 links:
+- name: 'PDF'
+  url: https://cvg.cit.tum.de/_media/spezial/bib/rodola-partial.pdf
 - icon: link
   icon_pack: fas
   name: 'URL'
   url: https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.12797
-- name: 'PDF'
-  url: https://cvg.cit.tum.de/_media/spezial/bib/rodola-partial.pdf
 ---
