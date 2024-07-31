@@ -16,7 +16,7 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/simone-facchiano-7a1760264
-  organizations:
+ organizations:
   - name: Sapienza, University of Rome
     url: https://www.uniroma1.it/
 email: ""
