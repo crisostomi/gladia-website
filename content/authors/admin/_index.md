@@ -16,7 +16,11 @@ avatar:
   shape: circle
 first_name: GLADIA
 ---
-Welcome to the GLADIA research lab! Based in the beautiful city of Rome, we are a dynamic team of computer scientists, physicists, engineers, and mathematicians who are passionate about AI and love to push the boundaries of what is possible, seeking innovative solutions to real-world problems -- or sometimes, making up new ones. We work with images, molecules, graphs, 3D shapes, music, language, games, medical data, and quantum particles. We are always excited to collaborate with other disciplines, bring our expertise to the table and have fun with science!
+Welcome to the GLADIA research lab! Based in the beautiful city of Rome, we are a dynamic team of computer scientists, physicists, engineers, and mathematicians who are passionate about AI and love to push the boundaries of what is possible, seeking innovative solutions to real-world problems -- or sometimes, making up new ones. 
+
+Currently, our major efforts go toward model merging, training-free stitching, multimodal learning, neural model reuse and compositionality. Our aim is to slash the time required to create new models with novel capabilities from months to mere seconds. We are also passionate about generative models for music, striving to revolutionize how music is created and enjoyed everywhere.
+
+Reach out for collaborations, opportunities, of just to say hi!
 <!-- 
 <ul style="list-style:none; padding:0; margin:0;">
   <li class="funding-item" style="display:flex; align-items:center; height:100px; margin-bottom:0px; padding:10px; justify-content:space-between">
