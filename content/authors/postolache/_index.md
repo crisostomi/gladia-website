@@ -20,10 +20,6 @@ role: Senior AI Research Scientist
 organizations:
   - name: IRIS Audio Technologies
     url: https://iris.audio/
-  - name: Sapienza, University of Rome
-    url: https://www.uniroma1.it/
-  - name: Ca' Foscari, University of Venice
-    url: https://www.unive.it/
 
 # Short bio (displayed in user profile at end of posts)
 bio: "Senior AI Research Scientist @ Iris Audio"
@@ -41,7 +37,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:postolache@di.uniroma1.it
+    link: mailto:emilian@shapedbyiris.com
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/EmilianPostola1
@@ -63,10 +59,10 @@ social:
 #     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'postolache@di.uniroma1.it'
+email: 'emilian@shapedbyiris.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-Senior AI Research Scientist @ Iris Audio Technologies. Previous: Sapienza University, Ca' Foscari University, Dolby Labs, Sony CSL Tokyo
+Senior AI Research Scientist @ Iris Audio Technologies. Previous: Sapienza University, Ca' Foscari University, Dolby Labs, Sony CSL Tokyo.
 {style="text-align: justify;"}
