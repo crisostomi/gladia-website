@@ -26,6 +26,7 @@ bio: "Senior AI Research Scientist @ Iris Audio"
 
 # Interests to show in About widget
 interests:
+  - Knowledge distillation
   - Generative models
   - Signal processing
   - Source separation
@@ -64,5 +65,5 @@ email: 'emilian@shapedbyiris.com'
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-Senior AI Research Scientist @ Iris Audio Technologies. Previous: Sapienza University, Ca' Foscari University, Dolby Labs, Sony CSL Tokyo.
+Senior AI Research Scientist @ Iris Audio Technologies. Previous: Sapienza University of Rome (PhD), Ca' Foscari University of Venice (PostDoc), Queen Mary University of London (Visitor), Dolby Labs (Intern) and Sony CSL Tokyo (Intern).
 {style="text-align: justify;"}
