@@ -14,15 +14,19 @@ user_groups:
 superuser: true
 
 # Role/position/tagline
-role: PhD student
+role: Senior AI Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
+  - name: IRIS Audio Technologies
+    url: https://iris.audio/
   - name: Sapienza, University of Rome
     url: https://www.uniroma1.it/
+  - name: Ca' Foscari, University of Venice
+    url: https://www.unive.it/
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Generative Audio Maverick"
+bio: "Senior AI Research Scientist @ Iris Audio"
 
 # Interests to show in About widget
 interests:
@@ -64,5 +68,5 @@ email: 'postolache@di.uniroma1.it'
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I am a Ph.D. student interested in generative models, especially applied to (waveform) compositional music generation. I also worked on source separation, foley sound synthesis, EEG music decoding and machine translation. I pursued internships at Dolby Laboratories, SonyCSL Tokyo and visited the Center For Digital Music in Queen Mary University of London.
+Senior AI Research Scientist @ Iris Audio Technologies. Previous: Sapienza University, Ca' Foscari University, Dolby Labs, Sony CSL Tokyo
 {style="text-align: justify;"}
