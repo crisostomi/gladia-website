@@ -19,7 +19,7 @@ social:
 
   - icon: globe-americas
     icon_pack: fas
-    link: https://www.giorgioskij.github.io
+    link: https://giorgioskij.github.io
 
 organizations:
   - name: Sapienza, University of Rome
