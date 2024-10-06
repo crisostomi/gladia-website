@@ -12,11 +12,11 @@ authors:
 - rodola
 tags: []
 categories: []
-date: '2024-06-21'
+date: '2024-09-25'
 lastmod: 2023-10-02T:26:44
 featured: false
 draft: false
-publication_short: "Preprint"
+publication_short: "NeurIPS 2024"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -34,10 +34,12 @@ image:
 projects: []
 publishDate: '2023-10-02T:26:44'
 publication_types:
-- '3'
+- '1'
 abstract: "Neural models learn data representations that lie on low-dimensional manifolds, yet modeling the relation between these representational spaces is an ongoing challenge. By integrating spectral geometry principles into neural modeling, we show that this problem can be better addressed in the functional domain, mitigating complexity, while enhancing interpretability and performances on downstream tasks. To this end, we introduce a multi-purpose framework to the representation learning community, which allows to: (i) compare different spaces in an interpretable way and measure their intrinsic similarity; (ii) find correspondences between them, both in unsupervised and weakly supervised settings, and (iii) to effectively transfer representations between distinct spaces. We validate our framework on various applications, ranging from stitching to retrieval tasks, demonstrating that latent functional maps can serve as a swiss-army knife for representation alignment."
-publication: '*arXiv preprint*'
+
 links:
 - name: arXiv
   url : https://arxiv.org/abs/2406.14183
+
+publication: '*Thirty-eighth Conference on Neural Information Processing Systems (NeurIPS 2024)*'
 ---

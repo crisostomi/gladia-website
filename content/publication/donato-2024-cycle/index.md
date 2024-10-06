@@ -12,11 +12,11 @@ authors:
 - rodola
 tags: []
 categories: []
-date: '2024-05-28'
+date: '2024-09-25'
 lastmod: 2023-10-02T:26:44
 featured: false
 draft: false
-publication_short: "Preprint"
+publication_short: "NeurIPS 2024"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -34,9 +34,9 @@ image:
 projects: []
 publishDate: '2023-10-02T:26:44'
 publication_types:
-- '3'
+- '1'
 abstract: "In this paper, we present a novel data-free method for merging neural networks in weight space. Differently from most existing works, our method optimizes for the permutations of network neurons globally across all layers. This allows us to enforce cycle consistency of the permutations when merging N >= 3 models, allowing circular compositions of permutations to be computed without accumulating error along the path. We qualitatively and quantitatively motivate the need for such a constraint, showing its benefits when merging sets of models in scenarios spanning varying architectures and datasets. We finally show that, when coupled with activation renormalization, our approach yields the best results in the task."
-publication: '*arXiv preprint*'
+
 links:
 - name: arXiv
   url : https://arxiv.org/abs/2405.17897
@@ -44,4 +44,6 @@ links:
   icon_pack: fab
   name: 'GitHub'
   url: https://github.com/crisostomi/cycle-consistent-model-merging
+
+publication: '*Thirty-eighth Conference on Neural Information Processing Systems (NeurIPS 2024)*'
 ---
