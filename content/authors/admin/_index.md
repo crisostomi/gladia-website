@@ -20,7 +20,7 @@ Welcome to the GLADIA research lab! Based in the beautiful city of Rome, we are 
 
 Currently, our major efforts go toward model merging, training-free stitching, multimodal learning, neural model reuse and compositionality. Our aim is to slash the time required to create new models with novel capabilities from months to mere seconds. We are also passionate about generative models for music, striving to revolutionize how music is created and enjoyed everywhere.
 
-Reach out for collaborations, opportunities, of just to say hi!
+Reach out for collaborations, opportunities, or just to say hi!
 <!-- 
 <ul style="list-style:none; padding:0; margin:0;">
   <li class="funding-item" style="display:flex; align-items:center; height:100px; margin-bottom:0px; padding:10px; justify-content:space-between">
