@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Cycle-Consistent Multi-Model Merging'
+title: 'C2M3: Cycle-Consistent Multi-Model Merging'
 subtitle: ''
 summary: ''
 authors:
