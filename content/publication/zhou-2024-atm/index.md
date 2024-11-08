@@ -41,4 +41,8 @@ publication: '*arXiv preprint*'
 links:
 - name: 'arXiv'
   url : https://arxiv.org/abs/2411.03055
+- icon: github
+  icon_pack: fab
+  name: 'GitHub'
+  url: https://github.com/LuckerZOfficiaL/Alternating-Tuning-and-Merging
 ---
