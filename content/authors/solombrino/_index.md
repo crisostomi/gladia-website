@@ -22,13 +22,14 @@ organizations:
     url: https://www.uniroma1.it/
 
 # Short bio (displayed in user profile at end of posts)
-bio: ""
+bio: "🎓 Deep Learning PhD student @ 🎭 GLADIA (Sapienza) || 🔬 Research in 🧪 model merging, 🎶 audio gen, 🖌️ music edit."
 
 # Interests to show in About widget
 interests:
-  - Heterogeneous Model Merging
+  - Model merging
+  - Audio generation
   - Music editing
-  - Geometric Deep Learning
+  - High-performance computing
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -37,15 +38,14 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:solombrino.1743111@studenti.uniroma1.it'
+    link: 'mailto:solombrino@di.uniroma1.it'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/dansolombrino
     label: Follow me on Twitter
-
-  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-  #   icon_pack: fas
-  #   link: https://scholar.google.it/citations?user=V-9JAEwAAAAJ&hl=it&oi=ao
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=jGkHAVUAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/dansolombrino
@@ -61,7 +61,7 @@ social:
 #     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'solombrino.1743111@studenti.uniroma1.it'
+email: 'solombrino@di.uniroma1.it'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -71,10 +71,8 @@ highlight_name: false
 {style="text-align: justify;"}
 I am a PhD student at GLADIA Research Group, under the supervision of Prof. Emanuele Rodolà (Sapienza University of Rome).
 
-My research focuses on Model Merging, and I plan to expand into music editing and Geometric Deep Learning. 
+My current research centers on model merging, and I'm also planning to dive into audio generation and music editing.
 
-During my BSc in Computer Science, I developed a passion for High Performance Computing and GPU programming, which led me to pursue a Deep Learning-focused MSc, where I worked on music classification, transfer learning and heterogeneous knowledge distillation in medical imaging, and disentangled representation learning for text.
+During my BSc in Computer Science, I got really interested in High-performance computing and GPU programming, which pushed me to pursue an MSc focused on deep learning. In my master's, I worked on applying AI to music, medical images, and natural language, while also exploring techniques like transfer learning, heterogeneous knowledge distillation, and disentangled representation learning.
 
-I am also a fan of minimalism, growth, planning, and EDM music, particularly Hardstyle and all of its subgenres.
-
-
+I am fan of minimalism, growth, mindfulness, and EDM music.
