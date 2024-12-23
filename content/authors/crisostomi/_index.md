@@ -4,10 +4,10 @@ role: PhD Student
 bio: "PhD student @ Sapienza, University of Rome | former Applied Science intern @ Amazon Search, Luxembourg | former Research Science intern @ Amazon Alexa, Turin"
 
 interests:
-  - Artificial Intelligence
-  - Graph Representation Learning
+  - Model Merging
   - Multi-Modality
   - Few-Shot Learning
+  - Graph Representation Learning
   - Natural Language Understanding
 social:
   - icon: envelope
@@ -52,5 +52,3 @@ I believe curiosity to have a primary role in guiding research, and hence I am a
 I wholeheartedly advocate for cleaner code in ML, as complexity should not be fought with more complexity. Maybe unsurprisingly at this point, I really enjoy coding. Funnily enough, I enjoy it so much that I often code as a mean to get away from a tiring day of coding.
 
 In my (too little) free time, I enjoy throwing away my laptop to reconnect with nature through hiking and/or camping. Finally, like most of the humans on this planet, I enjoy travelling and good food.
-
-
