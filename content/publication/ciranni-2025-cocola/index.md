@@ -6,18 +6,19 @@ subtitle: ''
 summary: ''
 authors:
 - Ruben Ciranni
-- postolache
 - mariani
 - mancusi
-- cosmo
+- postolache
+- Giorgio Fabbro
 - rodola
+- cosmo
 tags: []
 categories: []
-date: '2024-04-29'
+date: '2024-12-30'
 lastmod: 2023-10-02T:26:44
 featured: false
 draft: false
-publication_short: "Preprint"
+publication_short: "ICASSP 2025"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -37,7 +38,7 @@ publishDate: '2023-10-02T:26:44'
 publication_types:
 - '3'
 abstract: "We present COCOLA (Coherence-Oriented Contrastive Learning for Audio), a contrastive learning method for musical audio representations that captures the harmonic and rhythmic coherence between samples. Our method operates at the level of stems (or their combinations) composing music tracks and allows the objective evaluation of compositional models for music in the task of accompaniment generation. We also introduce a new baseline for compositional music generation called CompoNet, based on ControlNet, generalizing the tasks of MSDM, and quantify it against the latter using COCOLA. We release all models trained on public datasets containing separate stems (MUSDB18-HQ, MoisesDB, Slakh2100, and CocoChorales)."
-publication: '*arXiv preprint*'
+publication: '*Proc. ICASSP*'
 links:
 - name: arXiv
   url : https://arxiv.org/abs/2404.16969
