@@ -18,7 +18,7 @@ first_name: GLADIA
 ---
 Welcome to the GLADIA research lab! Based in the beautiful city of Rome, we are a dynamic team of computer scientists, physicists, engineers, and mathematicians who are passionate about AI and love to push the boundaries of what is possible, seeking innovative solutions to real-world problems -- or sometimes, making up new ones. 
 
-Currently, our major efforts go toward model merging, training-free stitching, multimodal learning, neural model reuse and compositionality. Our aim is to slash the time required to create new models with novel capabilities from months to mere seconds. We are also passionate about generative models for music, striving to revolutionize how music is created and enjoyed everywhere.
+Currently, our major efforts go toward model merging, model steering, training-free stitching, multimodal learning, neural model reuse and compositionality. Our aim is to slash the time required to create new models with novel capabilities from months to mere seconds. We are also passionate about generative models for music, striving to revolutionize how music is created and enjoyed everywhere.
 
 Reach out for collaborations, opportunities, or just to say hi!
 <!-- 
