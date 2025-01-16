@@ -1,6 +1,6 @@
 ---
 title: Irene Cannistraci
-role: PhD Student
+role: Alumni
 bio: I am a Ph.D. student passionate about Artificial Intelligence.
 
 interests:

@@ -14,7 +14,7 @@ user_groups:
 superuser: false
 
 # Role/position/tagline
-role: PhD Student
+role: Alumni
 
 # Organizations/Affiliations to show in About widget
 organizations:
