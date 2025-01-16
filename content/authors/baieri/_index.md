@@ -9,7 +9,7 @@ status:
   icon: ""
 
 user_groups:
-  - PhD Students
+  - Alumni
 
 superuser: false
 
@@ -68,6 +68,6 @@ highlight_name: false
 
 
 {style="text-align: justify;"}
-I am a Ph.D. student at Sapienza with the GLADIA research group since 2021. I earned my MSc degree in Computer Science with my thesis "Metric Regularization of Implicit Geometric Models". 
+I am a Ph.D. student at Sapienza with the GLADIA research group since 2021. I earned my MSc degree in Computer Science with my thesis "Metric Regularization of Implicit Geometric Models".
 My research focuses on AI-enabled applications for Computer Graphics; in particular, I am currently working on various directions for application of neural implicit geometric representations.
-I dedicate most of my free time to sports, music and gaming. 
+I dedicate most of my free time to sports, music and gaming.

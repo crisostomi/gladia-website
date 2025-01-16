@@ -30,7 +30,7 @@ organizations:
 email: ""
 superuser: true
 user_groups:
-  - PhD Students
+  - Alumni
 status:
   icon: ""
 last_name: Cannistraci
