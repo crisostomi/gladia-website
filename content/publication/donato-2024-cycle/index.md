@@ -38,6 +38,12 @@ publication_types:
 abstract: "In this paper, we present a novel data-free method for merging neural networks in weight space. Differently from most existing works, our method optimizes for the permutations of network neurons globally across all layers. This allows us to enforce cycle consistency of the permutations when merging N >= 3 models, allowing circular compositions of permutations to be computed without accumulating error along the path. We qualitatively and quantitatively motivate the need for such a constraint, showing its benefits when merging sets of models in scenarios spanning varying architectures and datasets. We finally show that, when coupled with activation renormalization, our approach yields the best results in the task."
 
 links:
+- icon: link
+  icon_pack: fas
+  name: 'URL'
+  url: https://openreview.net/forum?id=iD18l6prA7
+- name: PDF
+  url: https://openreview.net/pdf?id=iD18l6prA7
 - name: arXiv
   url : https://arxiv.org/abs/2405.17897
 - icon: github
