@@ -77,5 +77,5 @@ highlight_name: false
 ---
 
 {{% callout note %}}
-More information @ [my homepage {{< icon name="fort-awesome" pack="fab" >}}](https://www.vale.maiorca.xyz)
+More information @ [my homepage {{< icon name="fort-awesome" pack="fab" >}}](https://vale.maiorca.xyz)
 {{% /callout %}}
