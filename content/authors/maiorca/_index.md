@@ -20,15 +20,17 @@ role: PhD Student
 organizations:
   - name: Sapienza, University of Rome
     url: https://www.uniroma1.it/
+  - name: Institute of Science and Technology, Austria (ISTA)
+    url: https://ist.ac.at/home
 
 # Short bio (displayed in user profile at end of posts)
-bio: "PhD student @ Sapienza, University of Rome"
+bio: "Ellis PhD student @ Sapienza and ISTA"
 
 # Interests to show in About widget
-interests:
-  - Representation Learning
-  - Geometric Deep Learning
-  - Natural Language Understanding
+# interests:
+#   - Representation Learning
+#   - Geometric Deep Learning
+#   - Natural Language Understanding
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -66,8 +68,14 @@ email: ''
 highlight_name: false
 ---
 
+{{< icon name="terminal" pack="fas" >}}
 
-{style="text-align: justify;"}
-I'm a Ph.D. student in AI at Sapienza University, Computer Science department. Towards a more general understanding of the latent shape of information, I am currently exploring innovative techniques for unifying multiple latent manifolds into a single, robust, interpretable representation.
+<DIV align="center">
+{{<  tweet user="ValeMaiorca" id="1853522048913682639" >}}
+</DIV>
 
-My background is in various domains, including natural language processing, computer vision, bioinformatics, and geometric deep learning. I am passionate about AI and strive to positively impact both the research field and its real-world applications.
+---
+
+{{% callout note %}}
+More information @ [my homepage {{< icon name="fort-awesome" pack="fab" >}}](https://www.vale.maiorca.xyz)
+{{% /callout %}}
