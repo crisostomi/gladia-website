@@ -21,7 +21,7 @@ date: '2025-01-24'
 lastmod: 2022-03-31T14:18:10+02:00
 featured: false
 draft: false
-publication_short: "arXiv"
+publication_short: "Preprint"
 
 links:
 - icon: link
