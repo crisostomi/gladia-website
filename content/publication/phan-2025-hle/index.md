@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Humanity's Last Exam'
+title: Humanity's Last Exam
 subtitle: ''
 summary: ''
 authors:
