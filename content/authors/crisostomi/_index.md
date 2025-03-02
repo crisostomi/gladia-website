@@ -43,7 +43,6 @@ highlight_name: false
 first_name: Donato
 ---
 
-
 {style="text-align: justify;"}
 I am an enthusiastic Ph.D. student in Computer Science at Sapienza, University of Rome, where I am part of the *GLADIA* research group, led by prof. Emanuele Rodolà.
 
