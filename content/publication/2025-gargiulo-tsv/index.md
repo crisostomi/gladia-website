@@ -9,6 +9,7 @@ authors:
 - crisostomi
 - Maria Sofia Bucarelli
 - Simone Scardapane
+- Fabrizio Silvestri
 - rodola
 
 # Author notes (optional)
