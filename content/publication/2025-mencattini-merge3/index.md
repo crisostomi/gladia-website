@@ -23,7 +23,7 @@ date: '2025-02-27'
 lastmod: 2025-02-27T:26:44
 featured: false
 draft: false
-publication_short: "ArXiv"
+publication_short: "Preprint"
 
 image:
   caption: ''
@@ -33,7 +33,7 @@ image:
 projects: []
 publishDate: '2025-27-02T:26:44'
 publication_types:
-- '1'
+- '3'
 abstract: "Evolutionary model merging enables the creation of high-performing multi-task models but remains computationally prohibitive for consumer hardware. We introduce MERGE3, an efficient framework that makes evolutionary merging feasible on a single GPU by reducing fitness computation costs 50× while preserving performance. MERGE3 achieves this by Extracting a reduced dataset for evaluation, Estimating model abilities using Item Response Theory (IRT), and Evolving optimal merges via IRT-based performance estimators. Our method enables state-of-the-art multilingual and cross-lingual merging, transferring knowledge across languages with significantly lower computational overhead. We provide theoretical guarantees and an open-source library, democratizing high-quality model merging."
 
 links:
