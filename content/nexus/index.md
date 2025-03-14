@@ -42,3 +42,9 @@ By aligning representations and enabling model interoperability without retraini
 - **Fosters sustainable AI by prioritizing model reuse over unnecessary retraining.**
 
 The future of AI is not in training ever-larger, disconnected models—it is in **making existing models interoperable, modular, and adaptive**. NeXuS paves the way for a next-generation AI that truly builds on collective knowledge, just like human science does.
+
+### Join Us: Open PhD and Postdoc Positions  
+
+We are actively looking for **PhD students and postdoctoral researchers** eager to work on training-free model editing techniques, model merging, representation alignment, and more. If you are passionate about breaking the silos in AI and contributing to a future where machine learning models collaborate rather than compete, we encourage you to apply.  
+
+Our work spans multiple disciplines, including geometric deep learning, neuroscience-inspired AI, modular deep learning, and multi-modal learning—but we are also open to new perspectives and interdisciplinary contributions. If you are excited by these challenges and want to help redefine how AI models communicate and evolve, get in touch!
