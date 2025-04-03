@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Escaping Plato's Cave: Towards the Alignment of 3D and Text Latent Spaces'
+title: "Escaping Plato's Cave: Towards the Alignment of 3D and Text Latent Spaces"
 subtitle: ''
 summary: ''
 authors:
