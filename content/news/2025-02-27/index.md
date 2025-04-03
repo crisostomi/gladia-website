@@ -1,5 +1,5 @@
 ---
-title: "Paper accepted at CVPR 2025"
+title: "Papers accepted at CVPR 2025"
 
 event: ""
 event_url: ""
@@ -10,6 +10,10 @@ authors:
     - Maria Sofia Bucarelli
     - Simone Scardapane
     - Fabrizio Silvestri
+    - moschella
+    - santilli
+    - melzi
+    - Maks Ovsjanikov
     - rodola
 
 summary: ""
@@ -40,4 +44,4 @@ slides: ""
 projects: []
 ---
 
-Our paper ["*Task Singular Vectors: Reducing Task Interference in Model Merging*"](https://gladia.di.uniroma1.it/publication/2025-gargiulo-tsv/) was accepted at **CVPR 2025** main conference!
+Our two papers ["*Task Singular Vectors: Reducing Task Interference in Model Merging*"](https://gladia.di.uniroma1.it/publication/2025-gargiulo-tsv/) and ["*Escaping Plato's Cave: Towards the Alignment of 3D and Text Latent Spaces*"](https://gladia.di.uniroma1.it/publication/2025-hadgi-plato/) were accepted at **CVPR 2025** main conference!
