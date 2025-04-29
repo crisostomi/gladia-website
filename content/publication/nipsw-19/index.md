@@ -17,7 +17,7 @@ date: '2019-12-01'
 lastmod: 2023-02-02T06:54:41+01:00
 featured: false
 draft: false
-publication_short: "NeurIPS 2019 Workshops"
+publication_short: "NeurIPS 2019 Workshop GRLearning"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -37,8 +37,7 @@ publishDate: '2023-02-02T05:54:40.762079Z'
 publication_types:
 - '1'
 abstract: 'Predicting interactions between proteins and other biomolecules purely based on structure is an unsolved problem in biology. The protein molecular surface, a high-level representation of protein structure, displays the chemical and geometric features that can enter in contact with other biomolecules. This representation abstracts underlying details such as the precise arrangement of atoms and the amino acid sequence. Here we hypothesize that features in the molecular surface representation arrange in patterns, and proteins that perform similar interactions may display similar patterns. We model the discretized molecular surface as a graph and use data-driven geometric-deep learning tools to learn these patterns, and exploit them through three prediction challenges: (a) pocket similarity comparison, (b) protein-protein interaction site prediction and (c) prediction of interaction patterns between proteins based on surface patterns.'
-publication: '*Conference on Neural Information Processing Systems (NeurIPS) - Workshop
-  on Graph Representation Learning*'
+publication: '*NeurIPS 2019 Workshop on Graph Representation Learning*'
 links:
 - icon: link
   icon_pack: fas
