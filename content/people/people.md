@@ -20,7 +20,6 @@ content:
   - PhD Students
   - Alumni
   - Postdoc toral
-  - Project Assistant
 
 design:
   show_organizations: false
