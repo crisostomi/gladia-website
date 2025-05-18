@@ -14,7 +14,7 @@ user_groups:
 superuser: true
 
 # Role/position/tagline
-role: Alumni
+role: PostDoctoral Researcher, Oxford University
 
 # Organizations/Affiliations to show in About widget
 organizations:

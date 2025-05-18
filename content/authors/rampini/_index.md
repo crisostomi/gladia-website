@@ -14,7 +14,7 @@ user_groups:
 superuser: true
 
 # Role/position/tagline
-role: Senior Research Scientist
+role: Senior Research Scientist, Autodesk
 
 # Organizations/Affiliations to show in About widget
 organizations:

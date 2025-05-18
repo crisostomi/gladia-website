@@ -14,7 +14,7 @@ user_groups:
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor
+role: Associate Professor, University of Milano-Bicocca
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -23,7 +23,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: >
-    Assistant Professor at the University of Milano-Bicocca
+    Associate Professor at the University of Milano-Bicocca
 
 # Interests to show in About widget
 interests:

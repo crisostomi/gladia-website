@@ -14,7 +14,7 @@ user_groups:
 superuser: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Senior AI Research Scientist, IRIS Audio
 
 # Organizations/Affiliations to show in About widget
 organizations:

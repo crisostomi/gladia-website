@@ -1,6 +1,6 @@
 ---
 title: Luca Cosmo
-role: Assistant Professor
+role: Associate Professor, Ca' Foscari University of Venice
 bio: ""
 interests:
   - Shape Analysis

@@ -14,7 +14,7 @@ user_groups:
 superuser: true
 
 # Role/position/tagline
-role: Alumni
+role: Research Scientist, Nous Research
 
 # Organizations/Affiliations to show in About widget
 organizations:

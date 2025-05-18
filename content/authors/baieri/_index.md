@@ -14,7 +14,7 @@ user_groups:
 superuser: false
 
 # Role/position/tagline
-role: Alumni
+role: Postdoctoral Researcher, University of Milano-Bicocca
 
 # Organizations/Affiliations to show in About widget
 organizations:

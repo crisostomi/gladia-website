@@ -1,6 +1,6 @@
 ---
 title: Irene Cannistraci
-role: Alumni
+role: PostDoctoral Researcher, ETH Zurich
 bio: I am a Ph.D. student passionate about Artificial Intelligence.
 
 interests:

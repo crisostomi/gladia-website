@@ -1,6 +1,6 @@
 ---
 title: Giovanni Trappolini
-role: PostDoctoral Researcher
+role: PostDoctoral Researcher, Sapienza University of Rome
 bio: ""
 interests:
   - Geometric Deep Learning
