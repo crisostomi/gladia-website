@@ -1,13 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Detecting and Approximating Redundant Computational Blocks in Neural Networks'
+title: "Foundation Models on a Budget: Approximating Blocks in Large Vision Models"
 subtitle: ''
 summary: ''
 authors:
 - cannistraci
+- Simone Antonelli
+- Emanuele Palumbo
+- Thomas M. Sutter
 - rodola
 - Bastian Rieck
+- Julia E. Vogt
 tags: []
 categories: []
 date: '2024-10-11'
