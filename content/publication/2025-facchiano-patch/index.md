@@ -9,7 +9,7 @@ authors:
 - strano
 - crisostomi
 - tallini
-- Tommaso Mencattini
+- mencattini
 - Fabio Galasso
 - rodola
 

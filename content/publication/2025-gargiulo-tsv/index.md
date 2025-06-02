@@ -5,7 +5,7 @@ title: 'Task Singular Vectors: Reducing Task Interference in Model Merging'
 subtitle: ''
 summary: ''
 authors:
-- Antonio Andrea Gargiulo
+- gargiulo
 - crisostomi
 - Maria Sofia Bucarelli
 - Simone Scardapane

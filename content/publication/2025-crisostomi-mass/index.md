@@ -6,8 +6,8 @@ subtitle: ''
 summary: ''
 authors:
 - crisostomi
-- Alessandro Zirilli
-- Antonio Andrea Gargiulo
+- zirilli
+- gargiulo
 - Maria Sofia Bucarelli
 - Simone Scardapane
 - Fabrizio Silvestri

@@ -5,7 +5,7 @@ title: 'ATM: Improving Model Merging by Alternating Tuning and Merging'
 subtitle: ''
 summary: ''
 authors:
-- Luca Zhou
+- zhou
 - solombrino
 - crisostomi
 - Maria Sofia Bucarelli

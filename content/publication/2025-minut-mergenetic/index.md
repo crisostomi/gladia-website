@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - minut
-- Tommaso Mencattini
+- mencattini
 - santilli
 - crisostomi
 - rodola

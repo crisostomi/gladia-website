@@ -5,7 +5,7 @@ title: 'MERGE3: Efficient Evolutionary Merging on Consumer-grade GPUs'
 subtitle: ''
 summary: ''
 authors:
-- Tommaso Mencattini
+- mencattini
 - minut
 - crisostomi
 - santilli
