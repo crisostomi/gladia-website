@@ -19,6 +19,7 @@ content:
     - Principal Investigator
     - Postdocs
     - PhD Students
+    - Intern
     - Alumni
 design:
   show_interests: false

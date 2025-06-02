@@ -18,8 +18,9 @@ content:
   user_groups:
   - Principal Investigator
   - PhD Students
+  - Intern
   - Alumni
-  - Postdoc toral
+  # - Postdoctoral
 
 design:
   show_organizations: false
