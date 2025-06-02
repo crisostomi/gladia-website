@@ -26,7 +26,7 @@ bio: ""
 
 # Interests to show in About widget
 interests:
-  - Something
+  - model merging 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -37,15 +37,15 @@ social:
     icon_pack: fas
     link: 'mailto:'
 
-  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-  #   icon_pack: fas
-  #   link: https://scholar.google.it/citations?user=V-9JAEwAAAAJ&hl=it&oi=ao
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=2eVJ3A0AAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/
+    link: https://github.com/AntoAndGar
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/antonio-andrea-gargiulo
 
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
