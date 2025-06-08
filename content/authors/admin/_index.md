@@ -48,4 +48,12 @@ Reach out for collaborations, opportunities, or just to say hi!
       <!-- <p style="margin: 5px 0 0 0; font-size: 14px;">Description text goes here.</p> -->
     </div>
   </li>
+  <li style="width: 100%; margin-bottom: 0px; display: flex; align-items: center; padding-right: 10px; padding-left: 10px; height: 100px;" >
+    <img src="uploads/fis_rosso.png" style="max-width: 150px; height: auto; margin-right: 10px;"/>
+    <div style="flex: 1; min-width: 50px">
+      <h4 style="margin: 0; font-weight: 400;">FIS 2025 "NeXuS"</h4>
+      <!-- <p style="margin: 5px 0 0 0; font-size: 14px;">Description text goes here.</p> -->
+    </div>
+  </li>
+
 </ul>
