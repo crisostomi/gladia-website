@@ -1,6 +1,6 @@
 ---
 title: Giovanni Trappolini
-role: PostDoctoral Researcher, Sapienza University of Rome
+role: Assistant Professor, Sapienza University of Rome
 bio: ""
 interests:
   - Geometric Deep Learning
@@ -25,7 +25,7 @@ social:
     link: https://www.linkedin.com/in/giovanni-trappolini
   - icon: globe
     icon_pack: fas
-    link: https://sites.google.com/view/giovannitrappolini
+    link: https://coda.io/@giovanni-trappolini/giovanni-trappolini
 organizations:
   - name: Sapienza, University of Rome
     url: https://www.uniroma1.it/
@@ -40,7 +40,7 @@ last_name: Trappolini
 first_name: Giovanni
 ---
 
-Dr. Giovanni Trappolini is a postdoctoral researcher in the RSTLess lab led by Fabrizio Silvestri at Sapienza university.
+Dr. Giovanni Trappolini is an Assistant Professor in the RSTLess lab led by Fabrizio Silvestri at Sapienza university.
 Previously, he obtained his Ph.D. in Machine Learning under the Supervision of Emanuele Rodolà.
 Giovanni has been actively involved in cutting-edge research in deep learning to analyze geometric and multimodal data, focusing on integrating prior information in these models to improve their performance.
 He has published several peer-reviewed articles in leading conferences and journals, showcasing his contributions to the advancement of the field. 
