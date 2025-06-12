@@ -51,6 +51,6 @@ links:
   url : https://www.biorxiv.org/content/10.1101/2025.02.16.638500v1.abstract
 - icon: github
   icon_pack: fab
-  name: 'Code'
+  name: 'GitHub'
   url: https://tools.tartaglialab.com/rna_rna
 ---
