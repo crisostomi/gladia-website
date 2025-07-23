@@ -2,8 +2,8 @@
 # Display name
 title: Davide Marincione
 
-first_name: "Tommaso"
-last_name: "Mencattini"
+first_name: "Davide"
+last_name: "Marincione"
 
 status:
   icon: ""
@@ -36,7 +36,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:'
-
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=EMZK6eIAAAAJ
