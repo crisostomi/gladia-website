@@ -37,7 +37,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:marco.fumero@ist.ac.at'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/marco_fumero
