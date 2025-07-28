@@ -12,11 +12,11 @@ authors:
 - Francesco Locatello
 tags: []
 categories: []
-date: '2024-10-31'
+date: '2025-04-01'
 lastmod: 2024-10-31T:26:44
 featured: false
 draft: false
-publication_short: "Preprint"
+publication_short: "TMLR"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -34,10 +34,20 @@ image:
 projects: []
 publishDate: '2023-10-02T:26:44'
 publication_types:
-- '3'
+- '2'
 abstract: "When examined through the lens of their residual streams, a puzzling property emerges in transformer networks: residual contributions (e.g., attention heads) sometimes specialize in specific tasks or input attributes. In this paper, we analyze this phenomenon in vision transformers, focusing on the spectral geometry of residuals, and explore its implications for modality alignment in vision-language models. First, we link it to the intrinsically low-dimensional structure of visual head representations, zooming into their principal components and showing that they encode specialized roles across a wide variety of input data distributions. Then, we analyze the effect of head specialization in multimodal models, focusing on how improved alignment between text and specialized heads impacts zero-shot classification performance. This specialization-performance link consistently holds across diverse pre-training data, network sizes, and objectives, demonstrating a powerful new mechanism for boosting zero-shot classification through targeted alignment. Ultimately, we translate these insights into actionable terms by introducing ResiDual, a technique for spectral alignment of the residual stream. Much like panning for gold, it lets the noise from irrelevant unit principal components (i.e., attributes) wash away to amplify task-relevant ones. Remarkably, this dual perspective on modality alignment yields fine-tuning level performances on different data distributions while modeling an extremely interpretable and parameter-efficient transformation, as we extensively show on more than 50 (pre-trained network, dataset) pairs."
-publication: '*arXiv preprint*'
+publication: '*Transactions on Machine Learning Research*'
 links:
+- icon: link
+  icon_pack: fas
+  name: 'URL'
+  url: https://openreview.net/forum?id=z37LCgSIzI
+- name: PDF
+  url: https://openreview.net/pdf?id=z37LCgSIzI
 - name: 'arXiv'
   url : https://arxiv.org/abs/2411.00246
+- icon: github
+  icon_pack: fab
+  name: 'GitHub'
+  url: https://github.com/Flegyas/ResiDual
 ---
