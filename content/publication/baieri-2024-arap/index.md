@@ -1,22 +1,22 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Implicit-ARAP: Efficient Handle-Guided Deformation of High-Resolution Meshes and Neural Fields via Local Patch Meshing'
+title: 'Implicit-ARAP: Efficient Handle-Guided Neural Field Deformation via Local Patch Meshing'
 subtitle: ''
 summary: ''
 authors:
 - baieri
 - maggioli
-- Zorah Laehner
-- melzi
 - rodola
+- melzi
+- Zorah Laehner
 tags: []
 categories: []
-date: '2024-05-21'
+date: '2025-09-19'
 lastmod: 2023-10-02T:26:44
 featured: false
 draft: false
-publication_short: "Preprint"
+publication_short: "NeurIPS 2025"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -34,9 +34,9 @@ image:
 projects: []
 publishDate: '2023-10-02T:26:44'
 publication_types:
-- '3'
-abstract: "In this work, we present the local patch mesh representation for neural signed distance fields. This technique allows to discretize local regions of the level sets of an input SDF by projecting and deforming flat patch meshes onto the level set surface, using exclusively the SDF information and its gradient. Our analysis reveals this method to be more accurate than the standard marching cubes algorithm for approximating the implicit surface. Then, we apply this representation in the setting of handle-guided deformation: we introduce two distinct pipelines, which make use of 3D neural fields to compute As-Rigid-As-Possible deformations of both high-resolution meshes and neural fields under a given set of constraints. We run a comprehensive evaluation of our method and various baselines for neural field and mesh deformation which show both pipelines achieve impressive efficiency and notable improvements in terms of quality of results and robustness. With our novel pipeline, we introduce a scalable approach to solve a well-established geometry processing problem on high-resolution meshes, and pave the way for extending other geometric tasks to the domain of implicit surfaces via local patch meshing."
-publication: '*arXiv preprint*'
+- '1'
+abstract: "Neural fields have emerged as a powerful representation for 3D geometry, enabling compact and continuous modeling of complex shapes. Despite their expressive power, manipulating neural fields in a controlled and accurate manner – particularly under spatial constraints – remains an open challenge, as existing approaches struggle to balance surface quality, robustness, and efficiency. We address this by introducing a novel method for handle-guided neural field deformation, which leverages discrete local surface representations to optimize the As-Rigid-As-Possible deformation energy. To this end, we propose the local patch mesh representation, which discretizes level sets of a neural signed distance field by projecting and deforming flat mesh patches guided solely by the SDF and its gradient. We conduct a comprehensive evaluation showing that our method consistently outperforms baselines in deformation quality, robustness, and computational efficiency. We also present experiments that motivate our choice of discretization over marching cubes. By bridging classical geometry processing and neural representations through local patch meshing, our work enables scalable, high-quality deformation of neural fields and paves the way for extending other geometric tasks to neural domains."
+publication: '*Conference on Neural Information Processing Systems (NeurIPS 2025)*'
 links:
 - name: arXiv
   url : https://arxiv.org/abs/2405.12895
