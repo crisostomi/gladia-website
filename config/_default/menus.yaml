@@ -31,6 +31,9 @@ main:
   - name: Contact
     url: '#contact'
     weight: 60
+  - name: Blog
+    url: 'https://gladia-research-group.github.io/blog/'
+    weight: 60
 
 
 # Link to a PDF of your resume/CV from the menu.
