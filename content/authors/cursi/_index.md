@@ -9,12 +9,12 @@ status:
   icon: ""
 
 user_groups:
-  - Intern
+  - PhD Students
 
-superuser: true
+superuser: false
 
 # Role/position/tagline
-role: Research Intern
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
