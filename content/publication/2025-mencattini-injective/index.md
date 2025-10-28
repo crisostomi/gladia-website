@@ -12,8 +12,13 @@ authors:
 - Yannis Panagakis
 - rodola
 
+# Author notes (optional)
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
 
-tags: []
+tags: 
+- 'featured'
 categories: []
 date: '2025-10-21'
 lastmod: 2025-02-27T:26:44
