@@ -37,6 +37,10 @@ links:
   icon_pack: fas
   name: 'URL'
   url: https://openreview.net/forum?id=8YmupGWwvl
+- icon: github
+  icon_pack: fab
+  name: 'GitHub'
+  url: https://github.com/gladia-research-group/model-merging-NatureLM-audio
 
 publication: '*NeurIPS 2025 Workshop on AI for non-human animal communication*'
 ---
