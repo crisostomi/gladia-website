@@ -41,6 +41,9 @@ links:
   icon_pack: fab
   name: 'GitHub'
   url: https://github.com/gladia-research-group/model-merging-NatureLM-audio
+- icon: award
+  icon_pack: fas
+  name: 'Spotlight (top 15%)'
 
 publication: '*NeurIPS 2025 Workshop on AI for non-human animal communication*'
 ---
