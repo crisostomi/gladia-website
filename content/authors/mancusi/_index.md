@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Michele Mancusi
+role: PostDoctoral Researcher
 
 first_name: "Michele"
 last_name: "Mancusi"
@@ -9,12 +10,12 @@ status:
   icon: ""
 
 user_groups:
-  - Alumni
+  - Postdocs
 
 superuser: true
 
 # Role/position/tagline
-role: Senior Research Scientist, Moises 
+# role: Senior Research Scientist, Moises 
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -22,7 +23,7 @@ organizations:
     url: https://www.uniroma1.it/
 
 # Short bio (displayed in user profile at end of posts)
-bio: "PhD Student @SapienzaRoma CS | Intern @Musixmatch"
+bio: "PhD Student @SapienzaRoma CS | Intern @Musixmatch | Intern @Microsoft | Research Scientist @Sony | Senior Research Scientist @Moises"
 
 # Interests to show in About widget
 interests:
@@ -99,8 +100,8 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-As a Ph.D. candidate in Computer Science at Sapienza - University of Rome, I am part of the GLADIA research group under Professor Emanuele Rodolà. My passion for music drives my academic pursuits since I enjoy playing, listening, and exploring it from various points of view. I am particularly interested in applying artificial intelligence to signal processing, and I relish the interdisciplinary exchange of ideas and stimulation.
+As a Postdoc in Computer Science at Sapienza - University of Rome, I am part of the GLADIA research group under Professor Emanuele Rodolà. My passion for music drives my academic pursuits since I enjoy playing, listening, and exploring it from various points of view. I am particularly interested in applying artificial intelligence to signal processing, and I relish the interdisciplinary exchange of ideas and stimulation.
 
-I received a Bachelor's and a Master's degree in Physics (Quantum Information) at Sapienza, and nowadays, my research focus encompasses deep learning, source separation, and generative models such as autoregressive and diffusion models.
+I received a Bachelor's and a Master's degree in Physics (Quantum Information) and a PhD in Computer Science at Sapienza, and nowadays, my research focus encompasses deep learning, source separation, and generative models such as autoregressive and diffusion models.
 
 {style="text-align: justify;"}
