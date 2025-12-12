@@ -8,6 +8,8 @@ authors:
  - rodola
 ---
 
+*Progetto finanziato dal Fondo Italiano per la Scienza (FIS 2), Ministero dell’Università e della Ricerca. - Funded by the Italian Ministry of University and Research (MUR) under the Fondo Italiano per la Scienza (FIS 2) programme.*
+
 ### Machine Learning Models Can Share Knowledge. Let's Use That Power
 
 Humans would give anything to seamlessly transfer their thoughts and knowledge. Entire civilizations have been built on the slow, painstaking process of passing down information through language, writing, and education. But **machine learning (ML) models don't have this limitation**: they encode knowledge in structured representations that, if properly aligned, can be **shared, transferred, and repurposed instantly**.
@@ -32,6 +34,10 @@ NeXuS takes a different approach. We **shift the focus from parameters to repres
 - **Cross-model communication**: Different networks can share knowledge without requiring shared training data or fine-tuning.
 - **Architecture-agnostic inter-operability**: Models with different architectures and training histories can still collaborate.
 - **Multi-modal synergy**: Representations from text, images, audio, 3D data, and even neural signals can be bridged, enabling powerful cross-domain applications.
+
+### Expected Outcomes
+
+NeXuS aims to deliver new theoretical frameworks and practical methods for model inter-operability, including representation alignment techniques, training-free model merging strategies, and reusable model components that reduce computational and environmental costs in AI development.
 
 ### *Join Us: Open PhD and Postdoc Positions*
 
