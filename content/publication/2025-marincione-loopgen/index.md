@@ -5,7 +5,7 @@ title: "LoopGen: Training-Free Loopable Music Generation"
 subtitle: ''
 summary: ''
 authors:
-- Davide Marincione
+- marincione
 - strano
 - crisostomi
 - Roberto Ribuoli
