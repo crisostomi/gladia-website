@@ -1,6 +1,6 @@
 ---
 title: Riccardo Marin
-role: PostDoctoral Researcher, University of Tuebingen
+role: Assistant Professor, TU Munich
 bio: ""
 interests:
   - Artificial Intelligence
