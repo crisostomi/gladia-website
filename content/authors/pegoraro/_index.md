@@ -14,7 +14,7 @@ user_groups:
 superuser: true
 
 # Role/position/tagline
-role: PhD Student
+role: PostDoctoral Researcher, ISTA
 
 # Organizations/Affiliations to show in About widget
 organizations:

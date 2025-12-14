@@ -14,7 +14,7 @@ user_groups:
 superuser: true
 
 # Role/position/tagline
-role: PostDoctoral Researcher, Oxford University
+role: PostDoctoral Researcher, MIT
 
 # Organizations/Affiliations to show in About widget
 organizations:

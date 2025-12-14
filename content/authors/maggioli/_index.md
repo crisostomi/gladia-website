@@ -14,7 +14,7 @@ user_groups:
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Researcher, University of Milano-Bicocca
+role: Assistant Professor, Pegaso University
 
 # Organizations/Affiliations to show in About widget
 organizations:
