@@ -44,6 +44,10 @@ links:
   icon_pack: fab
   name: 'GitHub'
   url: https://github.com/AntoAndGar/task_singular_vectors
+- icon: twitter
+  icon_pack: fab
+  name: Thread
+  url: https://x.com/DonatoCrisosto1/status/1877014891195715624?s=20
 
 publication: '*The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (CVPR)*'
 ---
