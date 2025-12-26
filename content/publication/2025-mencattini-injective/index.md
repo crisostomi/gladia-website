@@ -40,6 +40,10 @@ abstract: "Transformer components such as non-linear activations and normalizati
 links:
 - name: arXiv
   url : https://arxiv.org/abs/2510.15511
+- icon: twitter
+  icon_pack: fab
+  name: Thread
+  url: https://x.com/GladiaLab/status/1982818213206315120?s=20
 
 publication: '*ArXiv preprint*'
 ---
