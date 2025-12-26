@@ -30,8 +30,8 @@ content:
   contact_links:
     - icon: github
       icon_pack: fab
-      name: Follow Us on GitHub!
-      link: 'https://github.com/gladia-research-group'
+      name: Follow Us on X!
+      link: 'https://x.com/GladiaLab'
 
   # Automatically link email and phone or display as text?
   autolink: true
