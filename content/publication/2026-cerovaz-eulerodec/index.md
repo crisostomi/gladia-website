@@ -38,6 +38,4 @@ publication: '*Proc. ICASSP*'
 links:
 - name: arXiv
   url : https://www.arxiv.org/abs/2601.17517
-- icon: github
-  icon_pack: fab
 ---
