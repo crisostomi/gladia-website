@@ -13,11 +13,11 @@ summary: ""
 abstract: ""
 
 
-date: '2026-1-17T17:00:00Z'  # REPLACE WITH THE CORRECT DATE HERE 
+date: '2026-01-17T17:00:00Z'
 
 all_day: true
 
-publishDate: '2026-1-17T17:00:00Z'
+publishDate: '2026-01-17T17:00:00Z'
 
 tags: []
 
