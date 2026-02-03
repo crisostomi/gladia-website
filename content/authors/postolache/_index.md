@@ -14,7 +14,7 @@ user_groups:
 superuser: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist, IRIS Audio
+role: Lead Machine Learning Researcher, IRIS Audio
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -22,11 +22,14 @@ organizations:
     url: https://iris.audio/
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Senior AI Research Scientist @ Iris Audio"
+bio: "Lead Machine Learning Researcher @ Iris Audio"
 
 # Interests to show in About widget
 interests:
-  - Knowledge distillation
+  - Tiny ML
+  - Speech Enhancement
+  - Audio Super Resolution
+  - Sequence models
   - Generative models
   - Signal processing
   - Source separation
@@ -65,5 +68,5 @@ email: 'emilian@shapedbyiris.com'
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-Senior AI Research Scientist @ Iris Audio Technologies. Previous: Sapienza University of Rome (PhD), Ca' Foscari University of Venice (PostDoc), Queen Mary University of London (Visitor), Dolby Labs (Intern) and Sony CSL Tokyo (Intern).
+Lead Machine Learning Researcher @ Iris Audio Technologies. Previous: Sapienza University of Rome (PhD), Ca' Foscari University of Venice (PostDoc), Queen Mary University of London (Visitor), Dolby Labs (Intern) and Sony CSL Tokyo (Intern).
 {style="text-align: justify;"}
