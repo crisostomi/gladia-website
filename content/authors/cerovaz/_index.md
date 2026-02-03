@@ -28,6 +28,7 @@ bio: ""
 interests:
   - Music Generation 
   - Generative Models
+  - Representation Learning
 
 
 # Social/Academic Networking
@@ -56,6 +57,6 @@ email: ''
 highlight_name: false
 ---
 
-Hello, I'm Luca, an undergraduate student in Mathematical Sciences for Artificial Intelligence at Sapienza University of Rome. My passion for music began when I picked up the piano as a child. After several years of classical training, I moved behind the DJ booth—spinning tracks and working for some time as a DJ. Today, I fuse those hands-on audio roots with deep learning, focusing on audio codecs, signal processing, and music representations, all while deliberately experimenting with creative pipelines.
+Hello, I'm Luca, an undergraduate student in Mathematical Sciences for Artificial Intelligence at Sapienza University of Rome. My passion for music began when I picked up the piano as a child. After several years of classical training, I moved behind the DJ booth-spinning tracks and working for some time as a DJ. Today, I fuse those hands-on audio roots with deep learning, focusing on audio codecs, signal processing, and music representations, all while deliberately experimenting with creative pipelines.
 
 {style="text-align: justify;"}
