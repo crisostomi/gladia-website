@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Humanity's Last Exam
+title: 'A benchmark of expert-level academic questions to assess AI capabilities'
 subtitle: ''
 summary: ''
 authors:
@@ -17,17 +17,19 @@ tags:
 - Machine Learning (stat.ML)
 
 categories: []
-date: '2025-01-24'
+date: '2026-02-03'
 lastmod: 2022-03-31T14:18:10+02:00
 featured: false
 draft: false
-publication_short: "Preprint"
+publication_short: "Nature"
 
 links:
 - icon: link
   icon_pack: fas
   name: 'URL'
   url: https://lastexam.ai/
+- name: 'PDF'
+  url: https://www.nature.com/articles/s41586-025-09962-4
 - icon: github
   icon_pack: fab
   name: 'GitHub'
@@ -52,8 +54,8 @@ image:
 projects: []
 publishDate: '2022-03-31T12:18:10.158476Z'
 publication_types:
-- '3'
-abstract: "Benchmarks are important tools for tracking the rapid advancements in large language model (LLM) capabilities. However, benchmarks are not keeping pace in difficulty: LLMs now achieve over 90% accuracy on popular benchmarks like MMLU, limiting informed measurement of state-of-the-art LLM capabilities. In response, we introduce HUMANITY'S LAST EXAM (HLE), a multi-modal benchmark at the frontier of human knowledge, designed to be the final closed-ended academic benchmark of its kind with broad subject coverage. HLE consists of 3,000 questions across dozens of subjects, including mathematics, humanities, and the natural sciences. HLE is developed globally by subject-matter experts and consists of multiple-choice and short-answer questions suitable for automated grading. Each question has a known solution that is unambiguous and easily verifiable, but cannot be quickly answered via internet retrieval. State-of-the-art LLMs demonstrate low accuracy and calibration on HLE, highlighting a significant gap between current LLM capabilities and the expert human frontier on closed-ended academic questions."
-publication: '*arXiv*'
+- '2'
+abstract: "Benchmarks are important tools for tracking the rapid advancements in large language model (LLM) capabilities. However, benchmarks are not keeping pace in difficulty: LLMs now achieve more than 90% accuracy on popular benchmarks such as Measuring Massive Multitask Language Understanding1, limiting informed measurement of state-of-the-art LLM capabilities. Here, in response, we introduce Humanity's Last Exam (HLE), a multi-modal benchmark at the frontier of human knowledge, designed to be an expert-level closed-ended academic benchmark with broad subject coverage. HLE consists of 2,500 questions across dozens of subjects, including mathematics, humanities and the natural sciences. HLE is developed globally by subject-matter experts and consists of multiple-choice and short-answer questions suitable for automated grading. Each question has a known solution that is unambiguous and easily verifiable but cannot be quickly answered by internet retrieval. State-of-the-art LLMs demonstrate low accuracy and calibration on HLE, highlighting a marked gap between current LLM capabilities and the expert human frontier on closed-ended academic questions."
+publication: '*Nature 2026*'
 
 ---
