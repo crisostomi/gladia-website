@@ -5,7 +5,7 @@ title: "Language Models are Injective and Hence Invertible"
 subtitle: ''
 summary: ''
 authors:
-- Giorgos Nikolaou
+- nikolaou
 - mencattini
 - crisostomi
 - santilli
@@ -24,7 +24,7 @@ date: '2025-10-21'
 lastmod: 2025-02-27T:26:44
 featured: false
 draft: false
-publication_short: "Preprint"
+publication_short: "ICLR 2026"
 
 image:
   caption: ''
@@ -45,5 +45,5 @@ links:
   name: Thread
   url: https://x.com/GladiaLab/status/1982818213206315120?s=20
 
-publication: '*ArXiv preprint*'
+publication: '*ICLR 2026*'
 ---

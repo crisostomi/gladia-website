@@ -17,7 +17,7 @@ date: '2025-05-29'
 lastmod: 2024-10-11T:26:44
 featured: false
 draft: false
-publication_short: "Preprint"
+publication_short: "ICLR 2026"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -37,7 +37,7 @@ publishDate: '2023-10-02T:26:44'
 publication_types:
 - '3'
 abstract: "CLIP is a discriminative model trained to align images and text in a shared embedding space. Due to its multimodal structure, it serves as the backbone of many generative pipelines, where a decoder is trained to map from the shared space back to images. In this work, we show that image synthesis is nevertheless possible using CLIP alone -- without any decoder, training, or fine-tuning. Our approach optimizes a frequency-aware implicit neural representation that encourages coarse-to-fine generation by stratifying frequencies across network layers. To stabilize this inverse mapping, we introduce adversarially robust initialization, a lightweight Orthogonal Procrustes projection to align local text and image embeddings, and a blending loss that anchors outputs to natural image statistics. Without altering CLIP's weights, this framework unlocks capabilities such as text-to-image generation, style transfer, and image reconstruction. These findings suggest that discriminative models may hold untapped generative potential, hidden in plain sight."
-publication: '*arXiv preprint*'
+publication: '*ICLR 2026*'
 links:
 - name: 'arXiv'
   url : https://arxiv.org/abs/2505.23161

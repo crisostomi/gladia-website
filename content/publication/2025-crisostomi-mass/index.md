@@ -26,7 +26,7 @@ date: '2025-04-06'
 lastmod: 2025-02-27T:26:44
 featured: false
 draft: false
-publication_short: "Preprint"
+publication_short: "ICLR 2026"
 
 image:
   caption: ''
@@ -43,5 +43,5 @@ links:
 - name: arXiv
   url : https://arxiv.org/abs/2504.05342
 
-publication: '*ArXiv preprint*'
+publication: '*ICLR 2026*'
 ---
