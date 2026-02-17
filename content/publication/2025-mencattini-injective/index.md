@@ -20,7 +20,7 @@ author_notes:
 tags: 
 - 'featured'
 categories: []
-date: '2025-10-21'
+date: '2026-01-26'
 lastmod: 2025-02-27T:26:44
 featured: false
 draft: false
@@ -34,7 +34,7 @@ image:
 projects: []
 publishDate: '2025-27-02T:26:44'
 publication_types:
-- '3'
+- '1'
 abstract: "Transformer components such as non-linear activations and normalization are inherently non-injective, suggesting that different inputs could map to the same output and prevent exact recovery of the input from a model's representations. In this paper, we challenge this view. First, we prove mathematically that transformer language models mapping discrete input sequences to their corresponding sequence of continuous representations are injective and therefore lossless, a property established at initialization and preserved during training. Second, we confirm this result empirically through billions of collision tests on six state-of-the-art language models, and observe no collisions. Third, we operationalize injectivity: we introduce SipIt, the first algorithm that provably and efficiently reconstructs the exact input text from hidden activations, establishing linear-time guarantees and demonstrating exact invertibility in practice. Overall, our work establishes injectivity as a fundamental and exploitable property of language models, with direct implications for transparency, interpretability, and safe deployment."
 
 links:
@@ -45,5 +45,5 @@ links:
   name: Thread
   url: https://x.com/GladiaLab/status/1982818213206315120?s=20
 
-publication: '*ICLR 2026*'
+publication: '*International Conference on Learning Representations (ICLR 2026)*'
 ---
