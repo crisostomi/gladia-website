@@ -11,7 +11,7 @@ authors:
 - Francesco Locatello
 tags: []
 categories: []
-date: '2025-05-28'
+date: '2026-01-27'
 lastmod: 2024-10-11T:26:44
 featured: false
 draft: false
@@ -33,10 +33,14 @@ image:
 projects: []
 publishDate: '2023-10-02T:26:44'
 publication_types:
-- '3'
+- '1'
 abstract: "Neural networks transform high-dimensional data into compact, structured representations, often modeled as elements of a lower dimensional latent space. In this paper, we present an alternative interpretation of neural models as dynamical systems acting on the latent manifold. Specifically, we show that autoencoder models implicitly define a latent vector field on the manifold, derived by iteratively applying the encoding-decoding map, without any additional training. We observe that standard training procedures introduce inductive biases that lead to the emergence of attractor points within this vector field. Drawing on this insight, we propose to leverage the vector field as a representation for the network, providing a novel tool to analyze the properties of the model and the data. This representation enables to: (i) analyze the generalization and memorization regimes of neural models, even throughout training; (ii) extract prior knowledge encoded in the network's parameters from the attractors, without requiring any input data; (iii) identify out-of-distribution samples from their trajectories in the vector field. We further validate our approach on vision foundation models, showcasing the applicability and effectiveness of our method in real-world scenarios."
-publication: '*ICLR 2026 (Oral)*'
+publication: '*International Conference on Learning Representations (ICLR 2026)*'
 links:
 - name: 'arXiv'
   url : https://arxiv.org/abs/2505.22785
+- icon: award
+  icon_pack: fas
+  name: 'ICLR 2026 Oral'
+  url: https://iclr.cc/virtual/2026/
 ---
