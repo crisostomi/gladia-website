@@ -14,7 +14,7 @@ user_groups:
 superuser: true
 
 # Role/position/tagline
-role: Research Scientist, Nous Research
+role: Senior Research Engineer, NVIDIA
 
 # Organizations/Affiliations to show in About widget
 organizations:
