@@ -46,7 +46,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/davide-marincione/
   - icon: globe-americas
-    icon_pack: fab
+    icon_pack: fas
     link: https://davide-f5-marincione.github.io/davide-marincione.github.io/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
