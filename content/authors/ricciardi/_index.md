@@ -14,7 +14,7 @@ user_groups:
 superuser: true
 
 # Role/position/tagline
-role: PostDoctoral Researcher
+role: Computer Vision Researcher, Toyota
 
 # Organizations/Affiliations to show in About widget
 organizations:
