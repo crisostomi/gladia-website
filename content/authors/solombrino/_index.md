@@ -22,13 +22,12 @@ organizations:
     url: https://www.uniroma1.it/
 
 # Short bio (displayed in user profile at end of posts)
-bio: "🎓 Deep Learning PhD student @ 🎭 GLADIA (Sapienza) || 🔬 Research in 🧪 model merging, 🎶 audio gen, 🖌️ music edit."
+bio: "🎓 Deep Learning PhD student @ 🎭 GLADIA (Sapienza) || 🔬 Research in ✂️ model quantization and 🌊 diffusion models."
 
 # Interests to show in About widget
 interests:
-  - Model merging
-  - Audio generation
-  - Music editing
+  - Model quantization
+  - Diffusion models
   - High-performance computing
 
 # Social/Academic Networking
@@ -51,7 +50,7 @@ social:
     link: https://github.com/dansolombrino
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/daniele-solombrino/
+    link: https://www.linkedin.com/in/dansolombrino/
 
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
@@ -69,10 +68,8 @@ highlight_name: false
 
 
 {style="text-align: justify;"}
-I am a PhD student at GLADIA Research Group, under the supervision of Prof. Emanuele Rodolà (Sapienza University of Rome).
+I am a PhD student at the GLADIA Research Group, under the supervision of Prof. Emanuele Rodolà at Sapienza University of Rome.
 
-My current research centers on model merging, and I'm also planning to dive into audio generation and music editing.
+My research focuses on model quantization and diffusion models, drawing inspiration from my past experience in model merging and steering, as well as from ideas in adjacent fields.
 
-During my BSc in Computer Science, I got really interested in High-performance computing and GPU programming, which pushed me to pursue an MSc focused on deep learning. In my master's, I worked on applying AI to music, medical images, and natural language, while also exploring techniques like transfer learning, heterogeneous knowledge distillation, and disentangled representation learning.
-
-I am fan of minimalism, growth, mindfulness, and EDM music.
+When I am not cooking experiments, I like to understand the underlying mechanisms of the world, spanning from psychology to philosophy, passing through science and economy. Drop me a message if you wanna recommend banger EDM or hardstyle songs!
