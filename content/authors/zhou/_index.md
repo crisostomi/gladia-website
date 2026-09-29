@@ -26,11 +26,9 @@ bio: ""
 
 # Interests to show in About widget
 interests:
-  - modular DL
-  - model merging
-  - LLMs
-  - Time Series Analysis
-
+  - Multimodal Language Models
+  - Model Merging
+  - Mechanistic Interpretability
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -70,6 +68,6 @@ highlight_name: false
 
 
 {style="text-align: justify;"}
-I'm an incoming PhD student interested in modular deep learning, model merging, time series analysis, and LLMs. I’m passionate about building flexible and generalizable AI systems that can be assembled in a data-free manner, so that large models can become highly adaptable, scalable, and fun to play with like Lego blocks.
+My research primarily focuses on multimodal language models and model merging. I aim to build methods and tools that make large models more adaptable, composable, and interpretable. I’m also keen on discovering weaknesses of SOTA models through challenging benchmarks.
 
-Outside of academics, I enjoy practicing competitive sports and photography.
+Outside the lab, I stay active through sports and explore my creativity through photography and music.
