@@ -1,7 +1,7 @@
 ---
 title: Donato Crisostomi
-role: 
-bio: My research interests revolve around artificial intelligence, in particular mechanistic interpretability, model merging and representational alignment.
+role: Anthropic Safety Fellow
+bio: Mostly doing technical AI safety, model merging and representational alignment.
 
 interests:
   - Mechanistic Interpretability
