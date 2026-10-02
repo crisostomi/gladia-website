@@ -1,6 +1,6 @@
 ---
 title: Donato Crisostomi
-role: PostDoctoral Researcher
+role: 
 bio: My research interests revolve around artificial intelligence, in particular mechanistic interpretability, model merging and representational alignment.
 
 interests:
@@ -33,7 +33,7 @@ organizations:
 email: ""
 superuser: true
 user_groups:
-  - Postdocs
+  - Alumni
 status:
   icon: ""
 last_name: Crisostomi
